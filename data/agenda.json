@@ -1,0 +1,1965 @@
+{
+ "data": {
+  "events": [
+   {
+    "category": "Activitats virtuals",
+    "end": "2026-12-15",
+    "free": true,
+    "place": "Arxiu Nacional de Catalunya",
+    "source": "gencat",
+    "start": "2025-11-25",
+    "time": "De dilluns a dijous: de 9 a 18.30 h Divendres: de 9 a 17 h",
+    "title": "Exposició \"Les parets criden: Franco ha mort!\"",
+    "url": ""
+   },
+   {
+    "category": "Exposicions",
+    "end": "2027-01-10",
+    "place": "Centre Grau-Garriga d’Art Tèxtil Contemporani (Can Quitèria)",
+    "source": "ajuntament",
+    "start": "2026-05-14",
+    "time": "10:00",
+    "title": "Exposició. \"Frenar l'acceleració. Residències i resistències artístiques a Casa Aymat 2019-2025\"",
+    "url": "https://www.santcugat.cat/activitat/exposicio-frenar-lacceleracio-residencies-i-resistencies-artistiques-a-casa-aymat"
+   },
+   {
+    "category": "Exposicions",
+    "end": "2026-11-30",
+    "free": false,
+    "place": "Pastisseria Sàbat",
+    "source": "gencat",
+    "start": "2026-06-19",
+    "time": "",
+    "title": "Un museu fora del museu",
+    "url": ""
+   },
+   {
+    "category": "Exposicions",
+    "end": "2027-01-10",
+    "place": "Museu del Còmic",
+    "source": "ajuntament",
+    "start": "2026-07-14",
+    "time": "10:00",
+    "title": "Exposició. \"Monstres de paper\"",
+    "url": "https://www.santcugat.cat/activitat/exposicio-monstres-de-paper"
+   },
+   {
+    "category": "Exposicions",
+    "end": "2026-11-30",
+    "free": false,
+    "place": "Canals Galeria d'Art",
+    "source": "gencat",
+    "start": "2026-09-01",
+    "time": "De dimarts a divendres: de 18 a 20 h",
+    "title": "Exposició \"Maria Girona i el tapís\"",
+    "url": ""
+   },
+   {
+    "category": "Exposicions",
+    "end": "2027-02-27",
+    "place": "Casa Museu Cal Gerrer",
+    "source": "ajuntament",
+    "start": "2026-09-03",
+    "time": "10:30",
+    "title": "Exposició. \"Pintors per la Marilyn\"",
+    "url": "https://www.santcugat.cat/activitat/exposicio-pintors-per-la-marilyn"
+   },
+   {
+    "category": "Exposicions",
+    "end": "2027-05-31",
+    "place": "Espai públic",
+    "source": "ajuntament",
+    "start": "2026-09-07",
+    "time": "10:00",
+    "title": "Exposició. \"Casa Aymat. 100 anys\"",
+    "url": "https://www.santcugat.cat/activitat/exposicio-casa-aymat-100-anys"
+   },
+   {
+    "category": "Exposicions",
+    "end": "2026-12-13",
+    "place": "Museu del Monestir",
+    "source": "ajuntament",
+    "start": "2026-09-16",
+    "time": "10:30",
+    "title": "Exposició. \"La ciutat que m'habita\", de Paco Minuesa",
+    "url": "https://www.santcugat.cat/activitat/exposicio-la-ciutat-que-mhabita-de-paco-minuesa"
+   },
+   {
+    "category": "Exposicions",
+    "end": "2026-11-21",
+    "place": "Casa de Cultura",
+    "source": "ajuntament",
+    "start": "2026-09-17",
+    "time": "10:00",
+    "title": "Exposició. \"Artificial\", de Jordi Gispert",
+    "url": "https://www.santcugat.cat/activitat/exposicio-artificial-de-jordi-gispert"
+   },
+   {
+    "category": "Exposicions",
+    "end": "2026-11-21",
+    "place": "Biblioteca Central Gabriel Ferrater",
+    "source": "ajuntament",
+    "start": "2026-10-01",
+    "time": "10:00",
+    "title": "Exposició: Olis sobre paper. Homenatge a Susanna Rafart",
+    "url": "https://www.santcugat.cat/activitat/exposicio-olis-sobre-paper-homenatge-a-susanna-rafart"
+   },
+   {
+    "category": "Exposicions",
+    "end": "2026-12-08",
+    "place": "Museu del Monestir",
+    "source": "ajuntament",
+    "start": "2026-10-02",
+    "time": "10:30",
+    "title": "Exposició. \"Danseu, danseu, o estareu perdudes!\", a cura de Carla Jaria",
+    "url": "https://www.santcugat.cat/activitat/exposicio-danseu-danseu-o-estareu-perdudes-a-cura-de-carla-jaria"
+   },
+   {
+    "category": "Exposicions",
+    "end": "2026-12-15",
+    "place": "Espai Lluís Ribas",
+    "source": "ajuntament",
+    "start": "2026-10-14",
+    "time": "12:00",
+    "title": "Exposició. \"A aquestes dones\", de Lluís Ribas",
+    "url": "https://www.santcugat.cat/activitat/exposicio-a-aquestes-dones-de-lluis-ribas"
+   },
+   {
+    "category": "Exposicions",
+    "end": "2026-11-21",
+    "place": "Abacus",
+    "source": "ajuntament",
+    "start": "2026-10-19",
+    "time": "09:30",
+    "title": "Exposició. \"Hijos del hierro\", de Laura Pina",
+    "url": "https://www.santcugat.cat/activitat/exposicio-hijos-del-hierro-de-laura-pina"
+   },
+   {
+    "category": "Exposicions",
+    "end": "2026-12-13",
+    "place": "Centre Grau-Garriga d’Art Tèxtil Contemporani (Can Quitèria)",
+    "source": "ajuntament",
+    "start": "2026-10-22",
+    "time": "10:00",
+    "title": "Exposició. \"Punt i a part\", de Teresa Sil",
+    "url": "https://www.santcugat.cat/activitat/exposicio-punt-i-a-part-de-teresa-sil"
+   },
+   {
+    "category": "Exposicions",
+    "end": "2026-11-27",
+    "place": "Places de Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-10-27",
+    "time": "10:00",
+    "title": "Exposició del TOT Fotoportada 2026",
+    "url": "https://www.santcugat.cat/activitat/exposicio-del-tot-fotoportada-2026"
+   },
+   {
+    "category": "Exposicions",
+    "end": "2026-12-01",
+    "place": "Sala Rusiñol",
+    "source": "ajuntament",
+    "start": "2026-10-29",
+    "time": "10:00",
+    "title": "Exposició. \"Burs-Urbs. La ciutat transformada per la mirada\", d'Imma Pueyo",
+    "url": "https://www.santcugat.cat/activitat/exposicio-burs-urbs-la-ciutat-transformada-per-la-mirada-dimma-pueyo"
+   },
+   {
+    "category": "Exposicions",
+    "end": "2026-12-01",
+    "free": false,
+    "place": "Sala Rusiñol",
+    "source": "gencat",
+    "start": "2026-10-29",
+    "time": "De dilluns a divendres: de 10 a 14 h i de 17 a 20 h Dissabtes: de 10 a 14 h Diumenges i fe",
+    "title": "Exposició \"Burs-Urbs\"",
+    "url": ""
+   },
+   {
+    "category": "Exposicions",
+    "end": "2026-11-27",
+    "place": "Biblioteca de Volpelleres Miquel Batllori",
+    "source": "ajuntament",
+    "start": "2026-11-02",
+    "time": "16:00",
+    "title": "Exposició projecte fotollibre 'Una llar a l'exili' de Dani Aguilera",
+    "url": "https://www.santcugat.cat/activitat/exposicio-una-llar-a-lexili"
+   },
+   {
+    "category": "Exposicions",
+    "end": "2026-12-12",
+    "place": "Oficina d'Atenció Ciutadana",
+    "source": "ajuntament",
+    "start": "2026-11-03",
+    "time": "08:00",
+    "title": "Exposició. \"Casa Aymat. Documents per la memòria\"",
+    "url": "https://www.santcugat.cat/activitat/exposicio-casa-aymat-documents-per-la-memoria"
+   },
+   {
+    "category": "Exposicions",
+    "end": "2026-11-29",
+    "place": "L'Ateneu",
+    "source": "ajuntament",
+    "start": "2026-11-03",
+    "time": "10:00",
+    "title": "Exposició. \"Homenatge a Gaudí\", de Firart",
+    "url": "https://www.santcugat.cat/activitat/exposicio-homenatge-a-gaudi-de-firart"
+   },
+   {
+    "category": "Exposicions",
+    "end": "2026-11-29",
+    "place": "Museu del Còmic",
+    "source": "ajuntament",
+    "start": "2026-11-03",
+    "time": "10:00",
+    "title": "Exposició. \"Traços emergents: Roger Rigol\"",
+    "url": "https://www.santcugat.cat/activitat/exposicio-tracos-emergents-roger-rigol"
+   },
+   {
+    "category": "Exposicions",
+    "end": "2027-05-31",
+    "place": "Casa Aymat",
+    "source": "ajuntament",
+    "start": "2026-11-05",
+    "time": "09:00",
+    "title": "NOVA DATA D'INICI! Exposició. \"La Manufactura Aymat. Un viatge en el temps\"",
+    "url": "https://www.santcugat.cat/activitat/exposicio-la-manufactura-aymat-un-viatge-en-el-temps"
+   },
+   {
+    "category": "Exposicions",
+    "end": "2026-11-27",
+    "place": "L'Ateneu",
+    "source": "ajuntament",
+    "start": "2026-11-06",
+    "time": "09:15",
+    "title": "Exposició. \"Petits somnis, grans destins\", de la Fundació ONGD Dream Nepal",
+    "url": "https://www.santcugat.cat/activitat/exposicio-petits-somnis-grans-destins-de-la-fundacio-ongd-dream-nepal"
+   },
+   {
+    "category": "Exposicions",
+    "end": "2026-12-31",
+    "place": "Canals Galeria d'Art (c. d'Orient, 24)",
+    "source": "ajuntament",
+    "start": "2026-11-10",
+    "time": "10:00",
+    "title": "Exposició. \"Argimon i Grau-Garriga: Sant Cugat, territori d’avantguarda\"",
+    "url": "https://www.santcugat.cat/activitat/exposicio-argimon-i-grau-garriga-sant-cugat-territori-davantguarda"
+   },
+   {
+    "category": "Cursos i tallers",
+    "end": "2026-11-19",
+    "place": "Casa de Cultura",
+    "source": "ajuntament",
+    "start": "2026-11-19",
+    "time": "18:00",
+    "title": "Taller. \"Soc menopàusica, i què?\"",
+    "url": "https://www.santcugat.cat/activitat/taller-soc-menopausica-i-que"
+   },
+   {
+    "category": "Música",
+    "end": "2026-11-19",
+    "place": "L'Ateneu",
+    "source": "ajuntament",
+    "start": "2026-11-19",
+    "time": "19:00",
+    "title": "Concert \"La Cambra de l'Ateneu\". Les Tarannà",
+    "url": "https://www.santcugat.cat/activitat/concert-la-cambra-de-lateneu-les-taranna"
+   },
+   {
+    "category": "Concursos i premis",
+    "end": "2026-11-19",
+    "place": "Restaurant Masia Can Ametller",
+    "source": "ajuntament",
+    "start": "2026-11-19",
+    "time": "19:30",
+    "title": "VIII Premis ADE Vallès",
+    "url": "https://www.santcugat.cat/activitat/viii-premis-ade-valles"
+   },
+   {
+    "category": "Música",
+    "end": "2026-11-19",
+    "place": "Casal Torreblanca (Bar Bocamoll)",
+    "source": "ajuntament",
+    "start": "2026-11-19",
+    "time": "20:00",
+    "title": "La Pua - Música de Petit Format. Eli Escoda",
+    "url": "https://www.santcugat.cat/activitat/la-pua-musica-de-petit-format-eli-escoda"
+   },
+   {
+    "category": "Infància",
+    "end": "2026-11-20",
+    "place": "Casal Mira-sol",
+    "source": "ajuntament",
+    "start": "2026-11-20",
+    "time": "17:00",
+    "title": "Decorem el Casal: Entre tots i totes, omplim el Casal d'estrelles i màgia de Nadal!",
+    "url": "https://www.santcugat.cat/activitat/decorem-el-casal-entre-tots-i-totes-omplim-el-casal-destrelles-i-magia-de-nadal"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2026-11-20",
+    "place": "Museu del Monestir",
+    "source": "ajuntament",
+    "start": "2026-11-20",
+    "time": "17:00",
+    "title": "Teatre al Museu. \"La casa de Bernarda Alba\" - 1a sessió",
+    "url": "https://www.santcugat.cat/activitat/teatre-al-museu-la-casa-de-bernarda-alba"
+   },
+   {
+    "category": "Infància",
+    "end": "2026-11-20",
+    "place": "Casa de Cultura",
+    "source": "ajuntament",
+    "start": "2026-11-20",
+    "time": "17:30",
+    "title": "Diverdivendres. \"Dibuix a l'aire\"",
+    "url": "https://www.santcugat.cat/activitat/diverdivendres-dibuix-a-laire"
+   },
+   {
+    "category": "Infància",
+    "end": "2026-11-20",
+    "place": "Casal les Planes",
+    "source": "ajuntament",
+    "start": "2026-11-20",
+    "time": "17:30",
+    "title": "Diverdivendres. \"Els calaixos del cel\"",
+    "url": "https://www.santcugat.cat/activitat/diverdivendres-els-calaixos-del-cel"
+   },
+   {
+    "category": "Conferències",
+    "end": "2026-11-20",
+    "place": "Associació de Propietaris i Veïns de la Floresta Pearson",
+    "source": "ajuntament",
+    "start": "2026-11-20",
+    "time": "18:00",
+    "title": "Xerrada. \"El baixador de la Floresta-Pearson: motor de la gestació del barri\"",
+    "url": "https://www.santcugat.cat/activitat/xerrada-el-baixador-de-la-floresta-pearson-motor-de-la-gestacio-del-barri"
+   },
+   {
+    "category": "Actes literaris",
+    "end": "2026-11-20",
+    "place": "Centre Social i Sanitari la Floresta",
+    "source": "ajuntament",
+    "start": "2026-11-20",
+    "time": "19:00",
+    "title": "\"Memòria contra el feixisme\". Conversa amb Paco Niebla, autor del llibre \"La Protestante. Ojos azules, corazón rojo\"",
+    "url": "https://www.santcugat.cat/activitat/memoria-contra-el-feixisme-conversa-amb-paco-niebla-autor-del-llibre-la-protestante-ojos-azules-corazon-rojo"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2026-11-20",
+    "place": "L'Ateneu",
+    "source": "ajuntament",
+    "start": "2026-11-20",
+    "time": "19:00",
+    "title": "ComunarESS. Teatre íntim: \"Malas hierbas\", de La Simbiòtica",
+    "url": "https://www.santcugat.cat/activitat/comunaress-teatre-intim-malas-hierbas-de-la-simbiotica"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2026-11-20",
+    "place": "Museu del Monestir",
+    "source": "ajuntament",
+    "start": "2026-11-20",
+    "time": "19:00",
+    "title": "Teatre al Museu. \"La casa de Bernarda Alba\" - 2a sessió",
+    "url": "https://www.santcugat.cat/activitat/teatre-al-museu-la-casa-de-bernarda-alba-2"
+   },
+   {
+    "category": "Música",
+    "end": "2026-11-20",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-11-20",
+    "time": "20:00",
+    "title": "Concert de l'OSSC. La 2a de Sibelius",
+    "url": "https://www.santcugat.cat/activitat/concert-de-lossc-la-2a-de-sibelius"
+   },
+   {
+    "category": "Fires i mercats",
+    "end": "2026-11-21",
+    "place": "L'Ateneu",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "09:00",
+    "title": "Mercat de Pagès de Mira-sol",
+    "url": "https://www.santcugat.cat/activitat/mercat-de-pages-de-mira-sol610"
+   },
+   {
+    "category": "Fires i mercats",
+    "end": "2026-11-21",
+    "place": "Plaça del Mercat de Volpelleres",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "09:00",
+    "title": "Mercat de Pagès de Volpelleres",
+    "url": "https://www.santcugat.cat/activitat/mercat-de-pages-de-volpelleres91"
+   },
+   {
+    "category": "Fires i mercats",
+    "end": "2026-11-21",
+    "place": "Escola Joan Maragall",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "09:30",
+    "title": "24è Mercat de puces de l'escola Joan Maragall",
+    "url": "https://www.santcugat.cat/activitat/24e-mercat-de-puces-de-lescola-joan-maragall"
+   },
+   {
+    "category": "Esports",
+    "end": "2026-11-21",
+    "place": "DiR Sant Cugat (carretera de Rubí, 76–80)",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "10:00",
+    "title": "12a Cursa DiR Mossos d’Esquadra Sant Cugat. DiR Kids Race",
+    "url": "https://www.santcugat.cat/activitat/12a-cursa-dir-mossos-desquadra-sant-cugat"
+   },
+   {
+    "category": "Infància",
+    "end": "2026-11-21",
+    "place": "Parc Ramon Barnils",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "10:00",
+    "title": "Festa del Dia Mundial de la Infància",
+    "url": "https://www.santcugat.cat/activitat/festadiainfancia2026"
+   },
+   {
+    "category": "Rutes i visites",
+    "end": "2026-11-21",
+    "place": "Oficina de Turisme Sant Cugat del Vallès",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "10:00",
+    "title": "Visita guiada al Monestir de Sant Cugat. El més poderós del comtat de Barcelona",
+    "url": "https://www.santcugat.cat/activitat/visita-guiada-al-monestir-de-sant-cugat-el-mes-poderos-del-comtat-de-barcelona513"
+   },
+   {
+    "category": "Cursos i tallers",
+    "end": "2026-11-21",
+    "place": "Biblioteca de Volpelleres Miquel Batllori",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "10:30",
+    "title": "Grup de pares. Acompanyament a la criança",
+    "url": "https://www.santcugat.cat/activitat/grup-de-pares-acompanyament-a-la-crianca6"
+   },
+   {
+    "category": "Festes populars",
+    "end": "2026-11-21",
+    "place": "Jardins del Paga-li Joan i plaça d'Octavià",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "11:00",
+    "title": "10a Diada de Testes",
+    "url": "https://www.santcugat.cat/activitat/10a-diada-de-testes2"
+   },
+   {
+    "category": "Infància",
+    "end": "2026-11-21",
+    "place": "Biblioteca Central Gabriel Ferrater",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "11:00",
+    "title": "Hora del conte. \"El cau de les carícies\"",
+    "url": "https://www.santcugat.cat/activitat/hora-del-conte-el-cau-de-les-caricies5"
+   },
+   {
+    "category": "Infància",
+    "end": "2026-11-21",
+    "place": "Biblioteca de Mira-sol Marta Pessarrodona",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "11:00",
+    "title": "Llegim en família: Circ poètic",
+    "url": "https://www.santcugat.cat/activitat/llegim-en-familia-circ-poetic"
+   },
+   {
+    "category": "Rutes i visites",
+    "end": "2026-11-21",
+    "place": "Casa de Cultura",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "11:00",
+    "title": "Recorreguts acompanyats i presentació de la publicació del projecte expositiu, a càrrec de Jordi Gispert",
+    "url": "https://www.santcugat.cat/activitat/recorreguts-acompanyats-i-presentacio-de-la-publicacio-del-projecte-expositiu-a-carrec-de-jordi-gispert"
+   },
+   {
+    "category": "Rutes i visites",
+    "end": "2026-11-21",
+    "place": "Museu del Monestir",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "11:00",
+    "title": "Visita guiada. \"Els vitralls del Monestir de Sant Cugat\"",
+    "url": "https://www.santcugat.cat/activitat/visita-guiada-els-vitralls-del-monestir-de-sant-cugat"
+   },
+   {
+    "category": "Altres activitats",
+    "end": "2026-11-21",
+    "place": "Conservatori Municipal i altres espais de Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "11:30",
+    "title": "La Nit de les Religions",
+    "url": "https://www.santcugat.cat/activitat/nit-religions"
+   },
+   {
+    "category": "Música",
+    "end": "2026-11-21",
+    "place": "El Siglo Mercantic",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "12:30",
+    "title": "Concert-vermut a El Siglo. Bad Decisions",
+    "url": "https://www.santcugat.cat/activitat/concert-vermut-a-el-siglo-bad-decisions5"
+   },
+   {
+    "category": "Altres activitats",
+    "end": "2026-11-21",
+    "place": "Plaça Octavià",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "12:30",
+    "title": "Desfilada de moda",
+    "url": "https://www.santcugat.cat/activitat/desfilada-de-moda-2026"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2026-11-21",
+    "place": "Cafè Auditori",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "16:30",
+    "title": "Una hora de màgia. Mag Nil Matamala amb \"(R)evolution\" - 2 funcions",
+    "url": "https://www.santcugat.cat/activitat/una-hora-de-magia-mag-nil-matamala-amb-revolution"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2026-11-21",
+    "place": "Casa Museu Cal Gerrer",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "17:00",
+    "title": "Teatre. \"Dimarts, Marilyn\" - 4 sessions",
+    "url": "https://www.santcugat.cat/activitat/teatre-dimarts-marilyn"
+   },
+   {
+    "category": "Música",
+    "end": "2026-11-21",
+    "place": "Casal les Planes",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "18:00",
+    "title": "Tarda de música al Casal les Planes",
+    "url": "https://www.santcugat.cat/activitat/tarda-de-musica-al-casal-les-planes"
+   },
+   {
+    "category": "Altres activitats",
+    "end": "2026-11-21",
+    "place": "Sala Clavé - La Unió Centre Cultural (av. de Josep Anselm Clavé, 13-17)",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "19:00",
+    "title": "La Unió proposa creació. Jornada dels inacabats",
+    "url": "https://www.santcugat.cat/activitat/la-unio-proposa-creacio-jornada-dels-inacabats3"
+   },
+   {
+    "category": "Música",
+    "end": "2026-11-21",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "20:00",
+    "title": "Concert. Els Catarres",
+    "url": "https://www.santcugat.cat/activitat/concert-els-catarres"
+   },
+   {
+    "category": "Música",
+    "end": "2026-11-21",
+    "place": "Església del Monestir",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "20:15",
+    "title": "Concert de Santa Cecília",
+    "url": "https://www.santcugat.cat/activitat/concert-de-santa-cecilia-2026"
+   },
+   {
+    "category": "Música",
+    "end": "2026-11-21",
+    "place": "Casal Torreblanca",
+    "source": "ajuntament",
+    "start": "2026-11-21",
+    "time": "20:30",
+    "title": "La Pua - Nit de música d'autor amb Irene Šimić",
+    "url": "https://www.santcugat.cat/activitat/la-pua-nit-de-musica-dautor-amb-irene-simic"
+   },
+   {
+    "category": "Esports",
+    "end": "2026-11-22",
+    "place": "Av. Pla del Vinyet / Carrer de Santa Teresa",
+    "source": "ajuntament",
+    "start": "2026-11-22",
+    "time": "09:30",
+    "title": "12a Cursa DiR Mossos d’Esquadra Sant Cugat",
+    "url": "https://www.santcugat.cat/activitat/12a-cursa-dir-mossos-desquadra-sant-cugat1"
+   },
+   {
+    "category": "Fires i mercats",
+    "end": "2026-11-22",
+    "place": "Mercantic",
+    "source": "ajuntament",
+    "start": "2026-11-22",
+    "time": "10:00",
+    "title": "Mercat de Tardor",
+    "url": "https://www.santcugat.cat/activitat/mercat-de-tardor544"
+   },
+   {
+    "category": "Rutes i visites",
+    "end": "2026-11-22",
+    "place": "Museu del Monestir",
+    "source": "ajuntament",
+    "start": "2026-11-22",
+    "time": "11:00",
+    "title": "\"Guia'm pel Monestir\"",
+    "url": "https://www.santcugat.cat/activitat/guiam-pel-monestir963"
+   },
+   {
+    "category": "Cinema",
+    "end": "2026-11-22",
+    "place": "Cinemes Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-11-22",
+    "time": "12:00",
+    "title": "Sessió de cinema gratuïta i adaptada. \"Tadeu Jones i la llàntia meravellosa\"",
+    "url": "https://www.santcugat.cat/activitat/sessio-de-cinema-gratuita-i-adaptada-tadeu-jones-i-la-llantia-meravellosa"
+   },
+   {
+    "category": "Música",
+    "end": "2026-11-22",
+    "place": "El Siglo Mercantic",
+    "source": "ajuntament",
+    "start": "2026-11-22",
+    "time": "12:30",
+    "title": "Concert-vermut a El Siglo. Barcelona in the Round XVII",
+    "url": "https://www.santcugat.cat/activitat/concert-vermut-a-el-siglo-barcelona-in-the-round"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2026-11-22",
+    "place": "Casa Museu Cal Gerrer",
+    "source": "ajuntament",
+    "start": "2026-11-22",
+    "time": "17:00",
+    "title": "Teatre. \"Dimarts, Marilyn\" - 4 sessions",
+    "url": "https://www.santcugat.cat/activitat/teatre-dimarts-marilyn-4-sessions"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2026-11-22",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-11-22",
+    "time": "19:00",
+    "title": "Teatre. \"Perfectes desconeguts\"",
+    "url": "https://www.santcugat.cat/activitat/teatre-perfectes-desconeguts"
+   },
+   {
+    "category": "Música",
+    "end": "2026-11-22",
+    "place": "Cafè Auditori",
+    "source": "ajuntament",
+    "start": "2026-11-22",
+    "time": "21:00",
+    "title": "Jazz en Viu al Cafè Auditori. Icar Toset Organ Trio",
+    "url": "https://www.santcugat.cat/activitat/jazz-en-viu-al-cafe-auditori-icar-toset-organ-trio"
+   },
+   {
+    "category": "Actes literaris",
+    "end": "2026-11-23",
+    "place": "Casa de Cultura",
+    "source": "ajuntament",
+    "start": "2026-11-23",
+    "time": "18:00",
+    "title": "Debat amb l'escriptora Dolors Borau i el seu llibre \"Vides robades\"",
+    "url": "https://www.santcugat.cat/activitat/debat-amb-lescriptora-dolors-borau-i-el-seu-llibre-vides-robades"
+   },
+   {
+    "category": "Conferències",
+    "end": "2026-11-23",
+    "place": "Casa de Cultura",
+    "source": "ajuntament",
+    "start": "2026-11-23",
+    "time": "19:00",
+    "title": "Conferència. \"Violències invisibles: «Quan la violència masclista comença en el que no veiem»\"",
+    "url": "https://www.santcugat.cat/activitat/conferencia-violencies-invisibles-quan-la-violencia-masclista-comenca-en-el-que-no-veiem"
+   },
+   {
+    "category": "Altres activitats",
+    "end": "2026-11-23",
+    "place": "Casa de Cultura",
+    "source": "ajuntament",
+    "start": "2026-11-23",
+    "time": "19:00",
+    "title": "Eleccions 29N. Debat electoral amb la ciutadania",
+    "url": "https://www.santcugat.cat/activitat/eleccions-29n-debat-electoral-amb-la-ciutadania"
+   },
+   {
+    "category": "Cursos i tallers",
+    "end": "2026-11-24",
+    "place": "Casa de Cultura",
+    "source": "ajuntament",
+    "start": "2026-11-24",
+    "time": "12:30",
+    "title": "Taller. \"Fem front al maltractament\"",
+    "url": "https://www.santcugat.cat/activitat/taller-fem-front-al-maltractament"
+   },
+   {
+    "category": "Música",
+    "end": "2026-11-24",
+    "place": "Escola La Farga (camí de Sant Cugat al Papiol, 36-46)",
+    "source": "ajuntament",
+    "start": "2026-11-24",
+    "time": "15:30",
+    "title": "Concert inclusiu Coral de FamiliaAMIC amb el músic Chema Mendive",
+    "url": "https://www.santcugat.cat/activitat/concert-inclusiu-coral-de-familiaamic-amb-el-music-chema-mendive"
+   },
+   {
+    "category": "Altres activitats",
+    "end": "2026-11-24",
+    "place": "Parc de Dolors Bigues (Volpelleres)",
+    "source": "ajuntament",
+    "start": "2026-11-24",
+    "time": "17:00",
+    "title": "Taitxí per a adults als parcs. Parc de Dolors Bigues",
+    "url": "https://www.santcugat.cat/activitat/taitxi-per-adults-als-parcs-parc-de-dolors-bigues4"
+   },
+   {
+    "category": "Esports",
+    "end": "2026-11-24",
+    "place": "Zona Esportiva Municipal Jaume Tubau",
+    "source": "ajuntament",
+    "start": "2026-11-24",
+    "time": "18:00",
+    "title": "9a edició del Partit per la Igualtat. Partit de futbol mixt",
+    "url": "https://www.santcugat.cat/activitat/9a-edicio-del-partit-per-la-igualtat-partit-de-futbol-mixt"
+   },
+   {
+    "category": "Conferències",
+    "end": "2026-11-24",
+    "place": "Casa de Cultura",
+    "source": "ajuntament",
+    "start": "2026-11-24",
+    "time": "18:00",
+    "title": "Xerrada. \"Com podem protegir els nostres fills i filles davant de la violència vicària?\"",
+    "url": "https://www.santcugat.cat/activitat/xerrada-com-podem-protegir-els-nostres-fills-i-filles-davant-de-la-violencia-vicaria"
+   },
+   {
+    "category": "Conferències",
+    "end": "2026-11-24",
+    "place": "Biblioteca Central Gabriel Ferrater",
+    "source": "ajuntament",
+    "start": "2026-11-24",
+    "time": "19:00",
+    "title": "Xerrada. \"Aprenem a llegir etiquetes nutricionals: edició Nadal\"",
+    "url": "https://www.santcugat.cat/activitat/xerrada-aprenem-a-llegir-etiquetes-nutricionals-edicio-nadal"
+   },
+   {
+    "category": "Música",
+    "end": "2026-11-24",
+    "place": "L'Ateneu",
+    "source": "ajuntament",
+    "start": "2026-11-24",
+    "time": "19:00",
+    "title": "Òpera entre copes. \"Cendrillon\", de Pauline Viardot",
+    "url": "https://www.santcugat.cat/activitat/opera-entre-copes-cendrillon-de-pauline-viardot"
+   },
+   {
+    "category": "Altres activitats",
+    "end": "2026-11-25",
+    "place": "Casa Aymat",
+    "source": "ajuntament",
+    "start": "2026-11-25",
+    "time": "11:00",
+    "title": "Punt de trobada amb Laura Aranda, David González i antigues treballadores de la manufactura",
+    "url": "https://www.santcugat.cat/activitat/punt-de-trobada-amb-laura-aranda-david-gonzalez-i-antigues-treballadores-de-la-manufactura"
+   },
+   {
+    "category": "Altres activitats",
+    "end": "2026-11-25",
+    "place": "Ajuntament de Sant Cugat del Vallès",
+    "source": "ajuntament",
+    "start": "2026-11-25",
+    "time": "12:00",
+    "title": "Lectura de manifest pel Dia internacional per a l’eliminació de la violència envers les dones",
+    "url": "https://www.santcugat.cat/activitat/lectura-de-manifest-pel-25n-2026"
+   },
+   {
+    "category": "Conferències",
+    "end": "2026-11-25",
+    "place": "Arxiu Nacional de Catalunya",
+    "source": "ajuntament",
+    "start": "2026-11-25",
+    "time": "18:00",
+    "title": "Conferència. \"Ombres Mestres. Les lliçons dels grans del cinema: Un tast\"",
+    "url": "https://www.santcugat.cat/activitat/conferencia-ombres-mestres-les-llicons-dels-grans-del-cinema-un-tast"
+   },
+   {
+    "category": "Cinema",
+    "end": "2026-11-25",
+    "place": "Casa de Cultura",
+    "source": "ajuntament",
+    "start": "2026-11-25",
+    "time": "18:30",
+    "title": "Cinema. \"Mustang\"",
+    "url": "https://www.santcugat.cat/activitat/cinema-mustang"
+   },
+   {
+    "category": "Conferències",
+    "end": "2026-11-25",
+    "place": "Casa de Cultura",
+    "source": "ajuntament",
+    "start": "2026-11-25",
+    "time": "18:30",
+    "title": "Conferència. \"El món dels trens a través dels ulls d'una maquinista\"",
+    "url": "https://www.santcugat.cat/activitat/conferencia-el-mon-dels-trens-a-traves-dels-ulls-duna-maquinista"
+   },
+   {
+    "category": "Actes literaris",
+    "end": "2026-11-25",
+    "place": "El Siglo Mercantic",
+    "source": "ajuntament",
+    "start": "2026-11-25",
+    "time": "19:00",
+    "title": "Presentació de llibre. \"L'altra Barcelona\", de Marc Serena",
+    "url": "https://www.santcugat.cat/activitat/presentacio-de-llibre-laltra-barcelona-de-marc-serena"
+   },
+   {
+    "category": "Altres activitats",
+    "end": "2026-11-26",
+    "place": "Parc de les Dones (la Floresta)",
+    "source": "ajuntament",
+    "start": "2026-11-26",
+    "time": "12:00",
+    "title": "Taitxí per a adults als parcs. Parc de les Dones",
+    "url": "https://www.santcugat.cat/activitat/taitxi-per-adults-als-parcs-parc-de-les-dones3"
+   },
+   {
+    "category": "Cursos i tallers",
+    "end": "2026-11-26",
+    "place": "Casa de Cultura",
+    "source": "ajuntament",
+    "start": "2026-11-26",
+    "time": "12:30",
+    "title": "Taller. \"Fem front al maltractament\"",
+    "url": "https://www.santcugat.cat/activitat/taller-fem-front-al-maltractament2"
+   },
+   {
+    "category": "Altres activitats",
+    "end": "2026-11-26",
+    "place": "Ajuntament de Sant Cugat del Vallès",
+    "source": "ajuntament",
+    "start": "2026-11-26",
+    "time": "18:30",
+    "title": "Lliurament de la Medalla d'Honor de Sant Cugat a l'Associació de propietaris veïns de Floresta Pearson",
+    "url": "https://www.santcugat.cat/activitat/lliurament-de-la-medalla-dhonor-de-sant-cugat-a-lassociacio-de-propietaris-veins-de-floresta-pearson"
+   },
+   {
+    "category": "Cinema",
+    "end": "2026-11-26",
+    "place": "L'Ateneu",
+    "source": "ajuntament",
+    "start": "2026-11-26",
+    "time": "19:00",
+    "title": "Cicle Salut Mental. Documental: \"Anhedonia, dins de la depressió\" i col·loqui",
+    "url": "https://www.santcugat.cat/activitat/cicle-salut-mental-documental-anhedonia-dins-de-la-depressio-i-coloqui"
+   },
+   {
+    "category": "Conferències",
+    "end": "2026-11-26",
+    "place": "Biblioteca de Volpelleres Miquel Batllori",
+    "source": "ajuntament",
+    "start": "2026-11-26",
+    "time": "19:00",
+    "title": "Qgat Negre. Conferència. \"Dones detectius\"",
+    "url": "https://www.santcugat.cat/activitat/qgat-negre-conferencia-dones-detectius"
+   },
+   {
+    "category": "Música",
+    "end": "2026-11-26",
+    "place": "El Siglo Mercantic",
+    "source": "ajuntament",
+    "start": "2026-11-26",
+    "time": "20:00",
+    "title": "Cicle de músics emergents \"Originals\". Claudia Steccato",
+    "url": "https://www.santcugat.cat/activitat/cicle-de-musics-emergents-originals-claudia-steccato"
+   },
+   {
+    "category": "Música",
+    "end": "2026-11-26",
+    "place": "Casal Torreblanca (Bar Bocamoll)",
+    "source": "ajuntament",
+    "start": "2026-11-26",
+    "time": "20:00",
+    "title": "La Pua - Música de Petit Format. Oscar Bernat",
+    "url": "https://www.santcugat.cat/activitat/la-pua-musica-de-petit-format-oscar-bernat"
+   },
+   {
+    "category": "Infància",
+    "end": "2026-11-27",
+    "place": "Plaça Octavià",
+    "source": "ajuntament",
+    "start": "2026-11-27",
+    "time": "16:30",
+    "title": "Encesa dels llums de Nadal",
+    "url": "https://www.santcugat.cat/activitat/encesa-llums-nadal-2026"
+   },
+   {
+    "category": "Infància",
+    "end": "2026-11-27",
+    "free": true,
+    "place": "Plaça de Maria Sabater",
+    "source": "gencat",
+    "start": "2026-11-27",
+    "time": "17 h",
+    "title": "Circus Show",
+    "url": ""
+   },
+   {
+    "category": "Actes literaris",
+    "end": "2026-11-27",
+    "place": "Cal Gausac",
+    "source": "ajuntament",
+    "start": "2026-11-27",
+    "time": "19:00",
+    "title": "Conversa i presentació del llibre \"Foc al cos\". Poesia eròtica femenina catalana",
+    "url": "https://www.santcugat.cat/activitat/conversa-i-presentacio-del-llibre-foc-al-cos-poesia-erotica-femenina-catalana"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2026-11-27",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-11-27",
+    "time": "20:00",
+    "title": "Teatre. \"Els objectes flotants\"",
+    "url": "https://www.santcugat.cat/activitat/teatre-els-objectes-flotants"
+   },
+   {
+    "category": "Música",
+    "end": "2026-11-27",
+    "place": "El Siglo Mercantic",
+    "source": "ajuntament",
+    "start": "2026-11-27",
+    "time": "22:30",
+    "title": "Concert. Encanto de Loco - Tribut a El Canto del Loco",
+    "url": "https://www.santcugat.cat/activitat/concert-encanto-de-loco-tribut-a-el-canto-del-loco9"
+   },
+   {
+    "category": "Fires i mercats",
+    "end": "2026-11-28",
+    "place": "Plaça de Sant Pere",
+    "source": "ajuntament",
+    "start": "2026-11-28",
+    "time": "09:00",
+    "title": "Mercat de Pagès",
+    "url": "https://www.santcugat.cat/activitat/mercat-de-pages608"
+   },
+   {
+    "category": "Fires i mercats",
+    "end": "2026-11-28",
+    "place": "Davant del Casal de Mira-sol",
+    "source": "ajuntament",
+    "start": "2026-11-28",
+    "time": "09:00",
+    "title": "Mercat de Pagès de Mira-sol",
+    "url": "https://www.santcugat.cat/activitat/mercat-de-pages-de-mira-sol615"
+   },
+   {
+    "category": "Fires i mercats",
+    "end": "2026-11-28",
+    "place": "Plaça del Mercat de Volpelleres",
+    "source": "ajuntament",
+    "start": "2026-11-28",
+    "time": "09:00",
+    "title": "Mercat de Pagès de Volpelleres",
+    "url": "https://www.santcugat.cat/activitat/mercat-de-pages-de-volpelleres53"
+   },
+   {
+    "category": "Infància",
+    "end": "2026-11-28",
+    "place": "Plaça d'en Coll",
+    "source": "ajuntament",
+    "start": "2026-11-28",
+    "time": "10:00",
+    "title": "Art en família. Telers al carrer",
+    "url": "https://www.santcugat.cat/activitat/art-en-familia-telers-al-carrer2"
+   },
+   {
+    "category": "Altres activitats",
+    "end": "2026-11-28",
+    "place": "Associació d'Amics del Ferrocarril de Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-11-28",
+    "time": "10:00",
+    "title": "Dia del Modelisme Ferroviari. Jornada de portes obertes",
+    "url": "https://www.santcugat.cat/activitat/dia-del-modelisme-ferroviari-jornada-de-portes-obertes9"
+   },
+   {
+    "category": "Rutes i visites",
+    "end": "2026-11-28",
+    "place": "Oficina de Turisme Sant Cugat del Vallès",
+    "source": "ajuntament",
+    "start": "2026-11-28",
+    "time": "10:00",
+    "title": "Visita guiada al Monestir de Sant Cugat. El més poderós del comtat de Barcelona",
+    "url": "https://www.santcugat.cat/activitat/visita-guiada-al-monestir-de-sant-cugat-el-mes-poderos-del-comtat-de-barcelona0977"
+   },
+   {
+    "category": "Infància",
+    "end": "2026-11-28",
+    "place": "Biblioteca de Volpelleres Miquel Batllori",
+    "source": "ajuntament",
+    "start": "2026-11-28",
+    "time": "10:30",
+    "title": "Taller infantil. \"Llum i color: els píxels des de dins!\"",
+    "url": "https://www.santcugat.cat/activitat/taller-infantil-llum-i-color-els-pixels-des-de-dins"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2026-11-28",
+    "free": true,
+    "place": "Plaça de l’Estació de Valldoreix",
+    "source": "gencat",
+    "start": "2026-11-28",
+    "time": "11 h",
+    "title": "Caga, Tió! (o les aventures de l'Oncle Buscall)",
+    "url": ""
+   },
+   {
+    "category": "Infància",
+    "end": "2026-11-28",
+    "place": "Biblioteca Central Gabriel Ferrater",
+    "source": "ajuntament",
+    "start": "2026-11-28",
+    "time": "11:00",
+    "title": "II Diada Victòria. Espectacle familiar \"Victòria, Fígaro i la seva guitarra\"",
+    "url": "https://www.santcugat.cat/activitat/ii-diada-victoria-espectacle-familiar-victoria-figaro-i-la-seva-guitarra"
+   },
+   {
+    "category": "Actes literaris",
+    "end": "2026-11-28",
+    "place": "Centre Grau-Garriga d’Art Tèxtil Contemporani (Can Quitèria)",
+    "source": "ajuntament",
+    "start": "2026-11-28",
+    "time": "11:00",
+    "title": "Punt de trobada. \"Frenar l'acceleració en vers\", a càrrec de M. Antònia Massanet",
+    "url": "https://www.santcugat.cat/activitat/punt-de-trobada-frenar-lacceleracio-en-vers-a-carrec-de-m-antonia-massanet"
+   },
+   {
+    "category": "Cursos i tallers",
+    "end": "2026-11-28",
+    "place": "Museu del Monestir",
+    "source": "ajuntament",
+    "start": "2026-11-28",
+    "time": "11:30",
+    "title": "De la pedra al 3D - Taller d’escaneig de capitells",
+    "url": "https://www.santcugat.cat/activitat/de-la-pedra-al-3d-taller-descaneig-de-capitells9"
+   },
+   {
+    "category": "Música",
+    "end": "2026-11-28",
+    "place": "El Siglo Mercantic",
+    "source": "ajuntament",
+    "start": "2026-11-28",
+    "time": "12:30",
+    "title": "Concert-vermut a El Siglo. Drunken Jedis",
+    "url": "https://www.santcugat.cat/activitat/concert-vermut-a-el-siglo-drunken-jedis9"
+   },
+   {
+    "category": "Música",
+    "end": "2026-11-28",
+    "place": "El Siglo Mercantic",
+    "source": "ajuntament",
+    "start": "2026-11-28",
+    "time": "22:30",
+    "title": "Concert. Xarim Aresté presenta \"Punt de Creu\"",
+    "url": "https://www.santcugat.cat/activitat/concert-xarim-areste-presenta-punt-de-creu"
+   },
+   {
+    "category": "Fires i mercats",
+    "end": "2026-11-29",
+    "place": "Plaça de l'U d'Octubre",
+    "source": "ajuntament",
+    "start": "2026-11-29",
+    "time": "10:00",
+    "title": "Fira d'entitats socials amb espectacles artístics i musicals",
+    "url": "https://www.santcugat.cat/activitat/fira-dentitats-socials-amb-espectacles-artistics-i-musicals-2026"
+   },
+   {
+    "category": "Infància",
+    "end": "2026-11-29",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-11-29",
+    "time": "11:00",
+    "title": "Multidisciplinar en família. \"AMAMÁ\" - 4 funcions",
+    "url": "https://www.santcugat.cat/activitat/multidisciplinar-en-familia-amama"
+   },
+   {
+    "category": "Infància",
+    "end": "2026-11-29",
+    "place": "Teatre Mira-sol",
+    "source": "ajuntament",
+    "start": "2026-11-29",
+    "time": "12:00",
+    "title": "En família - Titelles. \"On vas, Moby Dick?\"",
+    "url": "https://www.santcugat.cat/activitat/en-familia-titelles-on-vas-moby-dick"
+   },
+   {
+    "category": "Música",
+    "end": "2026-11-29",
+    "place": "Sala Clavé - La Unió Centre Cultural (av. de Josep Anselm Clavé, 13-17)",
+    "source": "ajuntament",
+    "start": "2026-11-29",
+    "time": "12:00",
+    "title": "Festival Apròpera familiar. \"Marie va a l'òpera\"",
+    "url": "https://www.santcugat.cat/activitat/festival-apropera-familiar-marie-va-a-lopera"
+   },
+   {
+    "category": "Música",
+    "end": "2026-11-29",
+    "place": "El Siglo Mercantic",
+    "source": "ajuntament",
+    "start": "2026-11-29",
+    "time": "12:30",
+    "title": "Concert-vermut a El Siglo. Viva Whitney - Tribut a Whitney Houston",
+    "url": "https://www.santcugat.cat/activitat/concert-vermut-a-el-siglo-viva-whitney-tribut-a-whitney-houston3"
+   },
+   {
+    "category": "Altres activitats",
+    "end": "2026-11-29",
+    "place": "Bocca Club",
+    "source": "ajuntament",
+    "start": "2026-11-29",
+    "time": "17:00",
+    "title": "Sessió especial discoteca Bocca",
+    "url": "https://www.santcugat.cat/activitat/sessio-especial-discoteca-bocca6"
+   },
+   {
+    "category": "Música",
+    "end": "2026-11-29",
+    "place": "Sala Clavé - La Unió Centre Cultural (av. de Josep Anselm Clavé, 13-17)",
+    "source": "ajuntament",
+    "start": "2026-11-29",
+    "time": "19:00",
+    "title": "Festival Apròpera. Òpera \"Cendrillon\"",
+    "url": "https://www.santcugat.cat/activitat/festival-apropera-opera-cendrillon"
+   },
+   {
+    "category": "Música",
+    "end": "2026-11-29",
+    "place": "Cafè Auditori",
+    "source": "ajuntament",
+    "start": "2026-11-29",
+    "time": "21:00",
+    "title": "Jazz en Viu al Cafè Auditori. Lluís Coloma Trio",
+    "url": "https://www.santcugat.cat/activitat/jazz-en-viu-al-cafe-auditori-lluis-coloma-trio"
+   },
+   {
+    "category": "Altres activitats",
+    "end": "2026-11-30",
+    "place": "Casa Aymat",
+    "source": "ajuntament",
+    "start": "2026-11-30",
+    "time": "18:00",
+    "title": "Homenatge a Miquel Samaranch",
+    "url": "https://www.santcugat.cat/activitat/homenatge-a-miquel-samaranch6"
+   },
+   {
+    "category": "Conferències",
+    "end": "2026-11-30",
+    "place": "Taller Jeroni de Moragas, SCCL",
+    "source": "ajuntament",
+    "start": "2026-11-30",
+    "time": "18:00",
+    "title": "Xerrada. \"Inventari i rendiment de comptes, noves obligacions pels pares assistents\"",
+    "url": "https://www.santcugat.cat/activitat/xerrada-inventari-i-rendiment-de-comptes-noves-obligacions-pels-pares-assistents"
+   },
+   {
+    "category": "Rutes i visites",
+    "end": "2026-11-30",
+    "place": "Casa Aymat",
+    "source": "ajuntament",
+    "start": "2026-11-30",
+    "time": "18:30",
+    "title": "Visita a l’exposició \"La Manufactura Aymat. Un viatge en el temps\"",
+    "url": "https://www.santcugat.cat/activitat/visita-a-lexposicio-la-manufactura-aymat-un-viatge-en-el-temps"
+   },
+   {
+    "category": "Esports",
+    "end": "2026-12-01",
+    "place": "Camp de Futbol Municipal Can Magí",
+    "source": "ajuntament",
+    "start": "2026-12-01",
+    "time": "10:00",
+    "title": "Torneig de futbol inclusiu",
+    "url": "https://www.santcugat.cat/activitat/torneig-de-futbol-inclusiu3"
+   },
+   {
+    "category": "Conferències",
+    "end": "2026-12-01",
+    "place": "Casa de Cultura",
+    "source": "ajuntament",
+    "start": "2026-12-01",
+    "time": "16:00",
+    "title": "Xerrada. \"Una mirada legal a la discapacitat\"",
+    "url": "https://www.santcugat.cat/activitat/xerrada-una-mirada-legal-a-la-discapacitat"
+   },
+   {
+    "category": "Conferències",
+    "end": "2026-12-01",
+    "free": true,
+    "place": "Ateneu Santcugatenc",
+    "source": "gencat",
+    "start": "2026-12-01",
+    "time": "19 h",
+    "title": "Poetes imprescindibles: Clementina Arderiu",
+    "url": ""
+   },
+   {
+    "category": "Altres activitats",
+    "end": "2026-12-02",
+    "place": "Jardins de Sant Francesc",
+    "source": "ajuntament",
+    "start": "2026-12-02",
+    "time": "11:15",
+    "title": "Taitxí per a adults als parcs. Jardins de Sant Francesc",
+    "url": "https://www.santcugat.cat/activitat/taitxi-per-adults-als-parcs-jardins-de-sant-francesc1"
+   },
+   {
+    "category": "Altres activitats",
+    "end": "2026-12-02",
+    "place": "Museu del Monestir",
+    "source": "ajuntament",
+    "start": "2026-12-02",
+    "time": "17:00",
+    "title": "Inauguració de l'exposició tèxtil del projecte Fem un Museu. \"Girem que gira. Gireu?\"",
+    "url": "https://www.santcugat.cat/activitat/inauguracio-de-lexposicio-textil-del-projecte-fem-un-museu-girem-que-gira-gireu"
+   },
+   {
+    "category": "Conferències",
+    "end": "2026-12-02",
+    "place": "Casa de Cultura",
+    "source": "ajuntament",
+    "start": "2026-12-02",
+    "time": "17:00",
+    "title": "Xerrada. \"Treball amb suport\"",
+    "url": "https://www.santcugat.cat/activitat/xerrada-treball-amb-suport"
+   },
+   {
+    "category": "Conferències",
+    "end": "2026-12-02",
+    "place": "Xalet Negre",
+    "source": "ajuntament",
+    "start": "2026-12-02",
+    "time": "18:00",
+    "title": "Conferència. \"Guimerà, un clàssic desclassificat?\"",
+    "url": "https://www.santcugat.cat/activitat/conferencia-guimera-un-classic-desclassificat"
+   },
+   {
+    "category": "Conferències",
+    "end": "2026-12-02",
+    "place": "Arxiu Nacional de Catalunya",
+    "source": "ajuntament",
+    "start": "2026-12-02",
+    "time": "18:00",
+    "title": "Conferència. \"Periodisme, esport i cultura\"",
+    "url": "https://www.santcugat.cat/activitat/conferencia-periodisme-esport-i-cultura"
+   },
+   {
+    "category": "Rutes i visites",
+    "end": "2026-12-02",
+    "place": "Museu del Monestir",
+    "source": "ajuntament",
+    "start": "2026-12-02",
+    "time": "18:00",
+    "title": "Recorreguts acompanyats, a càrrec de Carla Jaria",
+    "url": "https://www.santcugat.cat/activitat/recorreguts-acompanyats-a-carrec-de-carla-jaria"
+   },
+   {
+    "category": "Altres activitats",
+    "end": "2026-12-02",
+    "place": "Cafè Auditori",
+    "source": "ajuntament",
+    "start": "2026-12-02",
+    "time": "18:30",
+    "title": "Celebració del Dia Internacional del Voluntariat 2026",
+    "url": "https://www.santcugat.cat/activitat/celebracio-del-dia-internacional-del-voluntariat-2026"
+   },
+   {
+    "category": "Conferències",
+    "end": "2026-12-02",
+    "place": "Museu del Monestir",
+    "source": "ajuntament",
+    "start": "2026-12-02",
+    "time": "19:00",
+    "title": "2es Jornades de Patrimoni Sonor. \"L'origen i el significat de les nadales populars\"",
+    "url": "https://www.santcugat.cat/activitat/2es-jornades-de-patrimoni-sonor-lorigen-i-el-significat-de-les-nadales-populars"
+   },
+   {
+    "category": "Altres activitats",
+    "end": "2026-12-03",
+    "place": "Plaça de la Vila",
+    "source": "ajuntament",
+    "start": "2026-12-03",
+    "time": "12:00",
+    "title": "Acte institucional i lectura manifest Dia internacional de les persones amb discapacitat",
+    "url": "https://www.santcugat.cat/activitat/acte-institucional-i-lectura-manifest-acte-institucional"
+   },
+   {
+    "category": "Infància",
+    "end": "2026-12-03",
+    "place": "Escoles públiques de Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-12-03",
+    "time": "16:30",
+    "title": "Sessió de sensibilització \"Els sentits en joc\"",
+    "url": "https://www.santcugat.cat/activitat/sessio-de-sensibilitzacio-els-sentits-en-joc"
+   },
+   {
+    "category": "Altres activitats",
+    "end": "2026-12-03",
+    "place": "Casa Aymat",
+    "source": "ajuntament",
+    "start": "2026-12-03",
+    "time": "18:00",
+    "title": "Berenar d'artistes residents, amb visites a tots els estudis",
+    "url": "https://www.santcugat.cat/activitat/berenar-dartistes-residents-amb-visites-a-tots-els-estudis"
+   },
+   {
+    "category": "Altres activitats",
+    "end": "2026-12-03",
+    "place": "Casa de Cultura",
+    "source": "ajuntament",
+    "start": "2026-12-03",
+    "time": "19:00",
+    "title": "Inauguració de la 7a Biennal Qgat Foto",
+    "url": "https://www.santcugat.cat/activitat/inauguracio-de-la-7a-biennal-qgat-foto"
+   },
+   {
+    "category": "Música",
+    "end": "2026-12-03",
+    "place": "Casal Torreblanca (Bar Bocamoll)",
+    "source": "ajuntament",
+    "start": "2026-12-03",
+    "time": "20:00",
+    "title": "La Pua - Música de Petit Format. Guillem Jubany i German Barrera",
+    "url": "https://www.santcugat.cat/activitat/la-pua-musica-de-petit-format-guillem-jubany-i-german-barrera"
+   },
+   {
+    "category": "Música",
+    "end": "2026-12-04",
+    "place": "Casal Torreblanca",
+    "source": "ajuntament",
+    "start": "2026-12-04",
+    "time": "20:30",
+    "title": "Cicle de concerts Buc and Roll amb The Rumbles Blues Trio",
+    "url": "https://www.santcugat.cat/activitat/cicle-de-concerts-buc-and-roll-amb-the-rumbles-blues-trio"
+   },
+   {
+    "category": "Infància",
+    "end": "2027-01-10",
+    "free": false,
+    "place": "Carpa del Circ Raluy Històric",
+    "source": "gencat",
+    "start": "2026-12-04",
+    "time": "Del 4 al 20 de desembre: Dijous i divendres: 18.30 h Dissabtes: 17 i 19.30 h Diumenges: 12",
+    "title": "Terra",
+    "url": ""
+   },
+   {
+    "category": "Conferències",
+    "end": "2026-12-10",
+    "place": "Centre Grau-Garriga d’Art Tèxtil Contemporani (Can Quitèria)",
+    "source": "ajuntament",
+    "start": "2026-12-10",
+    "time": "18:00",
+    "title": "Punt de trobada, a càrrec d’Óscar Martínez i Teresa Sil",
+    "url": "https://www.santcugat.cat/activitat/punt-de-trobada-a-carrec-doscar-martinez-i-teresa-sil"
+   },
+   {
+    "category": "Conferències",
+    "end": "2026-12-10",
+    "place": "Casa de Cultura",
+    "source": "ajuntament",
+    "start": "2026-12-10",
+    "time": "19:00",
+    "title": "Foto Talk Qgat Foto. \"Des de dins i des de fora - la fotografia d’autor\"",
+    "url": "https://www.santcugat.cat/activitat/foto-talk-qgat-foto-des-de-dins-i-des-de-fora-la-fotografia-dautor"
+   },
+   {
+    "category": "Actes literaris",
+    "end": "2026-12-10",
+    "place": "L'Ateneu",
+    "source": "ajuntament",
+    "start": "2026-12-10",
+    "time": "19:00",
+    "title": "Qgat Negre. Presentació de la novel·la \"L’escala de sorra\", de David Cirici",
+    "url": "https://www.santcugat.cat/activitat/qgat-negre-presentacio-de-la-novela-lescala-de-sorra-de-david-cirici"
+   },
+   {
+    "category": "Música",
+    "end": "2026-12-10",
+    "place": "Casal Torreblanca (Bar Bocamoll)",
+    "source": "ajuntament",
+    "start": "2026-12-10",
+    "time": "20:00",
+    "title": "La Pua - Música de Petit Format. Attih Soul",
+    "url": "https://www.santcugat.cat/activitat/la-pua-musica-de-petit-format-attih-soul"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2026-12-11",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-12-11",
+    "time": "20:00",
+    "title": "Teatre. \"Dakota\"",
+    "url": "https://www.santcugat.cat/activitat/teatre-dakota"
+   },
+   {
+    "category": "Música",
+    "end": "2026-12-11",
+    "place": "Casal Torreblanca",
+    "source": "ajuntament",
+    "start": "2026-12-11",
+    "time": "20:30",
+    "title": "Lady Luck, en concert",
+    "url": "https://www.santcugat.cat/activitat/lady-luck-en-concert"
+   },
+   {
+    "category": "Infància",
+    "end": "2026-12-12",
+    "place": "Plaça Lluis Millet",
+    "source": "ajuntament",
+    "start": "2026-12-12",
+    "time": "10:00",
+    "title": "Art en família. Telers al carrer",
+    "url": "https://www.santcugat.cat/activitat/art-en-familia-telers-al-carrer0"
+   },
+   {
+    "category": "Cursos i tallers",
+    "end": "2026-12-12",
+    "place": "Casal Torreblanca",
+    "source": "ajuntament",
+    "start": "2026-12-12",
+    "time": "11:00",
+    "title": "Receptes amb bolets",
+    "url": "https://www.santcugat.cat/activitat/receptes-amb-bolets"
+   },
+   {
+    "category": "Rutes i visites",
+    "end": "2026-12-12",
+    "place": "Museu del Monestir",
+    "source": "ajuntament",
+    "start": "2026-12-12",
+    "time": "12:00",
+    "title": "Visita comentada a l’exposició \"La ciutat que m’habita\", de Paco Minuesa",
+    "url": "https://www.santcugat.cat/activitat/visita-comentada-a-lexposicio-la-ciutat-que-mhabita-de-paco-minuesa51"
+   },
+   {
+    "category": "Música",
+    "end": "2026-12-12",
+    "place": "Casal Torreblanca",
+    "source": "ajuntament",
+    "start": "2026-12-12",
+    "time": "17:30",
+    "title": "3r Open Mic",
+    "url": "https://www.santcugat.cat/activitat/3r-open-mic"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2026-12-12",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-12-12",
+    "time": "20:00",
+    "title": "Dansa. Toni Mira amb \"Tempo\"",
+    "url": "https://www.santcugat.cat/activitat/dansa-toni-mira-amb-tempo"
+   },
+   {
+    "category": "Música",
+    "end": "2026-12-13",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-12-13",
+    "time": "19:00",
+    "title": "Concert. Andrea Motis Trio",
+    "url": "https://www.santcugat.cat/activitat/concert-andrea-motis-trio"
+   },
+   {
+    "category": "Altres activitats",
+    "end": "2026-12-16",
+    "place": "Jardins de Sant Francesc",
+    "source": "ajuntament",
+    "start": "2026-12-16",
+    "time": "11:15",
+    "title": "Taitxí per a adults als parcs. Jardins de Sant Francesc",
+    "url": "https://www.santcugat.cat/activitat/taitxi-per-adults-als-parcs-jardins-de-sant-francesc8"
+   },
+   {
+    "category": "Conferències",
+    "end": "2026-12-16",
+    "place": "Xalet Negre",
+    "source": "ajuntament",
+    "start": "2026-12-16",
+    "time": "18:00",
+    "title": "Conferència. \"«Mover la voz a ti debida». Eros i poesia en el Renaixement\"",
+    "url": "https://www.santcugat.cat/activitat/conferencia-mover-la-voz-a-ti-debida-eros-i-poesia-en-el-renaixement"
+   },
+   {
+    "category": "Actes literaris",
+    "end": "2026-12-17",
+    "place": "Biblioteca de Volpelleres Miquel Batllori",
+    "source": "ajuntament",
+    "start": "2026-12-17",
+    "time": "19:00",
+    "title": "Qgat Negre. Conversa. \"Monstruos Humanos: Los mayores criminales de la historia\"",
+    "url": "https://www.santcugat.cat/activitat/qgat-negre-conversa-monstruos-humanos-los-mayores-criminales-de-la-historia"
+   },
+   {
+    "category": "Música",
+    "end": "2026-12-18",
+    "place": "Teatre Mira-sol",
+    "source": "ajuntament",
+    "start": "2026-12-18",
+    "time": "20:00",
+    "title": "Concert de Nadal. Alabama, Piano Jazz Covers",
+    "url": "https://www.santcugat.cat/activitat/concert-de-nadal-alabama-piano-jazz-covers"
+   },
+   {
+    "category": "Música",
+    "end": "2026-12-18",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-12-18",
+    "time": "20:00",
+    "title": "Concert. Spirit of New Orleans Gospel Choir",
+    "url": "https://www.santcugat.cat/activitat/concert-spirit-of-new-orleans-gospel-choir"
+   },
+   {
+    "category": "Rutes i visites",
+    "end": "2026-12-19",
+    "place": "Centre Grau-Garriga d’Art Tèxtil Contemporani (Can Quitèria)",
+    "source": "ajuntament",
+    "start": "2026-12-19",
+    "time": "11:00",
+    "title": "Recorreguts acompanyats, a càrrec d'Ignasi Prat Altimira",
+    "url": "https://www.santcugat.cat/activitat/recorreguts-acompanyats-a-carrec-dignasi-prat-altimira"
+   },
+   {
+    "category": "Rutes i visites",
+    "end": "2026-12-19",
+    "place": "Casa de Cultura",
+    "source": "ajuntament",
+    "start": "2026-12-19",
+    "time": "11:00",
+    "title": "Visita comentada a la 7a Biennal Qgat Foto, a càrrec de Qgat Foto",
+    "url": "https://www.santcugat.cat/activitat/visita-comentada-a-la-7a-biennal-qgat-foto-a-carrec-de-qgat-foto"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2026-12-19",
+    "place": "Escola Municipal Victòria dels Àngels i Conservatori de Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-12-19",
+    "time": "12:00",
+    "title": "Una hora de màgia - Especial Nadal. Toni Cors amb \"Il paparazzi\"",
+    "url": "https://www.santcugat.cat/activitat/una-hora-de-magia-especial-nadal-toni-cors-amb-il-paparazzi"
+   },
+   {
+    "category": "Infància",
+    "end": "2026-12-19",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-12-19",
+    "time": "18:00",
+    "title": "Màgia en família. \"Strafalari\", amb Mag Lari - 2 funcions",
+    "url": "https://www.santcugat.cat/activitat/magia-en-familia-strafalari-amb-mag-lari"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2026-12-20",
+    "place": "Plaça Can Quitèria",
+    "source": "ajuntament",
+    "start": "2026-12-20",
+    "time": "12:00",
+    "title": "Swing a la plaça, amb música en directe",
+    "url": "https://www.santcugat.cat/activitat/swing-amb-musica-en-directe"
+   },
+   {
+    "category": "Infància",
+    "end": "2026-12-20",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-12-20",
+    "time": "18:00",
+    "title": "Màgia en família. \"Strafalari\", amb Mag Lari - 2 funcions",
+    "url": "https://www.santcugat.cat/activitat/magia-en-familia-strafalari-amb-mag-lari2"
+   },
+   {
+    "category": "Música",
+    "end": "2026-12-20",
+    "free": false,
+    "place": "Nau de Cultura de Valldoreix",
+    "source": "gencat",
+    "start": "2026-12-20",
+    "time": "19 h",
+    "title": "Meritxell i Judit Neddermann",
+    "url": ""
+   },
+   {
+    "category": "Música",
+    "end": "2026-12-20",
+    "place": "Cafè Auditori",
+    "source": "ajuntament",
+    "start": "2026-12-20",
+    "time": "21:00",
+    "title": "Jazz en Viu al Cafè Auditori. Alba Careta Group - \"Panical\"",
+    "url": "https://www.santcugat.cat/activitat/jazz-en-viu-al-cafe-auditori-alba-careta-group-panical"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2026-12-21",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-12-21",
+    "time": "20:00",
+    "title": "Teatre. \"L'estiueig\"",
+    "url": "https://www.santcugat.cat/activitat/teatre-lestiueig"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2026-12-22",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-12-22",
+    "time": "20:00",
+    "title": "Humor. \"El substitut\", amb Pep Plaza",
+    "url": "https://www.santcugat.cat/activitat/humor-el-substitut-amb-pep-plaza"
+   },
+   {
+    "category": "Música",
+    "end": "2026-12-27",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-12-27",
+    "time": "19:00",
+    "title": "Concert de l'OSSC. Valsos i danses",
+    "url": "https://www.santcugat.cat/activitat/concert-de-lossc-valsos-i-danses-2026"
+   },
+   {
+    "category": "Altres activitats",
+    "end": "2026-12-28",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-12-28",
+    "time": "18:00",
+    "title": "Circ. Edu Manazas amb \"Meraki\"",
+    "url": "https://www.santcugat.cat/activitat/circ-edu-manazas-amb-meraki"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2026-12-30",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2026-12-30",
+    "time": "20:00",
+    "title": "Dansa. Ballet de Barcelona amb \"Carmen\"",
+    "url": "https://www.santcugat.cat/activitat/dansa-ballet-de-barcelona-amb-carmen"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2027-01-08",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2027-01-08",
+    "time": "20:00",
+    "title": "Teatre. \"Misery\"",
+    "url": "https://www.santcugat.cat/activitat/teatre-misery"
+   },
+   {
+    "category": "Rutes i visites",
+    "end": "2027-01-09",
+    "place": "Casa de Cultura",
+    "source": "ajuntament",
+    "start": "2027-01-09",
+    "time": "11:00",
+    "title": "Visita comentada a la 7a Biennal Qgat Foto, a càrrec de Qgat Foto",
+    "url": "https://www.santcugat.cat/activitat/visita-comentada-a-la-7a-biennal-qgat-foto-a-carrec-de-qgat-foto5"
+   },
+   {
+    "category": "Infància",
+    "end": "2027-01-10",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2027-01-10",
+    "time": "12:00",
+    "title": "Titelles en família. \"El viatge de la Nuru\"",
+    "url": "https://www.santcugat.cat/activitat/titelles-en-familia-el-viatge-de-la-nuru"
+   },
+   {
+    "category": "Conferències",
+    "end": "2027-01-13",
+    "place": "Xalet Negre",
+    "source": "ajuntament",
+    "start": "2027-01-13",
+    "time": "18:00",
+    "title": "Conferència. \"La cosmovisió de Pierre Teilhard de Chardin. De la litosfera a la noosfera i el Punt Omega\"",
+    "url": "https://www.santcugat.cat/activitat/conferencia-la-cosmovisio-de-pierre-teilhard-de-chardin-de-la-litosfera-a-la-noosfera-i-el-punt-omega"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2027-01-15",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2027-01-15",
+    "time": "20:00",
+    "title": "Teatre. \"Morning Sun\"",
+    "url": "https://www.santcugat.cat/activitat/teatre-morning-sun"
+   },
+   {
+    "category": "Infància",
+    "end": "2027-01-16",
+    "place": "Plaça Barcelona",
+    "source": "ajuntament",
+    "start": "2027-01-16",
+    "time": "10:00",
+    "title": "Art en família. Telers al carrer",
+    "url": "https://www.santcugat.cat/activitat/art-en-familia-telers-al-carrer5"
+   },
+   {
+    "category": "Música",
+    "end": "2027-01-16",
+    "place": "Casal Torreblanca",
+    "source": "ajuntament",
+    "start": "2027-01-16",
+    "time": "17:30",
+    "title": "4t Open Mic",
+    "url": "https://www.santcugat.cat/activitat/4t-open-mic"
+   },
+   {
+    "category": "Infància",
+    "end": "2027-01-17",
+    "place": "Teatre Mira-sol",
+    "source": "ajuntament",
+    "start": "2027-01-17",
+    "time": "12:00",
+    "title": "En família - Espectacle. \"Tumbalafusta\"",
+    "url": "https://www.santcugat.cat/activitat/en-familia-espectacle-tumbalafusta"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2027-01-17",
+    "place": "Plaça Can Quitèria",
+    "source": "ajuntament",
+    "start": "2027-01-17",
+    "time": "12:00",
+    "title": "Swing a la plaça",
+    "url": "https://www.santcugat.cat/activitat/swing-a-la-placa3"
+   },
+   {
+    "category": "Música",
+    "end": "2027-01-17",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2027-01-17",
+    "time": "19:00",
+    "title": "Concert 20 anys de Jazzenviu. Marco Mezquida Trio",
+    "url": "https://www.santcugat.cat/activitat/concert-marco-mezquida-trio1"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2027-01-17",
+    "place": "Sala Clavé - La Unió Centre Cultural (av. de Josep Anselm Clavé, 13-17)",
+    "source": "ajuntament",
+    "start": "2027-01-17",
+    "time": "19:30",
+    "title": "La Unió proposa creació. \"Sobiranes\", laboratori de desobediència corporal",
+    "url": "https://www.santcugat.cat/activitat/la-unio-proposa-creacio-sobiranes-laboratori-de-desobediencia-corporal7"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2027-01-22",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2027-01-22",
+    "time": "20:00",
+    "title": "Teatre. \"Com vaig aprendre a conduir\"",
+    "url": "https://www.santcugat.cat/activitat/com-vaig-aprendre-a-conduir"
+   },
+   {
+    "category": "Música",
+    "end": "2027-01-23",
+    "place": "Casal Torreblanca",
+    "source": "ajuntament",
+    "start": "2027-01-23",
+    "time": "20:00",
+    "title": "Punkugat d'hivern, 4a edició",
+    "url": "https://www.santcugat.cat/activitat/punkugat-dhivern-4a-edicio-2026"
+   },
+   {
+    "category": "Exposicions",
+    "end": "2027-05-31",
+    "free": true,
+    "place": "Centre Grau-Garriga d’Art Tèxtil Contemporani",
+    "source": "gencat",
+    "start": "2027-01-23",
+    "time": "De dimarts a dissabte de 17 a 20 h Dimecres, dissabte i diumenge de 10 a 14 h Dilluns tanc",
+    "title": "El fil de la modernitat",
+    "url": ""
+   },
+   {
+    "category": "Música",
+    "end": "2027-01-24",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2027-01-24",
+    "time": "19:00",
+    "title": "Concert. Pop-Rock Simfònic",
+    "url": "https://www.santcugat.cat/activitat/concert-pop-rock-simfonic"
+   },
+   {
+    "category": "Conferències",
+    "end": "2027-01-27",
+    "place": "Xalet Negre",
+    "source": "ajuntament",
+    "start": "2027-01-27",
+    "time": "18:00",
+    "title": "Conferència. \"El clan Tokugawa. L’últim gran shogunat del Japó (1603-1868)\"",
+    "url": "https://www.santcugat.cat/activitat/conferencia-el-clan-tokugawa-lultim-gran-shogunat-del-japo-1603-1868"
+   },
+   {
+    "category": "Infància",
+    "end": "2027-01-29",
+    "place": "Xalet Negre",
+    "source": "ajuntament",
+    "start": "2027-01-29",
+    "time": "17:30",
+    "title": "Diverdivendres. \"Nangilima. Els contes d’Astrid Lindgren\"",
+    "url": "https://www.santcugat.cat/activitat/diverdivendres-nangilima-els-contes-dastrid-lindgren"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2027-01-29",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2027-01-29",
+    "time": "20:00",
+    "title": "Dansa. Compañía Nacho Duato amb quatre peces icòniques",
+    "url": "https://www.santcugat.cat/activitat/dansa-compania-nacho-duato-amb-quatre-peces-iconiques"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2027-01-30",
+    "place": "Cafè Auditori",
+    "source": "ajuntament",
+    "start": "2027-01-30",
+    "time": "16:30",
+    "title": "Una hora de màgia. Mag Alexander Main amb \"Màgia en Estat Pur\" - 2 funcions",
+    "url": "https://www.santcugat.cat/activitat/una-hora-de-magia-mag-alexander-main-amb-magia-en-estat-pur"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2027-01-30",
+    "place": "Teatre Mira-sol",
+    "source": "ajuntament",
+    "start": "2027-01-30",
+    "time": "20:00",
+    "title": "Teatre. \"Buscant la Cosa en Sí\"",
+    "url": "https://www.santcugat.cat/activitat/teatre-buscant-la-cosa-en-si"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2027-01-30",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2027-01-30",
+    "time": "20:00",
+    "title": "Teatre. \"La truita\" - 2 funcions",
+    "url": "https://www.santcugat.cat/activitat/teatre-la-truita"
+   },
+   {
+    "category": "Teatre i dansa",
+    "end": "2027-01-31",
+    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
+    "source": "ajuntament",
+    "start": "2027-01-31",
+    "time": "19:00",
+    "title": "Teatre. \"La truita\" - 2 funcions",
+    "url": "https://www.santcugat.cat/activitat/teatre-la-truita2"
+   },
+   {
+    "category": "Infància",
+    "end": "2027-02-20",
+    "place": "Plaça de Sant Pere",
+    "source": "ajuntament",
+    "start": "2027-02-20",
+    "time": "10:00",
+    "title": "Art en família. Telers al carrer",
+    "url": "https://www.santcugat.cat/activitat/art-en-familia-telers-al-carrer25"
+   },
+   {
+    "category": "Infància",
+    "end": "2027-03-13",
+    "place": "Plaça de Miquel Ros",
+    "source": "ajuntament",
+    "start": "2027-03-13",
+    "time": "10:00",
+    "title": "Art en família. Telers al carrer",
+    "url": "https://www.santcugat.cat/activitat/art-en-familia-telers-al-carrer84"
+   },
+   {
+    "category": "Infància",
+    "end": "2027-04-17",
+    "place": "Plaça Quatre Cantons",
+    "source": "ajuntament",
+    "start": "2027-04-17",
+    "time": "10:00",
+    "title": "Art en família. Telers al carrer",
+    "url": "https://www.santcugat.cat/activitat/art-en-familia-telers-al-carrer00"
+   },
+   {
+    "category": "Infància",
+    "end": "2027-05-15",
+    "place": "Plaça Can Quitèria",
+    "source": "ajuntament",
+    "start": "2027-05-15",
+    "time": "10:00",
+    "title": "Art en família. Telers al carrer",
+    "url": "https://www.santcugat.cat/activitat/art-en-familia-telers-al-carrer672"
+   }
+  ],
+  "permanent": [
+   {
+    "category": "Exposicions",
+    "free": false,
+    "place": "Canals Galeria d'Art",
+    "source": "gencat",
+    "title": "Activitats a Canals, Galeria d'Art",
+    "url": "https://agenda.cultura.gencat.cat/content/agenda/ca/results.html?c=eyJrZXl3b3JkcyI6IiIsImRhdGFPcHRpb24iOiIiLCJkYXRhRGVzZGUiOiIiLCJkYXRhRmluc2EiOiIiLCJlc3BhaSI6IiIsInBvYmxhY2lvIjoic2FudCBjdWdhdCIsImFtYml0cyI6WyJhZ2VuZGE6YW1iaXRzL2FydHMtdmlzdWFscyJdLCJjYXRlZ29yaWVzIjpbImFnZW5kYTpjYXRlZ29yaWVzL2V4cG9zaWNpb25zIl19&page=0"
+   },
+   {
+    "category": "Infància",
+    "free": true,
+    "place": "Celler modernista de St. Cugat del Vallès",
+    "source": "gencat",
+    "title": "Visita al Celler modernista de St. Cugat del Vallès",
+    "url": ""
+   }
+  ]
+ },
+ "fetched": "2026-11-19T06:30:16+01:00"
+}

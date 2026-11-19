@@ -1,0 +1,295 @@
+{
+ "data": [
+  {
+   "address": "Avinguda de la Torre Blanca 2",
+   "cuisine": "",
+   "group": "night",
+   "hours": "",
+   "km": "",
+   "lat": 41.471295,
+   "lon": 2.089838,
+   "name": "Afònic Sant Cugat",
+   "osm": "",
+   "phone": "+34 623 061 777",
+   "ref": "",
+   "src": [
+    "BrightQuery"
+   ],
+   "type": "karaoke_box",
+   "web": ""
+  },
+  {
+   "address": "Avinguda del Pla del Vinyet, 81-85",
+   "cuisine": "",
+   "group": "night",
+   "hours": "",
+   "km": "",
+   "lat": 41.470318,
+   "lon": 2.092048,
+   "name": "Bar Bocamoll",
+   "osm": "",
+   "phone": "+34 609 101 426",
+   "ref": "",
+   "src": [
+    "BrightQuery",
+    "meta"
+   ],
+   "type": "pub",
+   "web": "https://www.facebook.com/113509483811840"
+  },
+  {
+   "address": "Calle del Vallès 126",
+   "cuisine": "",
+   "group": "night",
+   "hours": "",
+   "km": "",
+   "lat": 41.473172,
+   "lon": 2.092692,
+   "name": "Bar El Cortijo",
+   "osm": "",
+   "phone": "+34 602 848 595",
+   "ref": "",
+   "src": [
+    "BrightQuery"
+   ],
+   "type": "pub",
+   "web": ""
+  },
+  {
+   "address": "Avinguda Pla del Vinyet, 41-47",
+   "cuisine": "",
+   "group": "night",
+   "hours": "",
+   "km": "",
+   "lat": 41.473896,
+   "lon": 2.09039,
+   "name": "Cafe Auditori",
+   "osm": "",
+   "phone": "+34 936 746 973",
+   "ref": "",
+   "src": [
+    "BrightQuery"
+   ],
+   "type": "nightclub",
+   "web": "http://www.cafeauditori.com"
+  },
+  {
+   "address": "Avinguda de la Torre Blanca, 2, 8",
+   "cuisine": "",
+   "group": "night",
+   "hours": "",
+   "km": "",
+   "lat": 41.471022,
+   "lon": 2.089596,
+   "name": "Dr. Lagarto",
+   "osm": "",
+   "phone": "+34 936 753 654",
+   "ref": "",
+   "src": [
+    "BrightQuery",
+    "meta"
+   ],
+   "type": "cocktail_bar",
+   "web": "https://twitter.com/LagartoDr"
+  },
+  {
+   "address": "Avinguda de Rius i Taulet 120",
+   "cuisine": "",
+   "group": "night",
+   "hours": "",
+   "km": "",
+   "lat": 41.478301,
+   "lon": 2.070955,
+   "name": "El Siglo",
+   "osm": "",
+   "phone": "+34 936 744 950",
+   "ref": "",
+   "src": [
+    "BrightQuery"
+   ],
+   "type": "nightclub",
+   "web": "http://www.salaelsiglo.com/"
+  },
+  {
+   "address": "Avinguda de les Corts Catalanes 2",
+   "cuisine": "",
+   "group": "night",
+   "hours": "",
+   "km": "",
+   "lat": 41.481998,
+   "lon": 2.091694,
+   "name": "Escándalo · Sant Cugat",
+   "osm": "",
+   "phone": "",
+   "ref": "",
+   "src": [
+    "BrightQuery"
+   ],
+   "type": "nightclub",
+   "web": ""
+  },
+  {
+   "address": "Avinguda de les Corts Catalanes 2",
+   "cuisine": "",
+   "group": "night",
+   "hours": "",
+   "km": "",
+   "lat": 41.481998,
+   "lon": 2.091694,
+   "name": "Hotel California",
+   "osm": "",
+   "phone": "+34 672 418 217",
+   "ref": "",
+   "src": [
+    "BrightQuery"
+   ],
+   "type": "nightclub",
+   "web": "http://www.instagram.com/hotelcaliforniadisco"
+  },
+  {
+   "address": "Mèxic, Carrer de Mèxic, 26",
+   "cuisine": "",
+   "group": "night",
+   "hours": "",
+   "km": "",
+   "lat": 41.449092,
+   "lon": 2.085814,
+   "name": "Instinto Willy",
+   "osm": "",
+   "phone": "+34 631 483 239",
+   "ref": "",
+   "src": [
+    "meta"
+   ],
+   "type": "nightclub",
+   "web": "https://www.facebook.com/1070594959652017"
+  },
+  {
+   "address": "Carrer el Terral, 22",
+   "cuisine": "",
+   "group": "night",
+   "hours": "",
+   "km": "",
+   "lat": 41.449188,
+   "lon": 2.074909,
+   "name": "La Costa Comarruga",
+   "osm": "",
+   "phone": "",
+   "ref": "",
+   "src": [
+    "meta"
+   ],
+   "type": "nightclub",
+   "web": "https://www.facebook.com/458522611610661"
+  },
+  {
+   "address": "Carrer de Can Solà, 9",
+   "cuisine": "",
+   "group": "night",
+   "hours": "",
+   "km": "",
+   "lat": 41.471392,
+   "lon": 2.078251,
+   "name": "Master Farra",
+   "osm": "",
+   "phone": "+34 691 022 697",
+   "ref": "",
+   "src": [
+    "meta"
+   ],
+   "type": "nightclub",
+   "web": "http://masterfarra.com/"
+  },
+  {
+   "address": "Avinguda de les Corts Catalanes 5",
+   "cuisine": "",
+   "group": "night",
+   "hours": "",
+   "km": "",
+   "lat": 41.44423,
+   "lon": 2.065381,
+   "name": "Moon Sant Cugat",
+   "osm": "",
+   "phone": "+34 649 299 874",
+   "ref": "",
+   "src": [
+    "BrightQuery"
+   ],
+   "type": "nightclub",
+   "web": ""
+  },
+  {
+   "address": "Avinguda de les Corts Catalanes, 9",
+   "cuisine": "",
+   "group": "night",
+   "hours": "",
+   "km": "",
+   "lat": 41.47267,
+   "lon": 2.096817,
+   "name": "Polvos Pica Pica",
+   "osm": "",
+   "phone": "+34 664 771 271",
+   "ref": "",
+   "src": [
+    "meta"
+   ],
+   "type": "nightclub",
+   "web": "http://polvospicapica.eventbrite.com/"
+  },
+  {
+   "address": "Passeig de la Floresta 24",
+   "cuisine": "",
+   "group": "night",
+   "hours": "",
+   "km": "",
+   "lat": 41.448814,
+   "lon": 2.079629,
+   "name": "Sala Uref",
+   "osm": "",
+   "phone": "+34 930 245 684",
+   "ref": "",
+   "src": [
+    "BrightQuery"
+   ],
+   "type": "music_venue",
+   "web": ""
+  },
+  {
+   "address": "Avinguda del Pla del Vinyet 57",
+   "cuisine": "",
+   "group": "night",
+   "hours": "",
+   "km": "",
+   "lat": 41.470262,
+   "lon": 2.089854,
+   "name": "The Police 080",
+   "osm": "",
+   "phone": "+34 935 900 420",
+   "ref": "",
+   "src": [
+    "BrightQuery"
+   ],
+   "type": "nightclub",
+   "web": "http://www.thepolice.es/"
+  },
+  {
+   "address": "Oceano Atlantico 16",
+   "cuisine": "",
+   "group": "night",
+   "hours": "",
+   "km": "",
+   "lat": 41.456743,
+   "lon": 2.074973,
+   "name": "Underground Room Bcn",
+   "osm": "",
+   "phone": "+34 689 248 512",
+   "ref": "",
+   "src": [
+    "BrightQuery"
+   ],
+   "type": "night_venue",
+   "web": "http://mytobooking.wixsite.com/myto"
+  }
+ ],
+ "fetched": "2026-11-19T06:30:16+01:00"
+}

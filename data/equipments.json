@@ -1,0 +1,1935 @@
+{
+ "data": [
+  {
+   "address": "Pl. de la Vila",
+   "cat": "Administració pública",
+   "cp": "08172",
+   "lat": "41.47060737",
+   "lon": "2.08509909",
+   "name": "Ajuntament de Sant Cugat del Vallès",
+   "phone": "935657000",
+   "sub": "Ens locals"
+  },
+  {
+   "address": "Rbla. M. J. Verdaguer",
+   "cat": "Administració pública",
+   "cp": "08197",
+   "lat": "41.45785617",
+   "lon": "2.04832228",
+   "name": "Entitat Municipal Descentralitzada de Valldoreix",
+   "phone": "93-6742719",
+   "sub": "Ens locals"
+  },
+  {
+   "address": "Vila",
+   "cat": "Comerç. Consum",
+   "cp": "08172",
+   "lat": "41.470677976",
+   "lon": "2.08526616",
+   "name": "Oficina Municipal d'Informació al Consumidor de Sant Cugat del Vallès",
+   "phone": "935657000",
+   "sub": "Servei públic de Consum"
+  },
+  {
+   "address": "Carrer Sant Albert, 5",
+   "cat": "Cultura",
+   "cp": "08197",
+   "lat": "41.458877119",
+   "lon": "2.063831443",
+   "name": "CASAL D'AVIS DE VALLDOREIX",
+   "phone": "935868689",
+   "sub": "Altres espais aptes per a l'ús cultural"
+  },
+  {
+   "address": "Carrer Vallès, 51",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.473074752",
+   "lon": "2.089664662",
+   "name": "ESBART SANT CUGAT",
+   "phone": "936752652",
+   "sub": "Altres espais aptes per a l'ús cultural"
+  },
+  {
+   "address": "Carrer Sant Albert, s/n",
+   "cat": "Cultura",
+   "cp": "08197",
+   "lat": "41.4617372",
+   "lon": "2.0614279",
+   "name": "HOSTAL ENTITATS",
+   "phone": "936742719",
+   "sub": "Altres espais aptes per a l'ús cultural"
+  },
+  {
+   "address": "NA",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.471800697",
+   "lon": "2.086418392",
+   "name": "ARXIU MUNICIPAL DE SANT CUGAT DEL VALLÈS",
+   "phone": "935657000",
+   "sub": "Arxius"
+  },
+  {
+   "address": "NA",
+   "cat": "Cultura",
+   "cp": "08195",
+   "lat": "41.4656625",
+   "lon": "2.0692599",
+   "name": "ARXIU NACIONAL DE CATALUNYA",
+   "phone": "935897788",
+   "sub": "Arxius"
+  },
+  {
+   "address": "Carrer Jaume I, 33-51",
+   "cat": "Cultura",
+   "cp": "08195",
+   "lat": "41.466147087",
+   "lon": "2.069522109",
+   "name": "ARXIU NACIONAL DE CATALUNYA. BIBLIOTECA",
+   "phone": "935897788",
+   "sub": "Biblioteques"
+  },
+  {
+   "address": "Avinguda Torre Blanca, 59",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.470357232",
+   "lon": "2.090335689",
+   "name": "BIBLIOTECA BORJA (ESADE-UNIVERSITAT RAMON LLULL)",
+   "phone": "932806162",
+   "sub": "Biblioteques"
+  },
+  {
+   "address": "Avinguda Pla del Vinyet, s/n",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.469878797",
+   "lon": "2.087995988",
+   "name": "BIBLIOTECA CENTRAL GABRIEL FERRATER",
+   "phone": "935892749",
+   "sub": "Biblioteques"
+  },
+  {
+   "address": "Plaça Ausiàs Marc, 2",
+   "cat": "Cultura",
+   "cp": "08195",
+   "lat": "41.469577285",
+   "lon": "2.061545963",
+   "name": "BIBLIOTECA DE MIRA-SOL - MARTA PESSARRODONA",
+   "phone": "935657097",
+   "sub": "Biblioteques"
+  },
+  {
+   "address": "Rambla Mossèn Jacint Verdaguer, 185",
+   "cat": "Cultura",
+   "cp": "08197",
+   "lat": "41.4574273",
+   "lon": "2.047527912",
+   "name": "BIBLIOTECA DE VALLDOREIX - VALL D'OR",
+   "phone": "936759361",
+   "sub": "Biblioteques"
+  },
+  {
+   "address": "Carrer Pau Muñoz i Castanyer, 3",
+   "cat": "Cultura",
+   "cp": "08174",
+   "lat": "41.484012605",
+   "lon": "2.065651531",
+   "name": "BIBLIOTECA DE VOLPELLERES - MIQUEL BATLLORI",
+   "phone": "935657077",
+   "sub": "Biblioteques"
+  },
+  {
+   "address": "Carrer Joan Buscallà, 1-9",
+   "cat": "Cultura",
+   "cp": "08173",
+   "lat": "41.478184557",
+   "lon": "2.094012657",
+   "name": "BIBLIOTECA FERRER INTERNACIONAL CENTRE D'INVESTIGACIÓ",
+   "phone": "936003799",
+   "sub": "Biblioteques"
+  },
+  {
+   "address": "Avinguda de la Generalitat, 152",
+   "cat": "Cultura",
+   "cp": "08174",
+   "lat": "41.4916805857889",
+   "lon": "2.05041485192801",
+   "name": "BIBLIOTECA GRÍFOLS",
+   "phone": "935710147",
+   "sub": "Biblioteques"
+  },
+  {
+   "address": "Carrer Josep Trueta, s/n",
+   "cat": "Cultura",
+   "cp": "08195",
+   "lat": "41.473557093",
+   "lon": "2.043859436",
+   "name": "UNIVERSITAT INTERNACIONAL DE CATALUNYA (SANT CUGAT)",
+   "phone": "935042020",
+   "sub": "Biblioteques"
+  },
+  {
+   "address": "Carrer Pere Serra, 1-15",
+   "cat": "Cultura",
+   "cp": "08173",
+   "lat": "41.469363312",
+   "lon": "2.072273525",
+   "name": "UNIVERSITAT POLITÈCNICA DE CATALUNYA. ESCOLA TÈCNICA SUPERIOR D'ARQUITECTURA DEL VALLÈS (ETSAV)",
+   "phone": "934017844",
+   "sub": "Biblioteques"
+  },
+  {
+   "address": "Passeig de la Torre Blanca, 59",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.476160176",
+   "lon": "2.089623182",
+   "name": "UNIVERSITAT RAMON LLULL. ESADE - CAMPUS SANT CUGAT",
+   "phone": "932806162",
+   "sub": "Biblioteques"
+  },
+  {
+   "address": "Passatge Sagalà, 4-6",
+   "cat": "Cultura",
+   "cp": "08198",
+   "lat": "41.445364069",
+   "lon": "2.077827362",
+   "name": "ASSOCIACIÓ ESPORTIVA I CULTURAL LA FLORESTA",
+   "phone": "",
+   "sub": "Centres culturals: ateneus, centres cívics i cases de cultura"
+  },
+  {
+   "address": "Avinguda De Gràcia, 16",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.4677224",
+   "lon": "2.0839492",
+   "name": "ATENEU SANTCUGATENC",
+   "phone": "936745195",
+   "sub": "Centres culturals: ateneus, centres cívics i cases de cultura"
+  },
+  {
+   "address": "NA",
+   "cat": "Cultura",
+   "cp": "08173",
+   "lat": "41.4745728",
+   "lon": "2.0844337",
+   "name": "CASA DE CULTURA",
+   "phone": "935891382",
+   "sub": "Centres culturals: ateneus, centres cívics i cases de cultura"
+  },
+  {
+   "address": "Carrer mallorca, 42",
+   "cat": "Cultura",
+   "cp": "08195",
+   "lat": "41.467923026",
+   "lon": "2.046177768",
+   "name": "CASAL CULTURAL DE MIRA-SOL",
+   "phone": "935892018",
+   "sub": "Centres culturals: ateneus, centres cívics i cases de cultura"
+  },
+  {
+   "address": "Carrer Sant Albert, 1",
+   "cat": "Cultura",
+   "cp": "08197",
+   "lat": "41.4582655",
+   "lon": "2.0637881",
+   "name": "CASAL DE CULTURA DE VALLDOREIX",
+   "phone": "936742719",
+   "sub": "Centres culturals: ateneus, centres cívics i cases de cultura"
+  },
+  {
+   "address": "Carrer Ginjoler, 10",
+   "cat": "Cultura",
+   "cp": "08198",
+   "lat": "41.4465836",
+   "lon": "2.0707254",
+   "name": "CENTRE CÍVIC DE LA FLORESTA",
+   "phone": "935838143",
+   "sub": "Centres culturals: ateneus, centres cívics i cases de cultura"
+  },
+  {
+   "address": "Plaça Del Coll De La Creu De'N Blau, 7",
+   "cat": "Cultura",
+   "cp": "08196",
+   "lat": "41.4747306",
+   "lon": "2.0895794",
+   "name": "CENTRE CÍVIC DE LES PLANES",
+   "phone": "936755105",
+   "sub": "Centres culturals: ateneus, centres cívics i cases de cultura"
+  },
+  {
+   "address": "Carrer Bartomeu, 11",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.473801476",
+   "lon": "2.08305012",
+   "name": "CLUB MUNTANYENC SANT CUGAT",
+   "phone": "936745396",
+   "sub": "Centres culturals: ateneus, centres cívics i cases de cultura"
+  },
+  {
+   "address": "Avinguda Anselm Clavé, 17",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.4717912",
+   "lon": "2.0803477",
+   "name": "LA UNIÓ SANTCUGATENCA",
+   "phone": "936752057",
+   "sub": "Centres culturals: ateneus, centres cívics i cases de cultura"
+  },
+  {
+   "address": "Avinguda Pla del Vinyet, s/n",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.4699943",
+   "lon": "2.0896475",
+   "name": "CINEMES SANT CUGAT",
+   "phone": "938531462",
+   "sub": "Cinemes"
+  },
+  {
+   "address": "Avinguda Via Augusta, 2-14",
+   "cat": "Cultura",
+   "cp": "08174",
+   "lat": "41.4842605",
+   "lon": "2.0535039",
+   "name": "YELMO CINES SANT CUGAT",
+   "phone": "935896036",
+   "sub": "Cinemes"
+  },
+  {
+   "address": "Carrer Orient, 24",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.4743803",
+   "lon": "2.0875413",
+   "name": "CANALS GALERIA D'ART",
+   "phone": "607253998",
+   "sub": "Espais d'arts visuals"
+  },
+  {
+   "address": "Carrer Angel Guimera , 1",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.467836268",
+   "lon": "2.078990129",
+   "name": "CENTRE D'ART MARISTANY",
+   "phone": "931658589",
+   "sub": "Espais d'arts visuals"
+  },
+  {
+   "address": "Plaça Cal Quitèria, 1",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.4687217",
+   "lon": "2.082388",
+   "name": "CENTRE GRAU-GARRIGA D'ART TÈXTIL CONTEMPORANI",
+   "phone": "677490164",
+   "sub": "Espais d'arts visuals"
+  },
+  {
+   "address": "Carrer Girona, 13",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.468913747",
+   "lon": "2.082753001",
+   "name": "ESPAI LLUIS RIBAS",
+   "phone": "935895776",
+   "sub": "Espais d'arts visuals"
+  },
+  {
+   "address": "Carrer Gorina, 13",
+   "cat": "Cultura",
+   "cp": "",
+   "lat": "41.4719772",
+   "lon": "2.0830296",
+   "name": "ESPAI LLUÍS RIBAS",
+   "phone": "616450525",
+   "sub": "Espais d'arts visuals"
+  },
+  {
+   "address": "Carrer Sant Jordi, 14",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.46889665",
+   "lon": "2.081046747",
+   "name": "LA GALERIA",
+   "phone": "936750498",
+   "sub": "Espais d'arts visuals"
+  },
+  {
+   "address": "Carrer Sant Jordi, 14",
+   "cat": "Cultura",
+   "cp": "",
+   "lat": "41.4688856",
+   "lon": "2.081097",
+   "name": "LA GALERIA BATLLE ARGIMON",
+   "phone": "936750498",
+   "sub": "Espais d'arts visuals"
+  },
+  {
+   "address": "Carrer Castellví, 1",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.4744348",
+   "lon": "2.0836304",
+   "name": "SALA EXPOSICIONS CASA DE CULTURA",
+   "phone": "935891382",
+   "sub": "Espais d'arts visuals"
+  },
+  {
+   "address": "Carrer Mallorca, 42",
+   "cat": "Cultura",
+   "cp": "08195",
+   "lat": "41.4678263",
+   "lon": "2.04634",
+   "name": "SALA EXPOSICIONS CASAL DE MIRA-SOL",
+   "phone": "935892018",
+   "sub": "Espais d'arts visuals"
+  },
+  {
+   "address": "Carrer Santiago Rusiñol, 52",
+   "cat": "Cultura",
+   "cp": "",
+   "lat": "41.4728304",
+   "lon": "2.0841419",
+   "name": "SALA RUSIÑOL",
+   "phone": "936754751",
+   "sub": "Espais d'arts visuals"
+  },
+  {
+   "address": "Plaça Victòria dels Angels, 2",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.4693222",
+   "lon": "2.089225",
+   "name": "AULA MAGNA DE L'ESCOLA MÚSICA",
+   "phone": "935890551",
+   "sub": "Espais escènics i musicals"
+  },
+  {
+   "address": "Carrer Castellví, 8",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.474529",
+   "lon": "2.0844855",
+   "name": "CASA DE CULTURA DE SANT CUGAT",
+   "phone": "935891382",
+   "sub": "Espais escènics i musicals"
+  },
+  {
+   "address": "Plaça Del Coll De La Creu d'En Blau, 7",
+   "cat": "Cultura",
+   "cp": "08196",
+   "lat": "41.4336393",
+   "lon": "2.0941063",
+   "name": "CASAL LES PLANES",
+   "phone": "936755105",
+   "sub": "Espais escènics i musicals"
+  },
+  {
+   "address": "Carrer Casino, 27",
+   "cat": "Cultura",
+   "cp": "08198",
+   "lat": "41.4433795",
+   "lon": "2.0725389",
+   "name": "CASINO LA FLORESTA",
+   "phone": "935838143",
+   "sub": "Espais escènics i musicals"
+  },
+  {
+   "address": "Plaça Victòria Dels Angels, 2",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.4699731",
+   "lon": "2.0836809",
+   "name": "CONSERVATORI DE SANT CUGAT",
+   "phone": "935890551",
+   "sub": "Espais escènics i musicals"
+  },
+  {
+   "address": "Carrer Sant Albert, s/n",
+   "cat": "Cultura",
+   "cp": "08197",
+   "lat": "41.4617372",
+   "lon": "2.0614279",
+   "name": "NAU DE CULTURA DE VALLDOREIX",
+   "phone": "936742719",
+   "sub": "Espais escènics i musicals"
+  },
+  {
+   "address": "Carrer Sant Albert, 6",
+   "cat": "Cultura",
+   "cp": "08197",
+   "lat": "41.4585342",
+   "lon": "2.06400228",
+   "name": "SALA CASAL DE CULTURA DE VALLDOREIX",
+   "phone": "936742719",
+   "sub": "Espais escènics i musicals"
+  },
+  {
+   "address": "Carrer Mallorca, 42",
+   "cat": "Cultura",
+   "cp": "08195",
+   "lat": "41.4678263",
+   "lon": "2.04634",
+   "name": "TEATRE CASAL DE MIRA-SOL",
+   "phone": "935892018",
+   "sub": "Espais escènics i musicals"
+  },
+  {
+   "address": "Avinguda Anselm Clavé, 17",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.4717912",
+   "lon": "2.0803477",
+   "name": "TEATRE LA UNIÓ",
+   "phone": "936752057",
+   "sub": "Espais escènics i musicals"
+  },
+  {
+   "address": "Plaça Victòria Dels Àngels, 1",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.4699731",
+   "lon": "2.0836809",
+   "name": "TEATRE-AUDITORI SANT CUGAT",
+   "phone": "935907690",
+   "sub": "Espais escènics i musicals"
+  },
+  {
+   "address": "NA",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.4736757",
+   "lon": "2.0850692",
+   "name": "MUSEU DE SANT CUGAT - MUSEU DEL MONESTIR",
+   "phone": "936759951-935896366",
+   "sub": "Museus, col·leccions i centres d'interpretació"
+  },
+  {
+   "address": "NA",
+   "cat": "Cultura",
+   "cp": "08173",
+   "lat": "41.4775775",
+   "lon": "2.0719893",
+   "name": "MUSEU DE SANT CUGAT. CAPELLA DE SANT DOMÈNEC",
+   "phone": "936759951",
+   "sub": "Museus, col·leccions i centres d'interpretació"
+  },
+  {
+   "address": "NA",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.4736757",
+   "lon": "2.0850692",
+   "name": "MUSEU DE SANT CUGAT. CELLER MODERNISTA",
+   "phone": "936759951",
+   "sub": "Museus, col·leccions i centres d'interpretació"
+  },
+  {
+   "address": "NA",
+   "cat": "Cultura",
+   "cp": "08172",
+   "lat": "41.4743746",
+   "lon": "2.0821375",
+   "name": "MUSEU DEL CÒMIC I LA IL·LUSTRACIÓ",
+   "phone": "935891194",
+   "sub": "Museus, col·leccions i centres d'interpretació"
+  },
+  {
+   "address": "NA",
+   "cat": "Cultura",
+   "cp": "08173",
+   "lat": "41.465052",
+   "lon": "2.0776722",
+   "name": "MUSEU DEL TAPÍS CONTEMPORANI - CASA AYMAT",
+   "phone": "936759951",
+   "sub": "Museus, col·leccions i centres d'interpretació"
+  },
+  {
+   "address": "NA",
+   "cat": "Cultura",
+   "cp": "08197",
+   "lat": "41.4583615",
+   "lon": "2.0672936",
+   "name": "MUSEU PARROQUIAL DE VALLDOREIX",
+   "phone": "936740569",
+   "sub": "Museus, col·leccions i centres d'interpretació"
+  },
+  {
+   "address": "Cementiri, s/n, polígon Can Graells",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.49687",
+   "lon": "2.064002",
+   "name": "Colegio Japonés de Barcelona",
+   "phone": "935893247",
+   "sub": ""
+  },
+  {
+   "address": "ctra. de Sant Cugat a Rubí, 107",
+   "cat": "Educació. Formació",
+   "cp": "08172",
+   "lat": "41.480254",
+   "lon": "2.053538",
+   "name": "Institut FP Sant Cugat del Vallès",
+   "phone": "",
+   "sub": "Curs d’accés als cicles formatius de grau mitjà (AA01)"
+  },
+  {
+   "address": "c. Villà, 82-84",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.464077",
+   "lon": "2.076418",
+   "name": "EB privada Les Tortuguetes",
+   "phone": "",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Canal de la Mànega, 3-5",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.457702",
+   "lon": "2.074116",
+   "name": "El Pinar de Nuestra Señora",
+   "phone": "936741400",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. El Molí, 1",
+   "cat": "Educació. Formació",
+   "cp": "08196",
+   "lat": "41.433627",
+   "lon": "2.093637",
+   "name": "Escola Bressol El Molí",
+   "phone": "",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Brollador, 7",
+   "cat": "Educació. Formació",
+   "cp": "08197",
+   "lat": "41.45302",
+   "lon": "2.041695",
+   "name": "Escola Bressol de Valldoreix",
+   "phone": "",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Pla del Vinyet, s/n",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.469819",
+   "lon": "2.094114",
+   "name": "Europa",
+   "phone": "935898420",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Monestir, 9",
+   "cat": "Educació. Formació",
+   "cp": "08172",
+   "lat": "41.475149",
+   "lon": "2.088693",
+   "name": "LLI privada De Zero a Tres",
+   "phone": "",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Sant Esteve, 7",
+   "cat": "Educació. Formació",
+   "cp": "08173",
+   "lat": "41.474678",
+   "lon": "2.082869",
+   "name": "LLI privada El Camí Feliç Sant Cugat",
+   "phone": "",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Apenins, 5",
+   "cat": "Educació. Formació",
+   "cp": "08195",
+   "lat": "41.472377",
+   "lon": "2.051616",
+   "name": "LLI privada El Mirasolet",
+   "phone": "",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Gomera, 5",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.470739",
+   "lon": "2.041069",
+   "name": "LLI privada El Segon Mirasolet",
+   "phone": "",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Caldes, 1",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.476504",
+   "lon": "2.075136",
+   "name": "LLI privada Guixota",
+   "phone": "936756427",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Carme, 40- 42",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.472211",
+   "lon": "2.083676",
+   "name": "LLI privada L'Alba",
+   "phone": "936748699",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Bergara, 40",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.466381",
+   "lon": "2.083628",
+   "name": "LLI privada Les Tortugues",
+   "phone": "936740706",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Joan XXIII, 31",
+   "cat": "Educació. Formació",
+   "cp": "08173",
+   "lat": "41.477839",
+   "lon": "2.087362",
+   "name": "LLI privada Little Ducky",
+   "phone": "",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Valldoreix, 18",
+   "cat": "Educació. Formació",
+   "cp": "08172",
+   "lat": "41.46973",
+   "lon": "2.080202",
+   "name": "LLI privada Magnòlia",
+   "phone": "935830890",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Sant Maria, 21",
+   "cat": "Educació. Formació",
+   "cp": "08172",
+   "lat": "41.471338",
+   "lon": "2.081258",
+   "name": "LLI privada Nemomarlin Sant Cugat",
+   "phone": "",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Dolors Bigas, 16, local 1",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.483016",
+   "lon": "2.065772",
+   "name": "LLI privada Petit Milú",
+   "phone": "",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Estapé, 90",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.478556",
+   "lon": "2.074803",
+   "name": "LLI privada Pipo",
+   "phone": "936752854",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "pg. del Prat, 25",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.455259",
+   "lon": "2.036663",
+   "name": "LLI privada Quitxalla",
+   "phone": "",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "av. Cerdanyola, 32",
+   "cat": "Educació. Formació",
+   "cp": "08172",
+   "lat": "41.473775",
+   "lon": "2.090173",
+   "name": "LLI privada Somriures de Sant Cugat",
+   "phone": "",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "ctra. de Sant Cugat a El Papiol, 36-46",
+   "cat": "Educació. Formació",
+   "cp": "08195",
+   "lat": "41.468734",
+   "lon": "2.057913",
+   "name": "La Farga",
+   "phone": "935894464",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. de Joan Maragall, 25",
+   "cat": "Educació. Formació",
+   "cp": "08173",
+   "lat": "41.48032",
+   "lon": "2.08372",
+   "name": "Llar d'infants Cavall Fort",
+   "phone": "935836797",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Mercat, 2",
+   "cat": "Educació. Formació",
+   "cp": "08195",
+   "lat": "41.46697",
+   "lon": "2.058405",
+   "name": "Llar d'infants El Niu",
+   "phone": "936744496",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Rovellat, 41",
+   "cat": "Educació. Formació",
+   "cp": "08173",
+   "lat": "41.473752",
+   "lon": "2.076508",
+   "name": "Llar d'infants El Tricicle",
+   "phone": "935836798",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Mina, s/n",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.477602",
+   "lon": "2.076695",
+   "name": "Llar d'infants Gargot",
+   "phone": "936749450",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "Baixada de Can Llobet, s/n",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.446813",
+   "lon": "2.071136",
+   "name": "Llar d'infants La Mimosa",
+   "phone": "936748982",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Abat Biure, 29",
+   "cat": "Educació. Formació",
+   "cp": "08173",
+   "lat": "41.478152",
+   "lon": "2.087892",
+   "name": "Llar d'infants Mare de Déu de Montserrat",
+   "phone": "",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Sant Esteve, 36",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.475113",
+   "lon": "2.084224",
+   "name": "Mainada",
+   "phone": "936748152",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Sant Jordi, 22",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.468133",
+   "lon": "2.081446",
+   "name": "Patufet",
+   "phone": "936741239",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "rbla. Ribatallada, 12-14",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.467732",
+   "lon": "2.082576",
+   "name": "Santa Isabel",
+   "phone": "936740414",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "av. de Mas Fuster,128/av.de Vall d'Or,23",
+   "cat": "Educació. Formació",
+   "cp": "08195",
+   "lat": "41.45448",
+   "lon": "2.05473",
+   "name": "Sefardí Hatikva",
+   "phone": "",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "av. Alcalde Barnils, s/n",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.485732",
+   "lon": "2.078159",
+   "name": "Viaró",
+   "phone": "935890589",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "c. Ferrer i Guàrdia, s/n",
+   "cat": "Educació. Formació",
+   "cp": "08174",
+   "lat": "41.494529",
+   "lon": "2.075812",
+   "name": "Àgora",
+   "phone": "935902600",
+   "sub": "Educació infantil de 1r cicle (EINF1C)"
+  },
+  {
+   "address": "camí del Crist Treballador, s/n",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.46532",
+   "lon": "2.09426",
+   "name": "Avenç",
+   "phone": "936744154",
+   "sub": "Educació infantil de 2n cicle (EINF2C)"
+  },
+  {
+   "address": "ctra. de Rubí, 90-100",
+   "cat": "Educació. Formació",
+   "cp": "08174",
+   "lat": "41.480522",
+   "lon": "2.056167",
+   "name": "Crea Nova, Creativitat i Innovació",
+   "phone": "",
+   "sub": "Educació infantil de 2n cicle (EINF2C)"
+  },
+  {
+   "address": "c. Pere Ferrer, 5",
+   "cat": "Educació. Formació",
+   "cp": "08195",
+   "lat": "41.471432",
+   "lon": "2.067926",
+   "name": "Escola Ciutat d'Alba",
+   "phone": "935764033",
+   "sub": "Educació infantil de 2n cicle (EINF2C)"
+  },
+  {
+   "address": "p. Abat Donadeu  s/n",
+   "cat": "Educació. Formació",
+   "cp": "08173",
+   "lat": "41.477994",
+   "lon": "2.089333",
+   "name": "Escola Collserola",
+   "phone": "935898478",
+   "sub": "Educació infantil de 2n cicle (EINF2C)"
+  },
+  {
+   "address": "c. J. Vicenç Foix/Carles Riba, s/n",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.48185",
+   "lon": "2.08532",
+   "name": "Escola Gerbert d'Orlhac",
+   "phone": "935836713",
+   "sub": "Educació infantil de 2n cicle (EINF2C)"
+  },
+  {
+   "address": "c. Brollador, 5",
+   "cat": "Educació. Formació",
+   "cp": "08197",
+   "lat": "41.453779",
+   "lon": "2.041636",
+   "name": "Escola Jaume Ferran i Clua",
+   "phone": "935896662",
+   "sub": "Educació infantil de 2n cicle (EINF2C)"
+  },
+  {
+   "address": "pg. de la Creu, s/n",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.47402",
+   "lon": "2.079293",
+   "name": "Escola Joan Maragall",
+   "phone": "935898586",
+   "sub": "Educació infantil de 2n cicle (EINF2C)"
+  },
+  {
+   "address": "pg. de la Mare de la Font, 2-10",
+   "cat": "Educació. Formació",
+   "cp": "08174",
+   "lat": "41.48186",
+   "lon": "2.067515",
+   "name": "Escola L'Olivera",
+   "phone": "936742726",
+   "sub": "Educació infantil de 2n cicle (EINF2C)"
+  },
+  {
+   "address": "Camí Can Pagan, s/n",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.449493",
+   "lon": "2.064619",
+   "name": "Escola La Floresta",
+   "phone": "935898677",
+   "sub": "Educació infantil de 2n cicle (EINF2C)"
+  },
+  {
+   "address": "av. de la Clota, 3",
+   "cat": "Educació. Formació",
+   "cp": "08173",
+   "lat": "41.481128",
+   "lon": "2.067983",
+   "name": "Escola La Mirada",
+   "phone": "937076770",
+   "sub": "Educació infantil de 2n cicle (EINF2C)"
+  },
+  {
+   "address": "c. Santa Teresa, 61",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.466094",
+   "lon": "2.088435",
+   "name": "Escola Pi d'en Xandri",
+   "phone": "935894201",
+   "sub": "Educació infantil de 2n cicle (EINF2C)"
+  },
+  {
+   "address": "av. Vullpalleres, 51",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.48119",
+   "lon": "2.076358",
+   "name": "Escola Pins del Vallès",
+   "phone": "935897812",
+   "sub": "Educació infantil de 2n cicle (EINF2C)"
+  },
+  {
+   "address": "c. Josep Irla, 50",
+   "cat": "Educació. Formació",
+   "cp": "08195",
+   "lat": "41.473572",
+   "lon": "2.061747",
+   "name": "Escola Turó de Can Mates",
+   "phone": "935900203",
+   "sub": "Educació infantil de 2n cicle (EINF2C)"
+  },
+  {
+   "address": "ctra. Sant Cugat-Papiol, s/n",
+   "cat": "Educació. Formació",
+   "cp": "08172",
+   "lat": "41.46869",
+   "lon": "2.048207",
+   "name": "Institut Escola Catalunya",
+   "phone": "",
+   "sub": "Educació infantil de 2n cicle (EINF2C)"
+  },
+  {
+   "address": "c. Mercè Vilaret, 21",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.49528",
+   "lon": "2.073818",
+   "name": "Pureza de María",
+   "phone": "936742250",
+   "sub": "Educació infantil de 2n cicle (EINF2C)"
+  },
+  {
+   "address": "av. Generalitat, s/n",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.490777",
+   "lon": "2.070253",
+   "name": "Thau",
+   "phone": "935898108",
+   "sub": "Educació infantil de 2n cicle (EINF2C)"
+  },
+  {
+   "address": "c. Granollers, 43",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.476773",
+   "lon": "2.071473",
+   "name": "Institut Angeleta Ferrer i Sensat",
+   "phone": "935893882",
+   "sub": "Educació secundària obligatòria (ESO)"
+  },
+  {
+   "address": "av. Villadelprat, 91-93",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.460335",
+   "lon": "2.069945",
+   "name": "Institut Arnau Cadell",
+   "phone": "936747266",
+   "sub": "Educació secundària obligatòria (ESO)"
+  },
+  {
+   "address": "av. Alcalde Barnils, s/n",
+   "cat": "Educació. Formació",
+   "cp": "08174",
+   "lat": "41.484944",
+   "lon": "2.0782",
+   "name": "Institut Centre d'Alt Rendiment Esportiu",
+   "phone": "936753950",
+   "sub": "Educació secundària obligatòria (ESO)"
+  },
+  {
+   "address": "av. Ragull, 45-49",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.47882",
+   "lon": "2.09096",
+   "name": "Institut Joaquima Pla i Farreras",
+   "phone": "935879439",
+   "sub": "Educació secundària obligatòria (ESO)"
+  },
+  {
+   "address": "c. Alfons d'Aragó, 20",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.481431",
+   "lon": "2.073279",
+   "name": "Institut Leonardo da Vinci",
+   "phone": "938876260",
+   "sub": "Educació secundària obligatòria (ESO)"
+  },
+  {
+   "address": "av. Can Graells, 35",
+   "cat": "Educació. Formació",
+   "cp": "08174",
+   "lat": "41.479408",
+   "lon": "2.070924",
+   "name": "Politècnic",
+   "phone": "",
+   "sub": "Educació secundària obligatòria (ESO)"
+  },
+  {
+   "address": "ptge. Segalà, 13",
+   "cat": "Educació. Formació",
+   "cp": "08198",
+   "lat": "41.444485",
+   "lon": "2.077066",
+   "name": "Tretzevents",
+   "phone": "",
+   "sub": "Educació secundària obligatòria (ESO)"
+  },
+  {
+   "address": "c. Ferrer i Guàrdia, s/n",
+   "cat": "Educació. Formació",
+   "cp": "08174",
+   "lat": "41.494696",
+   "lon": "2.077423",
+   "name": "Aneff",
+   "phone": "",
+   "sub": "Ensenyaments de règim especial"
+  },
+  {
+   "address": "av. Ragull, 39",
+   "cat": "Educació. Formació",
+   "cp": "08172",
+   "lat": "41.476707",
+   "lon": "2.089787",
+   "name": "EOI de Sant Cugat del Vallès",
+   "phone": "935901490",
+   "sub": "Ensenyaments de règim especial"
+  },
+  {
+   "address": "av. de Gràcia, 50",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.466143",
+   "lon": "2.085482",
+   "name": "EA de Sant Cugat del Vallès",
+   "phone": "936741310",
+   "sub": "Ensenyaments de règim general"
+  },
+  {
+   "address": "av. Generalitat, 202-206",
+   "cat": "Educació. Formació",
+   "cp": "08174",
+   "lat": "41.490678",
+   "lon": "2.071396",
+   "name": "Gimbernat Formació",
+   "phone": "935893727",
+   "sub": "Ensenyaments de règim general"
+  },
+  {
+   "address": "c. Vic, 17",
+   "cat": "Educació. Formació",
+   "cp": "08172",
+   "lat": "41.474074",
+   "lon": "2.091959",
+   "name": "Sant Cugat ESN",
+   "phone": "935892787",
+   "sub": "Ensenyaments de règim general"
+  },
+  {
+   "address": "p. d'en Coll, 2",
+   "cat": "Educació. Formació",
+   "cp": "08172",
+   "lat": "41.474594",
+   "lon": "2.089624",
+   "name": "Esc. de Música Aula de So",
+   "phone": "935897309",
+   "sub": "Escoles de música (no reglat) (MUSE)"
+  },
+  {
+   "address": "c. Cánovas del Castillo, 20",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.46751",
+   "lon": "2.084426",
+   "name": "Esc. de Música Fusió, Música i Dansa",
+   "phone": "935892819",
+   "sub": "Escoles de música (no reglat) (MUSE)"
+  },
+  {
+   "address": "pl. Victòria dels Àngels, 2",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.469291",
+   "lon": "2.08896",
+   "name": "Esc. de Música Municipal Victòria dels Àngels",
+   "phone": "935890551",
+   "sub": "Escoles de música (no reglat) (MUSE)"
+  },
+  {
+   "address": "rbla. Jacint Verdaguer, 185",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.457429",
+   "lon": "2.047689",
+   "name": "Esc. de Música de Valldoreix",
+   "phone": "",
+   "sub": "Escoles de música (no reglat) (MUSE)"
+  },
+  {
+   "address": "c. Castellví, s/n. Casa de Cultura.",
+   "cat": "Educació. Formació",
+   "cp": "08190",
+   "lat": "41.474629",
+   "lon": "2.084643",
+   "name": "CFA Sant Cugat del Vallès",
+   "phone": "935891382",
+   "sub": "Formació de persones adultes (ADULTS)"
+  },
+  {
+   "address": "pl. Victòria dels Àngels, 2",
+   "cat": "Educació. Formació",
+   "cp": "08195",
+   "lat": "41.469293",
+   "lon": "2.088987",
+   "name": "Conserv. Munic. de Música de Sant Cugat del Vallès",
+   "phone": "",
+   "sub": "Grau professional de música (MUSP)"
+  },
+  {
+   "address": "Plaça de Vila, 1",
+   "cat": "Educació. Formació",
+   "cp": "08172",
+   "lat": "41.470677977",
+   "lon": "2.08526616",
+   "name": "Oficina Municipal d'Escolarització a Sant Cugat del Vallès",
+   "phone": "93 565 70 00",
+   "sub": "Oficines municipals d'escolarització"
+  },
+  {
+   "address": "Carrer d'Alfons d'Aragó, 3",
+   "cat": "Emergències. Seguretat",
+   "cp": "08174",
+   "lat": "41.479745936",
+   "lon": "2.076257251",
+   "name": "Comissaria de Districte de la Policia de la Generalitat - Mossos d'Esquadra a Sant Cugat del Vallès",
+   "phone": "93 58179 00, contacte",
+   "sub": "Dependències d'atenció policial - Mossos d'Esquadra"
+  },
+  {
+   "address": "Plaça de Vila, 2",
+   "cat": "Emergències. Seguretat",
+   "cp": "08172",
+   "lat": "41.470557087",
+   "lon": "2.084788826",
+   "name": "Policia Local de Sant Cugat del Vallès",
+   "phone": "93 565 70 92",
+   "sub": "Policies Locals"
+  },
+  {
+   "address": "Carretera d'Amposta, 2 Polígon Industrial Sant Mamet",
+   "cat": "Empresa. Indústria. Energia",
+   "cp": "08190",
+   "lat": "41.479785457",
+   "lon": "2.06328959",
+   "name": "Estació d'ITV (B-22) Vallès Occidental",
+   "phone": "902 790 791",
+   "sub": "Inspecció tècnica de vehicles (ITV)"
+  },
+  {
+   "address": "Av. de Can Magí, 6, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08173",
+   "lat": "41.4806235910732",
+   "lon": "2.09081631701818",
+   "name": "CAMP DE FUTBOL CAN MAGÍ",
+   "phone": "935836239",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "C. Pompeu Fabra, 121, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08195",
+   "lat": "41.4692499424135",
+   "lon": "2.04664184109863",
+   "name": "CAMP DE FUTBOL DE MIRA-SOL",
+   "phone": "935657000",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "Av. del Castellot, s/n, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08197",
+   "lat": "41.4580798443411",
+   "lon": "2.04110608149963",
+   "name": "CAMP DE FUTBOL VALLDOREIX",
+   "phone": "",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "Av. Alcalde Barnils, 3-5, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08190",
+   "lat": "41.484845954575",
+   "lon": "2.07810809292427",
+   "name": "CAR - ESPAIS ESPORTIUS EXTERIORS",
+   "phone": "935891572",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "Av. Alcalde Barnils, 3-5, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08173",
+   "lat": "41.4844132676854",
+   "lon": "2.07806631302672",
+   "name": "CAR - ESPAIS ESPORTIUS RESIDÈNCIA",
+   "phone": "935891572",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "Av. Alcalde Barnils, 3-5, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08174",
+   "lat": "41.4838913248528",
+   "lon": "2.0758816960041",
+   "name": "CAR - NOU MÒDUL ESPORTIU",
+   "phone": "935891572",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "Av. Alcalde Barnils, 3-5, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08190",
+   "lat": "41.4836318095652",
+   "lon": "2.07721496150841",
+   "name": "CAR - PAVELLONS I PISCINA EXTERIOR",
+   "phone": "935891572",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "C. Castellví, 8, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08173",
+   "lat": "41.4746099017288",
+   "lon": "2.08440908640035",
+   "name": "CASA DE CULTURA",
+   "phone": "935891382",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "Pl. del Coll de la Creu d'en Blau, 7, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08196",
+   "lat": "41.433802141254",
+   "lon": "2.09410318617873",
+   "name": "CASAL LES PLANES",
+   "phone": "936755105",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "Camí de Sant Cugat al Papiol, 42, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08195",
+   "lat": "41.4679482767323",
+   "lon": "2.04608609795961",
+   "name": "CASAL MIRA-SOL",
+   "phone": "935892018",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "Av. del Pla del Vinyet, 81-85, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08172",
+   "lat": "41.4702106142119",
+   "lon": "2.09189593482134",
+   "name": "CASAL TORREBLANCA",
+   "phone": "935441965",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "C. del Casino, 27, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08198",
+   "lat": "41.4434293222073",
+   "lon": "2.0724099104509",
+   "name": "CASINO LA FLORESTA",
+   "phone": "935838143",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "C. Alfons d'Aragó, s/n, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08174",
+   "lat": "41.4838728546094",
+   "lon": "2.0724681645797",
+   "name": "CIRCUIT DE CROS DE VOLPELLERES",
+   "phone": "",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "C. Brollador, s/n, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08197",
+   "lat": "41.4540881752997",
+   "lon": "2.04093739281811",
+   "name": "COMPLEX ESPORTIU EMD VALLDOREIX",
+   "phone": "936754055",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "Camí de Can Flo, 19, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08196",
+   "lat": "41.4344835629291",
+   "lon": "2.09256166074603",
+   "name": "ESPAI PERE GRAU",
+   "phone": "",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "Ptge. del Baró de Coubertin, 1, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08172",
+   "lat": "41.4703447518482",
+   "lon": "2.0838224149452",
+   "name": "EUROFITNESS SANT CUGAT",
+   "phone": "935830345",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "Pg. Francesc Macià, s/n, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08173",
+   "lat": "41.4766844099435",
+   "lon": "2.08476315058558",
+   "name": "INSTAL·LACIONS ESPORTIVES PARC DE CAN VERNET",
+   "phone": "",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "Parc de la Pollancreda, s/n, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08172",
+   "lat": "41.4726316541136",
+   "lon": "2.09737117929679",
+   "name": "INSTAL·LACIONS ESPORTIVES PARC DE LA POLLANCREDA",
+   "phone": "",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "Camí Vell de Sabadell, s/n, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08172",
+   "lat": "41.4759715520762",
+   "lon": "2.0823418946586",
+   "name": "PARC DE BICI DE TRIAL",
+   "phone": "",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "Av. Brollador, 3, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08197",
+   "lat": "41.4544172900415",
+   "lon": "2.04151921120378",
+   "name": "PAVELLÓ DE VALLDOREIX",
+   "phone": "",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "C. Rovellat, 37, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08172",
+   "lat": "41.4730999652508",
+   "lon": "2.07693320737561",
+   "name": "PISCINES MUNICIPALS DEL PARC CENTRAL",
+   "phone": "935879783",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "Rbla. del Torrent d'en Xandri, s/n, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08173",
+   "lat": "41.4769377212636",
+   "lon": "2.09058038562743",
+   "name": "PISTA DE MINIBÀSQUET PL. CERDÀ",
+   "phone": "",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "C. del Bages, s/n, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08174",
+   "lat": "41.5139417591504",
+   "lon": "2.06057054608103",
+   "name": "PISTA POLIESPORTIVA CAN BARATA",
+   "phone": "",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "C. Josep Pallach, s/n, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08173",
+   "lat": "41.457438808342",
+   "lon": "2.07726307210352",
+   "name": "PISTA POLIESPORTIVA CAN TRABAL",
+   "phone": "",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "C. Gabriel Ferrater, s/n, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08195",
+   "lat": "41.4651413300393",
+   "lon": "2.03568525071843",
+   "name": "PISTA POLIESPORTIVA MAS GENER",
+   "phone": "",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "C. Dos de Maig, 31, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08172",
+   "lat": "41.4703032929291",
+   "lon": "2.08540379500906",
+   "name": "SALA CANIGÓ",
+   "phone": "",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "Pl. d'en Coll, 4, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08172",
+   "lat": "41.4749385060403",
+   "lon": "2.0894945100054",
+   "name": "XALET NEGRE",
+   "phone": "936030529",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "C. Ventura Gassol, 2, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08173",
+   "lat": "41.4779966629402",
+   "lon": "2.07989394419461",
+   "name": "ZONA ESPORTIVA MUNICIPAL JAUME TUBAU",
+   "phone": "935441550",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "C. Ginjoler, 6, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08198",
+   "lat": "41.4471486816008",
+   "lon": "2.0712076733589",
+   "name": "ZONA ESPORTIVA MUNICIPAL LA FLORESTA",
+   "phone": "",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "Avinguda de la Guinardera, 20, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08197",
+   "lat": "41.484089688572",
+   "lon": "2.05924107254774",
+   "name": "ZONA ESPORTIVA MUNICIPAL LA GUINARDERA",
+   "phone": "671038406",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "C. Mallorca, s/n, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08195",
+   "lat": "41.4682516375284",
+   "lon": "2.04682412176364",
+   "name": "ZONA ESPORTIVA MUNICIPAL MIRA-SOL",
+   "phone": "",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "C. Victor Català, s/n, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08173",
+   "lat": "41.4797636636332",
+   "lon": "2.07223930274611",
+   "name": "ZONA ESPORTIVA PARC DE VÍCTOR CATALÀ",
+   "phone": "",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "C. de Josep Irla, s/n, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08195",
+   "lat": "41.4743654297039",
+   "lon": "2.06521424006231",
+   "name": "ZONA ESPORTIVA PARC DEL TURÓ DE CAN MATES",
+   "phone": "",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "C. de l'Abat Escarré, s/n, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08173",
+   "lat": "41.4772681168229",
+   "lon": "2.08907864002149",
+   "name": "ZONA ESPORTIVA SANT FRANCESC",
+   "phone": "",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "Pl. Maria Sabater, s/n, Sant Cugat del Vallès",
+   "cat": "Esports. Lleure",
+   "cp": "08197",
+   "lat": "41.4586380154101",
+   "lon": "2.04866515291601",
+   "name": "ÀREA D'ACTIVITAT FISÌCA PL MARIA SABATER",
+   "phone": "",
+   "sub": "Instal·lacions esportives"
+  },
+  {
+   "address": "Passeig de Francesc Macià, 16-20",
+   "cat": "Habitatge",
+   "cp": "08172",
+   "lat": "41.473309881",
+   "lon": "2.086825505",
+   "name": "Borsa Habitatge Sant Cugat del Vallès",
+   "phone": "93 589 17 32",
+   "sub": "Borses joves d'habitatge"
+  },
+  {
+   "address": "Pl. de Barcelona",
+   "cat": "Justícia",
+   "cp": "08190",
+   "lat": "41.4696462",
+   "lon": "2.08238753",
+   "name": "Oficina de Justícia de Sant Cugat del Vallès",
+   "phone": "936746696",
+   "sub": "Jutjats de pau"
+  },
+  {
+   "address": "Avinguda de Gràcia, 50 (Casa Mònaco)",
+   "cat": "Justícia",
+   "cp": "08172",
+   "lat": "41.466174304",
+   "lon": "2.085630915",
+   "name": "Servei d'Orientació Jurídica (SOJ) a Sant Cugat del Vallès",
+   "phone": "93 565 70 00",
+   "sub": "Oficines del Servei d'Orientació Jurídica"
+  },
+  {
+   "address": "Carrer de Castellví, 8 (Casa de Cultura)",
+   "cat": "Llengua. Comunicació",
+   "cp": "08190",
+   "lat": "41.474820379",
+   "lon": "2.084854412",
+   "name": "Servei Local de Català de Sant Cugat del Vallès (SLC)",
+   "phone": "677 255 034",
+   "sub": "Oficines de català"
+  },
+  {
+   "address": "AV. DE ROQUETES S/N",
+   "cat": "Medi ambient",
+   "cp": "08190",
+   "lat": "3.15715493747456",
+   "lon": "37.5240445878532",
+   "name": "DEIXALLERIA DE SANT CUGAT DEL VALLÈS (I)",
+   "phone": "932235151",
+   "sub": "Deixalleries"
+  },
+  {
+   "address": "CTRA. C-1413 MOLINS DE REI A CALDES KM  6,5",
+   "cat": "Medi ambient",
+   "cp": "08172",
+   "lat": "3.10923782313015",
+   "lon": "37.5114302058461",
+   "name": "DEIXALLERIA DE SANT CUGAT DEL VALLÈS (II)",
+   "phone": "932235151",
+   "sub": "Deixalleries"
+  },
+  {
+   "address": "PL. DE LA VILA 1",
+   "cat": "Medi ambient",
+   "cp": "08172",
+   "lat": "41.47060737",
+   "lon": "2.08509909",
+   "name": "DEIXALLERIA MÒBIL DE L'AJUNTAMENT DE SANT CUGAT DEL VALLÈS (I)",
+   "phone": "",
+   "sub": "Deixalleries"
+  },
+  {
+   "address": "-",
+   "cat": "Medi ambient",
+   "cp": "08172",
+   "lat": "3.10993461728689",
+   "lon": "37.5132485410458",
+   "name": "DEIXALLERIA MÒBIL DE L'AJUNTAMENT DE SANT CUGAT DEL VALLÈS (II)",
+   "phone": "935657000",
+   "sub": "Deixalleries"
+  },
+  {
+   "address": "AV. TORRE BLANCA 10",
+   "cat": "Medi ambient",
+   "cp": "08172",
+   "lat": "3.15383415954769",
+   "lon": "37.5179644257279",
+   "name": "MINIDEIXALLERIA DE SANT CUGAT DEL VALLÈS",
+   "phone": "935970593",
+   "sub": "Deixalleries"
+  },
+  {
+   "address": "Pedro i Pons",
+   "cat": "Mobilitat. Transports",
+   "cp": "08195",
+   "lat": "41.4737972222222",
+   "lon": "2.04783055555556",
+   "name": "Heliport de l'Hospital General de Catalunya",
+   "phone": "607 639 040",
+   "sub": ""
+  },
+  {
+   "address": "Torre Blanca",
+   "cat": "Recerca",
+   "cp": "08173",
+   "lat": "41.4672",
+   "lon": "2.09144",
+   "name": "ESADE CREAPOLIS (CREAPOLIS)",
+   "phone": "",
+   "sub": "Parcs científics i tecnològics"
+  },
+  {
+   "address": "Carrer de Jaume I, 33-51",
+   "cat": "Registres",
+   "cp": "08195",
+   "lat": "41.466147123",
+   "lon": "2.069522159",
+   "name": "Arxiu Nacional de Catalunya",
+   "phone": "93 589 77 88",
+   "sub": "Oficines de la Generalitat"
+  },
+  {
+   "address": "Carrer de Santa Rosa, s/n",
+   "cat": "Societat. Ciutadania. Famílies",
+   "cp": "08172",
+   "lat": "41.475811799",
+   "lon": "2.086772633",
+   "name": "Casal de Gent Gran Sant Cugat del Vallès",
+   "phone": "93 589 16 38",
+   "sub": "Equipaments cívics"
+  },
+  {
+   "address": "de Gràcia",
+   "cat": "Societat. Ciutadania. Famílies",
+   "cp": "08172",
+   "lat": "41.46609162",
+   "lon": "2.08528823",
+   "name": "Servei d'informació i atenció a les dones (SIAD) de Sant Cugat del Vallès",
+   "phone": "935657000",
+   "sub": "Oficines d'informació a les dones"
+  },
+  {
+   "address": "Plaça de Vila, 1",
+   "cat": "Societat. Ciutadania. Famílies",
+   "cp": "08172",
+   "lat": "41.470677977",
+   "lon": "2.08526616",
+   "name": "Oficina d'atenció ciutadana de Sant Cugat (Departament de Drets Socials i Inclusió)",
+   "phone": "93 565 70 00",
+   "sub": "Oficines de Benestar Social i Família"
+  },
+  {
+   "address": "Carrer Pla del Vinyet 81-85",
+   "cat": "Societat. Ciutadania. Famílies",
+   "cp": "08172",
+   "lat": "41.47029996",
+   "lon": "2.0918905",
+   "name": "Sant Cugat del Vallès - Oh!ficina Jove",
+   "phone": "935441965",
+   "sub": "Serveis d'Informació Juvenil"
+  },
+  {
+   "address": "Plaça Coll de la Creu d'en Blau nº7",
+   "cat": "Tecnologia. Innovació",
+   "cp": "08196",
+   "lat": "41.4339215",
+   "lon": "2.0939798",
+   "name": "Casal Les Planes",
+   "phone": "936 755 105",
+   "sub": "Punt TIC"
+  },
+  {
+   "address": "de Francesc Macià",
+   "cat": "Tecnologia. Innovació",
+   "cp": "08173",
+   "lat": "41.473177683",
+   "lon": "2.08625234",
+   "name": "Centre Obert-Casa dels Infants",
+   "phone": "93 675 95 92",
+   "sub": "Punt TIC"
+  },
+  {
+   "address": "de Pearson",
+   "cat": "Tecnologia. Innovació",
+   "cp": "08198",
+   "lat": "41.445451148",
+   "lon": "2.07436544",
+   "name": "Punt d'accés Biblioteca. Centre Sóciosanitari de La Floresta",
+   "phone": "93 589 78 00",
+   "sub": "Punt TIC"
+  },
+  {
+   "address": "Carrer de la Creu, 2",
+   "cat": "Treball",
+   "cp": "08172",
+   "lat": "41.473528256",
+   "lon": "2.086833425",
+   "name": "Oficina de Treball de Sant Cugat del Vallès",
+   "phone": "930 886 200",
+   "sub": "Oficines de treball"
+  },
+  {
+   "address": "Pl. Octavià",
+   "cat": "Turisme",
+   "cp": "08172",
+   "lat": "41.4733593",
+   "lon": "2.0843328",
+   "name": "OFICINA MUNICIPAL DE TURISME DE SANT CUGAT DEL VALLÈS",
+   "phone": "936759952",
+   "sub": "Oficines de Turisme de la Xarxa"
+  },
+  {
+   "address": "de la Torre Blanca",
+   "cat": "Universitats",
+   "cp": "08172",
+   "lat": "41.4667",
+   "lon": "2.09109",
+   "name": "Escola Superior d'Administració i Direcció d'Empreses ESADE (URL)",
+   "phone": "",
+   "sub": "Centre docent"
+  },
+  {
+   "address": "de Pere Serra",
+   "cat": "Universitats",
+   "cp": "08173",
+   "lat": "41.4695",
+   "lon": "2.07204",
+   "name": "Escola Tècnica Superior d'Arquitectura del Vallès (UPC)",
+   "phone": "",
+   "sub": "Centre docent"
+  },
+  {
+   "address": "Interpolar del Vallès",
+   "cat": "Universitats",
+   "cp": "08190",
+   "lat": "41.4888",
+   "lon": "2.06074",
+   "name": "Escola Universitària d'Infermeria i de Fisioteràpia Gimbernat (UAB)",
+   "phone": "",
+   "sub": "Centre docent"
+  },
+  {
+   "address": "Interpolar del Vallès",
+   "cat": "Universitats",
+   "cp": "08190",
+   "lat": "41.4888",
+   "lon": "2.06074",
+   "name": "Escola Universitària d'Informàtica Tomàs Cerdà (UAB)",
+   "phone": "",
+   "sub": "Centre docent"
+  },
+  {
+   "address": "de Josep Trueta",
+   "cat": "Universitats",
+   "cp": "08195",
+   "lat": "41.4754",
+   "lon": "2.04228",
+   "name": "Facultat d'Odontologia (UIC)",
+   "phone": "",
+   "sub": "Centre docent"
+  },
+  {
+   "address": "de Josep Trueta",
+   "cat": "Universitats",
+   "cp": "08195",
+   "lat": "41.4754",
+   "lon": "2.04228",
+   "name": "Facultat de Ciències de l'Educació (UIC)",
+   "phone": "",
+   "sub": "Centre docent"
+  },
+  {
+   "address": "de Josep Trueta",
+   "cat": "Universitats",
+   "cp": "08195",
+   "lat": "41.4754",
+   "lon": "2.04228",
+   "name": "Facultat de Medicina i Ciències de la Salut (UIC)",
+   "phone": "",
+   "sub": "Centre docent"
+  },
+  {
+   "address": "Avinguda de l'Alcalde Barnils, 3-5",
+   "cat": "",
+   "cp": "08174",
+   "lat": "41.485425172",
+   "lon": "2.077967623",
+   "name": "Centre d'Alt Rendiment Esportiu de Sant Cugat del Vallès (CAR)",
+   "phone": "93 589 15 72",
+   "sub": ""
+  },
+  {
+   "address": "Avinguda de la Via Augusta, 71-73 Edifici Sant Cugat II. 1a. planta",
+   "cat": "",
+   "cp": "08174",
+   "lat": "41.4870786704861",
+   "lon": "2.05711270004453",
+   "name": "Regió Sanitària Barcelona Metropolitana Nord",
+   "phone": "93 551 57 00",
+   "sub": ""
+  }
+ ],
+ "fetched": "2026-11-19T06:30:16+01:00"
+}

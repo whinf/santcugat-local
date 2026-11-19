@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
+	<channel>
+		<title>Agenda Santcugat</title>
+		<link><![CDATA[https://www.santcugat.cat/agenda]]></link>
+		<description><![CDATA[Agenda diària de Sant Cugat del Vallès]]></description>
+		<language>ca-es</language>
+		<atom:link rel="hub" href="http://pubsubhubbub.appspot.com"/>
+		<lastBuildDate>2026/11/19</lastBuildDate>
+		<item>		
+		<title><![CDATA[Exposició. "Frenar l'acceleració. Residències i resistències artístiques a Casa Aymat 2019-2025"]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/exposicio-frenar-lacceleracio-residencies-i-resistencies-artistiques-a-casa-aymat]]></link>
+		<guid isPermaLink="false">48189</guid>
+		<description></description>
+		<idtipus>9</idtipus>
+		<tipus><![CDATA[Exposicions]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ajuntament de Sant Cugat,art.santcugat]]></organitza>
+		<hora>10:00</hora>
+		<lloc><![CDATA[Centre Grau-Garriga d’Art Tèxtil Contemporani (Can Quitèria)]]></lloc>
+		<x>2,08253745547657</x>
+		<y>41,4686160272388</y>
+		<datainici>14/05/2026</datainici>
+		<datafi>10/01/2027</datafi>
+		<modDate>10/01/2027</modDate>
+		<pubDate>26/03/2026 10:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Exposició. "Monstres de paper"]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/exposicio-monstres-de-paper]]></link>
+		<guid isPermaLink="false">49111</guid>
+		<description></description>
+		<idtipus>9</idtipus>
+		<tipus><![CDATA[Exposicions]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Museu del Còmic]]></organitza>
+		<hora>10:00</hora>
+		<lloc><![CDATA[Museu del Còmic]]></lloc>
+		<x>2,08213056890269</x>
+		<y>41,4744099670834</y>
+		<datainici>14/07/2026</datainici>
+		<datafi>10/01/2027</datafi>
+		<modDate>10/01/2027</modDate>
+		<pubDate>03/07/2026 10:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Exposició. "Pintors per la Marilyn"]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/exposicio-pintors-per-la-marilyn]]></link>
+		<guid isPermaLink="false">49409</guid>
+		<description></description>
+		<idtipus>9</idtipus>
+		<tipus><![CDATA[Exposicions]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Fundació Cabanas]]></organitza>
+		<hora>10:30</hora>
+		<lloc><![CDATA[Casa Museu Cal Gerrer]]></lloc>
+		<x>2,0842928678234</x>
+		<y>41,4729542450896</y>
+		<datainici>03/09/2026</datainici>
+		<datafi>27/02/2027</datafi>
+		<modDate>27/02/2027</modDate>
+		<pubDate>10/09/2026 10:30</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Exposició. "Casa Aymat. 100 anys"]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/exposicio-casa-aymat-100-anys]]></link>
+		<guid isPermaLink="false">48487</guid>
+		<description></description>
+		<idtipus>9</idtipus>
+		<tipus><![CDATA[Exposicions]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ajuntament de Sant Cugat,art.santcugat]]></organitza>
+		<hora>10:00</hora>
+		<lloc><![CDATA[Espai públic]]></lloc>
+		<x></x>
+		<y></y>
+		<datainici>07/09/2026</datainici>
+		<datafi>31/05/2027</datafi>
+		<modDate>31/05/2027</modDate>
+		<pubDate>05/05/2026 10:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Exposició. "La ciutat que m'habita", de Paco Minuesa]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/exposicio-la-ciutat-que-mhabita-de-paco-minuesa]]></link>
+		<guid isPermaLink="false">49276</guid>
+		<description></description>
+		<idtipus>9</idtipus>
+		<tipus><![CDATA[Exposicions]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ajuntament de Sant Cugat,art.santcugat]]></organitza>
+		<hora>10:30</hora>
+		<lloc><![CDATA[Museu del Monestir]]></lloc>
+		<x>2,08482004140768</x>
+		<y>41,4739495974693</y>
+		<datainici>16/09/2026</datainici>
+		<datafi>13/12/2026</datafi>
+		<modDate>13/12/2026</modDate>
+		<pubDate>27/07/2026 10:30</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Exposició. "Artificial", de Jordi Gispert]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/exposicio-artificial-de-jordi-gispert]]></link>
+		<guid isPermaLink="false">49278</guid>
+		<description></description>
+		<idtipus>9</idtipus>
+		<tipus><![CDATA[Exposicions]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ajuntament de Sant Cugat,art.santcugat]]></organitza>
+		<hora>10:00</hora>
+		<lloc><![CDATA[Casa de Cultura]]></lloc>
+		<x>2,08462750547905</x>
+		<y>41,4746167481565</y>
+		<datainici>17/09/2026</datainici>
+		<datafi>21/11/2026</datafi>
+		<modDate>21/11/2026</modDate>
+		<pubDate>27/07/2026 10:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Exposició: Olis sobre paper. Homenatge a Susanna Rafart]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/exposicio-olis-sobre-paper-homenatge-a-susanna-rafart]]></link>
+		<guid isPermaLink="false">49549</guid>
+		<description></description>
+		<idtipus>9</idtipus>
+		<tipus><![CDATA[Exposicions]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Firart]]></organitza>
+		<hora>10:00</hora>
+		<lloc><![CDATA[Biblioteca Central Gabriel Ferrater]]></lloc>
+		<x>2,0880014858672</x>
+		<y>41,4697438771208</y>
+		<datainici>01/10/2026</datainici>
+		<datafi>21/11/2026</datafi>
+		<modDate>21/11/2026</modDate>
+		<pubDate>30/09/2026 10:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Exposició. "Danseu, danseu, o estareu perdudes!", a cura de Carla Jaria]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/exposicio-danseu-danseu-o-estareu-perdudes-a-cura-de-carla-jaria]]></link>
+		<guid isPermaLink="false">49281</guid>
+		<description></description>
+		<idtipus>9</idtipus>
+		<tipus><![CDATA[Exposicions]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ajuntament de Sant Cugat,art.santcugat]]></organitza>
+		<hora>10:30</hora>
+		<lloc><![CDATA[Museu del Monestir]]></lloc>
+		<x>2,08482004140768</x>
+		<y>41,4739495974693</y>
+		<datainici>02/10/2026</datainici>
+		<datafi>08/12/2026</datafi>
+		<modDate>08/12/2026</modDate>
+		<pubDate>27/07/2026 10:30</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Exposició. "A aquestes dones", de Lluís Ribas]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/exposicio-a-aquestes-dones-de-lluis-ribas]]></link>
+		<guid isPermaLink="false">49643</guid>
+		<description></description>
+		<idtipus>9</idtipus>
+		<tipus><![CDATA[Exposicions]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Espai Lluís Ribas]]></organitza>
+		<hora>12:00</hora>
+		<lloc><![CDATA[Espai Lluís Ribas]]></lloc>
+		<x>2,08303172944347</x>
+		<y>41,4719599019444</y>
+		<datainici>14/10/2026</datainici>
+		<datafi>15/12/2026</datafi>
+		<modDate>15/12/2026</modDate>
+		<pubDate>13/10/2026 12:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Exposició. "Hijos del hierro", de Laura Pina]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/exposicio-hijos-del-hierro-de-laura-pina]]></link>
+		<guid isPermaLink="false">49698</guid>
+		<description></description>
+		<idtipus>9</idtipus>
+		<tipus><![CDATA[Exposicions]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Qgat Foto]]></organitza>
+		<hora>09:30</hora>
+		<lloc><![CDATA[Abacus]]></lloc>
+		<x>2,08480646568623</x>
+		<y>41,4730038746833</y>
+		<datainici>19/10/2026</datainici>
+		<datafi>21/11/2026</datafi>
+		<modDate>21/11/2026</modDate>
+		<pubDate>15/10/2026 09:30</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Exposició. "Punt i a part", de Teresa Sil]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/exposicio-punt-i-a-part-de-teresa-sil]]></link>
+		<guid isPermaLink="false">49289</guid>
+		<description></description>
+		<idtipus>9</idtipus>
+		<tipus><![CDATA[Exposicions]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ajuntament de Sant Cugat,art.santcugat]]></organitza>
+		<hora>10:00</hora>
+		<lloc><![CDATA[Centre Grau-Garriga d’Art Tèxtil Contemporani (Can Quitèria)]]></lloc>
+		<x>2,08253745547657</x>
+		<y>41,4686160272388</y>
+		<datainici>22/10/2026</datainici>
+		<datafi>13/12/2026</datafi>
+		<modDate>13/12/2026</modDate>
+		<pubDate>28/07/2026 10:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Exposició del TOT Fotoportada 2026]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/exposicio-del-tot-fotoportada-2026]]></link>
+		<guid isPermaLink="false">49800</guid>
+		<description></description>
+		<idtipus>9</idtipus>
+		<tipus><![CDATA[Exposicions]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[TOT Sant Cugat]]></organitza>
+		<hora>10:00</hora>
+		<lloc><![CDATA[Places de Sant Cugat]]></lloc>
+		<x></x>
+		<y></y>
+		<datainici>27/10/2026</datainici>
+		<datafi>27/11/2026</datafi>
+		<modDate>27/11/2026</modDate>
+		<pubDate>26/10/2026 10:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Exposició. "Burs-Urbs. La ciutat transformada per la mirada", d'Imma Pueyo]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/exposicio-burs-urbs-la-ciutat-transformada-per-la-mirada-dimma-pueyo]]></link>
+		<guid isPermaLink="false">49775</guid>
+		<description></description>
+		<idtipus>9</idtipus>
+		<tipus><![CDATA[Exposicions]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Sala Rusiñol]]></organitza>
+		<hora>10:00</hora>
+		<lloc><![CDATA[Sala Rusiñol]]></lloc>
+		<x>2,08411315269233</x>
+		<y>41,4728609596614</y>
+		<datainici>29/10/2026</datainici>
+		<datafi>01/12/2026</datafi>
+		<modDate>01/12/2026</modDate>
+		<pubDate>21/10/2026 10:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Exposició projecte fotollibre 'Una llar a l'exili' de Dani Aguilera]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/exposicio-una-llar-a-lexili]]></link>
+		<guid isPermaLink="false">49850</guid>
+		<description></description>
+		<idtipus>9</idtipus>
+		<tipus><![CDATA[Exposicions]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Refugees Welcome]]></organitza>
+		<hora>16:00</hora>
+		<lloc><![CDATA[Biblioteca de Volpelleres Miquel Batllori]]></lloc>
+		<x>2,06567974572388</x>
+		<y>41,4840274590782</y>
+		<datainici>02/11/2026</datainici>
+		<datafi>27/11/2026</datafi>
+		<modDate>27/11/2026</modDate>
+		<pubDate>30/10/2026 16:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Exposició. "Casa Aymat. Documents per la memòria"]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/exposicio-casa-aymat-documents-per-la-memoria]]></link>
+		<guid isPermaLink="false">48488</guid>
+		<description></description>
+		<idtipus>9</idtipus>
+		<tipus><![CDATA[Exposicions]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ajuntament de Sant Cugat,Arxiu Municipal de Sant Cugat]]></organitza>
+		<hora>08:00</hora>
+		<lloc><![CDATA[Oficina d'Atenció Ciutadana  ]]></lloc>
+		<x>2,08526615923208</x>
+		<y>41,4706779737932</y>
+		<datainici>03/11/2026</datainici>
+		<datafi>12/12/2026</datafi>
+		<modDate>12/12/2026</modDate>
+		<pubDate>05/05/2026 08:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Exposició. "Traços emergents: Roger Rigol"]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/exposicio-tracos-emergents-roger-rigol]]></link>
+		<guid isPermaLink="false">49852</guid>
+		<description></description>
+		<idtipus>9</idtipus>
+		<tipus><![CDATA[Exposicions]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Museu del Còmic]]></organitza>
+		<hora>10:00</hora>
+		<lloc><![CDATA[Museu del Còmic]]></lloc>
+		<x>2,08213056890269</x>
+		<y>41,4744099670834</y>
+		<datainici>03/11/2026</datainici>
+		<datafi>29/11/2026</datafi>
+		<modDate>29/11/2026</modDate>
+		<pubDate>03/11/2026 10:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Exposició. "Homenatge a Gaudí", de Firart]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/exposicio-homenatge-a-gaudi-de-firart]]></link>
+		<guid isPermaLink="false">49834</guid>
+		<description></description>
+		<idtipus>9</idtipus>
+		<tipus><![CDATA[Exposicions]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ateneu Santcugatenc]]></organitza>
+		<hora>10:00</hora>
+		<lloc><![CDATA[L'Ateneu ]]></lloc>
+		<x>2,08413888264062</x>
+		<y>41,4677982634077</y>
+		<datainici>03/11/2026</datainici>
+		<datafi>29/11/2026</datafi>
+		<modDate>29/11/2026</modDate>
+		<pubDate>28/10/2026 10:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[NOVA DATA D'INICI! Exposició. "La Manufactura Aymat. Un viatge en el temps"]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/exposicio-la-manufactura-aymat-un-viatge-en-el-temps]]></link>
+		<guid isPermaLink="false">48481</guid>
+		<description></description>
+		<idtipus>9</idtipus>
+		<tipus><![CDATA[Exposicions]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ajuntament de Sant Cugat,art.santcugat]]></organitza>
+		<hora>09:00</hora>
+		<lloc><![CDATA[Casa Aymat]]></lloc>
+		<x>2,07763327186338</x>
+		<y>41,4650939536467</y>
+		<datainici>05/11/2026</datainici>
+		<datafi>31/05/2027</datafi>
+		<modDate>31/05/2027</modDate>
+		<pubDate>05/05/2026 09:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Exposició. "Petits somnis, grans destins", de la Fundació ONGD Dream Nepal]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/exposicio-petits-somnis-grans-destins-de-la-fundacio-ongd-dream-nepal]]></link>
+		<guid isPermaLink="false">49832</guid>
+		<description></description>
+		<idtipus>9</idtipus>
+		<tipus><![CDATA[Exposicions]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ateneu Santcugatenc]]></organitza>
+		<hora>09:15</hora>
+		<lloc><![CDATA[L'Ateneu ]]></lloc>
+		<x>2,08413888264062</x>
+		<y>41,4677982634077</y>
+		<datainici>06/11/2026</datainici>
+		<datafi>27/11/2026</datafi>
+		<modDate>27/11/2026</modDate>
+		<pubDate>28/10/2026 09:15</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Exposició. "Argimon i Grau-Garriga: Sant Cugat, territori d’avantguarda"]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/exposicio-argimon-i-grau-garriga-sant-cugat-territori-davantguarda]]></link>
+		<guid isPermaLink="false">49920</guid>
+		<description></description>
+		<idtipus>9</idtipus>
+		<tipus><![CDATA[Exposicions]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Canals Galeria d'Art]]></organitza>
+		<hora>10:00</hora>
+		<lloc><![CDATA[Canals Galeria d'Art (c. d'Orient, 24)]]></lloc>
+		<x></x>
+		<y></y>
+		<datainici>10/11/2026</datainici>
+		<datafi>31/12/2026</datafi>
+		<modDate>31/12/2026</modDate>
+		<pubDate>11/11/2026 10:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Taller. "Soc menopàusica, i què?"]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/taller-soc-menopausica-i-que]]></link>
+		<guid isPermaLink="false">49962</guid>
+		<description></description>
+		<idtipus>11</idtipus>
+		<tipus><![CDATA[Cursos i tallers]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ajuntament de Sant Cugat]]></organitza>
+		<hora>18:00</hora>
+		<lloc><![CDATA[Casa de Cultura]]></lloc>
+		<x>2,08462750547905</x>
+		<y>41,4746167481565</y>
+		<datainici>19/11/2026</datainici>
+		<datafi></datafi>
+		<modDate></modDate>
+		<pubDate>17/11/2026 18:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Concert "La Cambra de l'Ateneu". Les Tarannà]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/concert-la-cambra-de-lateneu-les-taranna]]></link>
+		<guid isPermaLink="false">49923</guid>
+		<description></description>
+		<idtipus>5</idtipus>
+		<tipus><![CDATA[Música]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ateneu Santcugatenc]]></organitza>
+		<hora>19:00</hora>
+		<lloc><![CDATA[L'Ateneu ]]></lloc>
+		<x>2,08413888264062</x>
+		<y>41,4677982634077</y>
+		<datainici>19/11/2026</datainici>
+		<datafi></datafi>
+		<modDate></modDate>
+		<pubDate>12/11/2026 19:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[VIII Premis ADE Vallès]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/viii-premis-ade-valles]]></link>
+		<guid isPermaLink="false">49403</guid>
+		<description></description>
+		<idtipus>14</idtipus>
+		<tipus><![CDATA[Concursos i premis]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[ADE Vallès]]></organitza>
+		<hora>19:30</hora>
+		<lloc><![CDATA[Restaurant Masia Can Ametller]]></lloc>
+		<x>2,04725677916082</x>
+		<y>41,477887638896</y>
+		<datainici>19/11/2026</datainici>
+		<datafi></datafi>
+		<modDate></modDate>
+		<pubDate>09/09/2026 19:30</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[La Pua - Música de Petit Format. Eli Escoda]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/la-pua-musica-de-petit-format-eli-escoda]]></link>
+		<guid isPermaLink="false">49202</guid>
+		<description></description>
+		<idtipus>5</idtipus>
+		<tipus><![CDATA[Música]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[La Pua - Oficina Musical, Sotasons i el Bar Bocamoll]]></organitza>
+		<hora>20:00</hora>
+		<lloc><![CDATA[Casal Torreblanca (Bar Bocamoll)]]></lloc>
+		<x></x>
+		<y></y>
+		<datainici>19/11/2026</datainici>
+		<datafi></datafi>
+		<modDate></modDate>
+		<pubDate>04/09/2026 20:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Teatre al Museu. "La casa de Bernarda Alba" - 1a sessió]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/teatre-al-museu-la-casa-de-bernarda-alba]]></link>
+		<guid isPermaLink="false">49930</guid>
+		<description></description>
+		<idtipus>4</idtipus>
+		<tipus><![CDATA[Teatre i dansa]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ajuntament de Sant Cugat i Museu de Sant Cugat]]></organitza>
+		<hora>17:00</hora>
+		<lloc><![CDATA[Museu del Monestir]]></lloc>
+		<x>2,08482004140768</x>
+		<y>41,4739495974693</y>
+		<datainici>20/11/2026</datainici>
+		<datafi></datafi>
+		<modDate></modDate>
+		<pubDate>12/11/2026 17:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Decorem el Casal: Entre tots i totes, omplim el Casal d'estrelles i màgia de Nadal!]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/decorem-el-casal-entre-tots-i-totes-omplim-el-casal-destrelles-i-magia-de-nadal]]></link>
+		<guid isPermaLink="false">49942</guid>
+		<description></description>
+		<idtipus>7</idtipus>
+		<tipus><![CDATA[Infantils]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ajuntament de Sant Cugat,Casal Mira-sol]]></organitza>
+		<hora>17:00</hora>
+		<lloc><![CDATA[Casal Mira-sol]]></lloc>
+		<x>2,04616892625895</x>
+		<y>41,4679367585806</y>
+		<datainici>20/11/2026</datainici>
+		<datafi></datafi>
+		<modDate></modDate>
+		<pubDate>13/11/2026 17:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Diverdivendres. "Dibuix a l'aire"]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/diverdivendres-dibuix-a-laire]]></link>
+		<guid isPermaLink="false">49251</guid>
+		<description></description>
+		<idtipus>7</idtipus>
+		<tipus><![CDATA[Infantils]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ajuntament de Sant Cugat]]></organitza>
+		<hora>17:30</hora>
+		<lloc><![CDATA[Casa de Cultura]]></lloc>
+		<x>2,08462750547905</x>
+		<y>41,4746167481565</y>
+		<datainici>20/11/2026</datainici>
+		<datafi></datafi>
+		<modDate></modDate>
+		<pubDate>04/09/2026 17:30</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Diverdivendres. "Els calaixos del cel"]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/diverdivendres-els-calaixos-del-cel]]></link>
+		<guid isPermaLink="false">49252</guid>
+		<description></description>
+		<idtipus>7</idtipus>
+		<tipus><![CDATA[Infantils]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ajuntament de Sant Cugat]]></organitza>
+		<hora>17:30</hora>
+		<lloc><![CDATA[Casal les Planes]]></lloc>
+		<x>2,09339325382287</x>
+		<y>41,4341926892548</y>
+		<datainici>20/11/2026</datainici>
+		<datafi></datafi>
+		<modDate></modDate>
+		<pubDate>04/09/2026 17:30</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Xerrada. "El baixador de la Floresta-Pearson: motor de la gestació del barri"]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/xerrada-el-baixador-de-la-floresta-pearson-motor-de-la-gestacio-del-barri]]></link>
+		<guid isPermaLink="false">49960</guid>
+		<description></description>
+		<idtipus>12</idtipus>
+		<tipus><![CDATA[Conferències i jornades]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Associació de Propietaris i Veïns de la Floresta,Comissió d'Història, Patrimoni i Memòria del Consell de Barri de la Floresta]]></organitza>
+		<hora>18:00</hora>
+		<lloc><![CDATA[Associació de Propietaris i Veïns de la Floresta Pearson]]></lloc>
+		<x>2,07922356081611</x>
+		<y>41,4435841730544</y>
+		<datainici>20/11/2026</datainici>
+		<datafi></datafi>
+		<modDate></modDate>
+		<pubDate>17/11/2026 18:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA["Memòria contra el feixisme". Conversa amb Paco Niebla, autor del llibre "La Protestante. Ojos azules, corazón rojo"]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/memoria-contra-el-feixisme-conversa-amb-paco-niebla-autor-del-llibre-la-protestante-ojos-azules-corazon-rojo]]></link>
+		<guid isPermaLink="false">49961</guid>
+		<description></description>
+		<idtipus>6</idtipus>
+		<tipus><![CDATA[Literàries]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ateneu Popular de la Floresta]]></organitza>
+		<hora>19:00</hora>
+		<lloc><![CDATA[Centre Social i Sanitari la  Floresta]]></lloc>
+		<x>2,07436958142223</x>
+		<y>41,4454473556276</y>
+		<datainici>20/11/2026</datainici>
+		<datafi></datafi>
+		<modDate></modDate>
+		<pubDate>17/11/2026 19:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Teatre al Museu. "La casa de Bernarda Alba" - 2a sessió]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/teatre-al-museu-la-casa-de-bernarda-alba-2]]></link>
+		<guid isPermaLink="false">49931</guid>
+		<description></description>
+		<idtipus>4</idtipus>
+		<tipus><![CDATA[Teatre i dansa]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ajuntament de Sant Cugat i Museu de Sant Cugat]]></organitza>
+		<hora>19:00</hora>
+		<lloc><![CDATA[Museu del Monestir]]></lloc>
+		<x>2,08482004140768</x>
+		<y>41,4739495974693</y>
+		<datainici>20/11/2026</datainici>
+		<datafi></datafi>
+		<modDate></modDate>
+		<pubDate>12/11/2026 19:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[ComunarESS. Teatre íntim: "Malas hierbas", de La Simbiòtica]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/comunaress-teatre-intim-malas-hierbas-de-la-simbiotica]]></link>
+		<guid isPermaLink="false">49924</guid>
+		<description></description>
+		<idtipus>4</idtipus>
+		<tipus><![CDATA[Teatre i dansa]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ateneu Santcugatenc,El Cabàs]]></organitza>
+		<hora>19:00</hora>
+		<lloc><![CDATA[L'Ateneu ]]></lloc>
+		<x>2,08413888264062</x>
+		<y>41,4677982634077</y>
+		<datainici>20/11/2026</datainici>
+		<datafi></datafi>
+		<modDate></modDate>
+		<pubDate>12/11/2026 19:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Concert de l'OSSC. La 2a de Sibelius]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/concert-de-lossc-la-2a-de-sibelius]]></link>
+		<guid isPermaLink="false">49043</guid>
+		<description></description>
+		<idtipus>5</idtipus>
+		<tipus><![CDATA[Música]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ajuntament de Sant Cugat]]></organitza>
+		<hora>20:00</hora>
+		<lloc><![CDATA[Teatre-Auditori Emma Vilarasau Sant Cugat]]></lloc>
+		<x>2,08921806597346</x>
+		<y>41,4694396899679</y>
+		<datainici>20/11/2026</datainici>
+		<datafi></datafi>
+		<modDate></modDate>
+		<pubDate>26/06/2026 20:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Mercat de Pagès de Mira-sol]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/mercat-de-pages-de-mira-sol610]]></link>
+		<guid isPermaLink="false">49921</guid>
+		<description></description>
+		<idtipus>8</idtipus>
+		<tipus><![CDATA[Fires i mercats]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Xarxa de Consum Solidari,Ateneu Santcugatenc]]></organitza>
+		<hora>09:00</hora>
+		<lloc><![CDATA[L'Ateneu ]]></lloc>
+		<x>2,08413888264062</x>
+		<y>41,4677982634077</y>
+		<datainici>21/11/2026</datainici>
+		<datafi></datafi>
+		<modDate></modDate>
+		<pubDate>12/11/2026 09:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Mercat de Pagès de Volpelleres]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/mercat-de-pages-de-volpelleres91]]></link>
+		<guid isPermaLink="false">49922</guid>
+		<description></description>
+		<idtipus>8</idtipus>
+		<tipus><![CDATA[Fires i mercats]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ajuntament de Sant Cugat,Xarxa de Consum Solidari]]></organitza>
+		<hora>09:00</hora>
+		<lloc><![CDATA[Plaça del Mercat de Volpelleres]]></lloc>
+		<x></x>
+		<y></y>
+		<datainici>21/11/2026</datainici>
+		<datafi></datafi>
+		<modDate></modDate>
+		<pubDate>12/11/2026 09:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[24è Mercat de puces de l'escola Joan Maragall]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/24e-mercat-de-puces-de-lescola-joan-maragall]]></link>
+		<guid isPermaLink="false">49959</guid>
+		<description></description>
+		<idtipus>8</idtipus>
+		<tipus><![CDATA[Fires i mercats]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[AFA Escola Joan Maragall,Comissió del mercat de 2a mà]]></organitza>
+		<hora>09:30</hora>
+		<lloc><![CDATA[Escola Joan Maragall]]></lloc>
+		<x>2,07963343189568</x>
+		<y>41,4737874075945</y>
+		<datainici>21/11/2026</datainici>
+		<datafi></datafi>
+		<modDate></modDate>
+		<pubDate>17/11/2026 09:30</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[12a Cursa DiR Mossos d’Esquadra Sant Cugat. DiR Kids Race]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/12a-cursa-dir-mossos-desquadra-sant-cugat]]></link>
+		<guid isPermaLink="false">49902</guid>
+		<description></description>
+		<idtipus>10</idtipus>
+		<tipus><![CDATA[Esportives]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[ Club DiR i l'Ajuntament de Sant Cugat del Vallès]]></organitza>
+		<hora>10:00</hora>
+		<lloc><![CDATA[DiR Sant Cugat (carretera de Rubí, 76–80)]]></lloc>
+		<x></x>
+		<y></y>
+		<datainici>21/11/2026</datainici>
+		<datafi></datafi>
+		<modDate></modDate>
+		<pubDate>10/11/2026 10:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Visita guiada al Monestir de Sant Cugat. El més poderós del comtat de Barcelona]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/visita-guiada-al-monestir-de-sant-cugat-el-mes-poderos-del-comtat-de-barcelona513]]></link>
+		<guid isPermaLink="false">49671</guid>
+		<description></description>
+		<idtipus>2</idtipus>
+		<tipus><![CDATA[Rutes i visites]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ajuntament de Sant Cugat]]></organitza>
+		<hora>10:00</hora>
+		<lloc><![CDATA[Oficina de Turisme Sant Cugat del Vallès]]></lloc>
+		<x>2,08453026886617</x>
+		<y>41,4738147389439</y>
+		<datainici>21/11/2026</datainici>
+		<datafi></datafi>
+		<modDate></modDate>
+		<pubDate>14/10/2026 10:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Festa del Dia Mundial de la Infància]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/festadiainfancia2026]]></link>
+		<guid isPermaLink="false">49836</guid>
+		<description></description>
+		<idtipus>7</idtipus>
+		<tipus><![CDATA[Infantils]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ajuntament - Consell d'Infants]]></organitza>
+		<hora>10:00</hora>
+		<lloc><![CDATA[Parc Ramon Barnils]]></lloc>
+		<x>2,08657971094952</x>
+		<y>41,4707686844991</y>
+		<datainici>21/11/2026</datainici>
+		<datafi></datafi>
+		<modDate></modDate>
+		<pubDate>10/11/2026 10:00</pubDate>
+		</item>
+<item>		
+		<title><![CDATA[Grup de pares. Acompanyament a la criança]]></title>
+		<link><![CDATA[https://www.santcugat.cat/activitat/grup-de-pares-acompanyament-a-la-crianca6]]></link>
+		<guid isPermaLink="false">49652</guid>
+		<description></description>
+		<idtipus>11</idtipus>
+		<tipus><![CDATA[Cursos i tallers]]></tipus>
+		<acarrecde></acarrecde>
+		<organitza><![CDATA[Ajuntament de Sant Cugat]]></organitza>
+		<hora>10:30</hora>
+		<lloc><![CDATA[Biblioteca de Volpelleres Miquel Batllori]]></lloc>
+		<x>2,06567974572388</x>
+		<y>41,4840274590782</y>
+		<datainici>21/11/2026</datainici>
+		<datafi></datafi>
+		<modDate></modDate>
+		<pubDate>13/10/2026 10:30</pubDate>
+		</item>
+</channel>
+</rss>

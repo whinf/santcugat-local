@@ -1,0 +1,198 @@
+{
+ "data": {
+  "directory": [
+   {
+    "address": "Avinguda de Lluís Companys, 46",
+    "id": "beringues-sorribas-lluis",
+    "lat": 41.4717953,
+    "lon": 2.0793777,
+    "name": "Farmàcia Beringues Sorribas, Lluís",
+    "phone": "935 893 968",
+    "town": "Sant Cugat"
+   },
+   {
+    "address": "Passeig de Francesc Macià, 34",
+    "id": "carme-olle-cuellar",
+    "lat": 41.4757941,
+    "lon": 2.0860923,
+    "name": "Farmàcia Carme Ollé Cuellar",
+    "phone": "936 759 778",
+    "town": "Sant Cugat"
+   },
+   {
+    "address": "Plaça d'Ausias March, 9",
+    "id": "casacuberta-bausili-alicia",
+    "lat": 41.469875,
+    "lon": 2.0605086,
+    "name": "Farmàcia Casacuberta Bausili, Alícia",
+    "phone": "932 051 664",
+    "town": "Sant Cugat"
+   },
+   {
+    "address": "Passeig de Francesc Macià, 61",
+    "id": "concepcio-maso-mimo",
+    "lat": 41.4777526,
+    "lon": 2.083492,
+    "name": "Farmàcia Concepció Masó Mimó",
+    "phone": "938 552 841",
+    "town": "Sant Cugat"
+   },
+   {
+    "address": "",
+    "id": "cugat-centre",
+    "lat": 41.4695203,
+    "lon": 2.0802896,
+    "name": "Farmacia Cugat Centre",
+    "phone": "",
+    "town": "Sant Cugat"
+   },
+   {
+    "address": "Passeig de Sant Magí, 50",
+    "id": "diaz-de-concepcion-puerto-rodriguez",
+    "lat": 41.4752295,
+    "lon": 2.0802614,
+    "name": "Farmàcia Díaz de Concepción - Puerto Rodríguez",
+    "phone": "936 743 353",
+    "town": "Sant Cugat"
+   },
+   {
+    "address": "",
+    "id": "joan-maragall",
+    "lat": 41.4737107,
+    "lon": 2.0838193,
+    "name": "farmàcia Joan Maragall",
+    "phone": "",
+    "town": "Sant Cugat"
+   },
+   {
+    "address": "Passeig del Baixador, 78",
+    "id": "jose-ramon-perez-ebri",
+    "lat": 41.4669559,
+    "lon": 2.0553438,
+    "name": "Farmàcia José Ramón Pérez Ebri",
+    "phone": "936 742 372",
+    "town": "Sant Cugat"
+   },
+   {
+    "address": "Passeig d'Olabarria, 50",
+    "id": "josefina-quirante-serrano",
+    "lat": 41.4653525,
+    "lon": 2.0721543,
+    "name": "Farmàcia Josefina Quirante Serrano",
+    "phone": "936 753 311",
+    "town": "Sant Cugat"
+   },
+   {
+    "address": "Carrer del Molí de les Planes, 24",
+    "id": "les-planes",
+    "lat": 41.4345537,
+    "lon": 2.0914832,
+    "name": "Farmàcia Les Planes",
+    "phone": "936 755 237",
+    "town": "Sant Cugat"
+   },
+   {
+    "address": "passeig de la Floresta, 9",
+    "id": "m-angels-isern-perramon",
+    "lat": 41.4447451,
+    "lon": 2.0727951,
+    "name": "Farmàcia M. Àngels Isern Perramon",
+    "phone": "936 741 863",
+    "town": "Sant Cugat"
+   },
+   {
+    "address": "Passatge de la Diputació, 6",
+    "id": "m-cristina-cullell-del-valle",
+    "lat": 41.4754881,
+    "lon": 2.0886458,
+    "name": "Farmàcia M. Cristina Cullell del Valle",
+    "phone": "936 740 364",
+    "town": "Sant Cugat"
+   },
+   {
+    "address": "Carrer de Santiago Rusiñol, 50",
+    "id": "monestir",
+    "lat": 41.472556,
+    "lon": 2.0835008,
+    "name": "Farmàcia Monestir",
+    "phone": "935 898 014",
+    "town": "Sant Cugat"
+   },
+   {
+    "address": "Carrer de Manel Farrés, 95-97",
+    "id": "parc-central",
+    "lat": 41.4738866,
+    "lon": 2.0710115,
+    "name": "Farmàcia Parc Central",
+    "phone": "936 740 512",
+    "town": "Sant Cugat"
+   },
+   {
+    "address": "Carrer de l'Església, 3",
+    "id": "pinto-arellano-bernardo",
+    "lat": 41.4583785,
+    "lon": 2.0663142,
+    "name": "Farmàcia Pinto Arellano, Bernardo",
+    "phone": "936 742 871",
+    "town": "Sant Cugat"
+   },
+   {
+    "address": "Carrer Doctor Murillo, 1",
+    "id": "riera-riviere-isabel-i-monica",
+    "lat": 41.4676401,
+    "lon": 2.0815497,
+    "name": "Farmàcia Riera Riviere, Isabel i Mònica",
+    "phone": "936 740 430",
+    "town": "Sant Cugat"
+   },
+   {
+    "address": "Carrer de Santa Maria, 27",
+    "id": "ros-morte-alberto",
+    "lat": 41.471467,
+    "lon": 2.0814886,
+    "name": "Farmàcia Ros Morte, Alberto",
+    "phone": "936 741 531",
+    "town": "Sant Cugat"
+   },
+   {
+    "address": "Avinguda de Cerdanyola, 26",
+    "id": "ruiz-de-bustillo-joan",
+    "lat": 41.4737402,
+    "lon": 2.0895683,
+    "name": "Farmàcia Ruiz de Bustillo, Joan",
+    "phone": "935 901 035",
+    "town": "Sant Cugat"
+   },
+   {
+    "address": "Carrer de Santa Teresa, 40",
+    "id": "ruiz-rodriguez-ma-isabel",
+    "lat": 41.4675092,
+    "lon": 2.0868875,
+    "name": "Farmàcia Ruíz Rodríguez, Ma. Isabel",
+    "phone": "936 753 344",
+    "town": "Sant Cugat"
+   },
+   {
+    "address": "Rambla del Celler, 97",
+    "id": "sant-cugat-torreblanca",
+    "lat": 41.4720599,
+    "lon": 2.0898211,
+    "name": "Farmàcia Sant Cugat Torreblanca",
+    "phone": "936 747 749",
+    "town": "Sant Cugat"
+   },
+   {
+    "address": "Avinguda de la Clota, 12-14",
+    "id": "volpelleres",
+    "lat": 41.4814743,
+    "lon": 2.0700507,
+    "name": "Farmàcia Volpelleres",
+    "phone": "936 243 427",
+    "town": "Sant Cugat"
+   }
+  ],
+  "rosters": {},
+  "source": "https://www.farmaguia.net/"
+ },
+ "fetched": "2026-11-19T06:40:14+01:00"
+}
