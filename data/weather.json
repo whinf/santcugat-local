@@ -7,7 +7,7 @@
     "symbol": "clearsky_day",
     "tmax": 18,
     "tmin": 14,
-    "wind_kmh": 30
+    "wind_kmh": 29
    },
    {
     "date": "2026-11-20",
@@ -20,7 +20,7 @@
    {
     "date": "2026-11-21",
     "rain_mm": 0.0,
-    "symbol": "cloudy",
+    "symbol": "partlycloudy_day",
     "tmax": 18,
     "tmin": 9,
     "wind_kmh": 9
@@ -51,12 +51,12 @@
    }
   ],
   "now": {
-   "symbol": "fair_night",
-   "temp": 17.8,
-   "time": "2026-11-19T06:00:00+01:00",
-   "wind_kmh": 24
+   "symbol": "clearsky_day",
+   "temp": 16.2,
+   "time": "2026-11-19T08:00:00+01:00",
+   "wind_kmh": 26
   },
-  "updated": "2026-11-19T05:21:25Z"
+  "updated": "2026-11-19T07:17:36Z"
  },
- "fetched": "2026-11-19T06:30:16+01:00"
+ "fetched": "2026-11-19T08:41:06+01:00"
 }
