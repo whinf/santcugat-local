@@ -1,6 +1,47 @@
 {
  "data": [
   {
+   "amount": 59534.0,
+   "date": "2026-11-18",
+   "deadline": "2026-11-18T12:00",
+   "id": "3045974/4949/2026",
+   "lots": 0,
+   "organ": "Ajuntament de Sant Cugat del Vallès",
+   "phase": "Expedient en avaluació",
+   "title": "Subministrament en règim de lloguer de quatre mòduls per lavabos, vestuaris i magatzem a Can Monmany",
+   "type": "Subministraments",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/7e133fbc-3dae-4cfc-8c45-b4224bf4fd04/300942863",
+   "winners": []
+  },
+  {
+   "amount": 2854972.2,
+   "date": "2026-11-18",
+   "deadline": "2026-05-27T12:00",
+   "id": "3045974/49074/2025",
+   "lots": 0,
+   "organ": "Ajuntament de Sant Cugat del Vallès",
+   "phase": "Adjudicació",
+   "title": "Contractació de la gestió integral de l'Oficina Municipal d'Esport per a Tothom (OMET)",
+   "type": "Serveis",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/03acf37b-5586-4e83-a242-8a2d46846b1c/300942793",
+   "winners": [
+    "FUNDESPLAI - ESPORT 3, SERVEIS ALTERNATIUS SL, UTE"
+   ]
+  },
+  {
+   "amount": 94201.55,
+   "date": "2026-11-18",
+   "deadline": "2026-12-09T12:00",
+   "id": "3045974/33719/2026",
+   "lots": 2,
+   "organ": "Ajuntament de Sant Cugat del Vallès",
+   "phase": "Anunci de licitació",
+   "title": "Obres per l’execució de diversos projectes de millora d’espais públics (Taules pícnic can Mates-Fonts Centre Est-Fonts a Les Planes)",
+   "type": "Obres",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/b4213e84-dddb-430d-8e9d-a868be472636/300943013",
+   "winners": []
+  },
+  {
    "amount": 120000.0,
    "date": "2026-11-17",
    "deadline": "2026-10-20T13:00",
@@ -98,8 +139,8 @@
    "winners": [
     "INFOBIBLIOTECAS S.L.",
     "BIBLIO ALIBRI SL",
-    "DISTRIASVY S.L.",
-    "RACÓ DEL LLIBRE SL"
+    "RACÓ DEL LLIBRE SL",
+    "DISTRIASVY S.L."
    ]
   },
   {
@@ -392,19 +433,6 @@
    "winners": []
   },
   {
-   "amount": 59534.0,
-   "date": "2026-11-04",
-   "deadline": "2026-11-18T12:00",
-   "id": "3045974/4949/2026",
-   "lots": 0,
-   "organ": "Ajuntament de Sant Cugat del Vallès",
-   "phase": "Anunci de licitació",
-   "title": "Subministrament en règim de lloguer de quatre mòduls per lavabos, vestuaris i magatzem a Can Monmany",
-   "type": "Subministraments",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/7e133fbc-3dae-4cfc-8c45-b4224bf4fd04/300916353",
-   "winners": []
-  },
-  {
    "amount": 7800.0,
    "date": "2026-11-04",
    "deadline": "2026-11-20T15:00",
@@ -573,8 +601,8 @@
    "url": "https://contractaciopublica.cat/ca/detall-publicacio/a26d8d9b-d081-4260-9307-14b416350d12/300691903",
    "winners": [
     "PREZERO ESPAÑA, S.A.U.",
-    "FUNDACIÓ PRIVADA PER LA INCLUSIÓ LABORAL ÀURIA",
     "TALHER, S.A.",
+    "FUNDACIÓ PRIVADA PER LA INCLUSIÓ LABORAL ÀURIA",
     "AMBITEC SERVICIOS AMBIENTALES SAU"
    ]
   },
@@ -886,19 +914,6 @@
    "title": "Obres del Projecte bàsic i executiu de la restauració dels paraments i de la coberta de la Capella de Sant Benet, annexa a la Sala capitular del Monestir de sant Cugat del Vallès",
    "type": "Obres",
    "url": "https://contractaciopublica.cat/ca/detall-publicacio/5bc5deec-b941-4e7d-91b8-07d63c6b67db/300913210",
-   "winners": []
-  },
-  {
-   "amount": 2856972.19,
-   "date": "2026-10-20",
-   "deadline": "2026-05-27T12:00",
-   "id": "3045974/49074/2025",
-   "lots": 0,
-   "organ": "Ajuntament de Sant Cugat del Vallès",
-   "phase": "Expedient en avaluació",
-   "title": "Contractació de la gestió integral de l'Oficina Municipal d'Esport per a Tothom (OMET)",
-   "type": "Serveis",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/03acf37b-5586-4e83-a242-8a2d46846b1c/300913940",
    "winners": []
   },
   {
@@ -5313,5 +5328,5 @@
    "winners": []
   }
  ],
- "fetched": "2026-11-19T06:30:16+01:00"
+ "fetched": "2026-11-19T20:36:55+01:00"
 }
