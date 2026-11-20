@@ -1,28 +1,6 @@
 {
  "data": [
   {
-   "end": "2026-11-19",
-   "group": "Agrupacions professionals",
-   "kind": "Laboral",
-   "km": 8.5,
-   "org": "Ajuntament de Castellbisbal",
-   "places": 2,
-   "pool": true,
-   "title": "2 places de Peó d'obres",
-   "url": "https://cido.diba.cat/oposicions/16596329"
-  },
-  {
-   "end": "2026-11-19",
-   "group": "C1",
-   "kind": "Laboral temporal",
-   "km": 9.9,
-   "org": "Consorci Corporació Sanitària Parc Taulí de Sabadell",
-   "places": 1,
-   "pool": false,
-   "title": "1 plaça de Secretari tècnic",
-   "url": "https://cido.diba.cat/oposicions/22442646"
-  },
-  {
    "end": "2026-11-20",
    "group": "C1",
    "kind": "Laboral temporal",
@@ -1376,5 +1354,5 @@
    "url": "https://cido.diba.cat/oposicions/17499447"
   }
  ],
- "fetched": "2026-11-19T20:36:55+01:00"
+ "fetched": "2026-11-20T02:26:09+01:00"
 }

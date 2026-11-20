@@ -246,46 +246,6 @@
     "url": "https://www.santcugat.cat/activitat/exposicio-argimon-i-grau-garriga-sant-cugat-territori-davantguarda"
    },
    {
-    "category": "Cursos i tallers",
-    "end": "2026-11-19",
-    "place": "Casa de Cultura",
-    "source": "ajuntament",
-    "start": "2026-11-19",
-    "time": "18:00",
-    "title": "Taller. \"Soc menopàusica, i què?\"",
-    "url": "https://www.santcugat.cat/activitat/taller-soc-menopausica-i-que"
-   },
-   {
-    "category": "Música",
-    "end": "2026-11-19",
-    "place": "L'Ateneu",
-    "source": "ajuntament",
-    "start": "2026-11-19",
-    "time": "19:00",
-    "title": "Concert \"La Cambra de l'Ateneu\". Les Tarannà",
-    "url": "https://www.santcugat.cat/activitat/concert-la-cambra-de-lateneu-les-taranna"
-   },
-   {
-    "category": "Concursos i premis",
-    "end": "2026-11-19",
-    "place": "Restaurant Masia Can Ametller",
-    "source": "ajuntament",
-    "start": "2026-11-19",
-    "time": "19:30",
-    "title": "VIII Premis ADE Vallès",
-    "url": "https://www.santcugat.cat/activitat/viii-premis-ade-valles"
-   },
-   {
-    "category": "Música",
-    "end": "2026-11-19",
-    "place": "Casal Torreblanca (Bar Bocamoll)",
-    "source": "ajuntament",
-    "start": "2026-11-19",
-    "time": "20:00",
-    "title": "La Pua - Música de Petit Format. Eli Escoda",
-    "url": "https://www.santcugat.cat/activitat/la-pua-musica-de-petit-format-eli-escoda"
-   },
-   {
     "category": "Infància",
     "end": "2026-11-20",
     "place": "Casal Mira-sol",
@@ -1961,5 +1921,5 @@
    }
   ]
  },
- "fetched": "2026-11-19T20:36:55+01:00"
+ "fetched": "2026-11-20T02:26:09+01:00"
 }
