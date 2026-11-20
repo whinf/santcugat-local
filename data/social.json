@@ -39,7 +39,7 @@
     "published": "2026-09-29",
     "short": false,
     "title": "The Book of Mormon",
-    "views": 314
+    "views": 315
    },
    {
     "channel": "ajuntament",
@@ -90,19 +90,19 @@
     "views": 75
    },
    {
-    "channel": "teatre-auditori",
-    "id": "1VF6GZVbHTA",
-    "published": "2026-06-12",
-    "short": false,
-    "title": "Escoles a Escena 2026-27",
-    "views": 64
-   },
-   {
     "channel": "cugat-media",
     "id": "tR7u__IvdE0",
     "published": "2026-11-17",
     "short": false,
     "title": "Maria Nicolau, cuinera i divulgadora",
+    "views": 68
+   },
+   {
+    "channel": "teatre-auditori",
+    "id": "1VF6GZVbHTA",
+    "published": "2026-06-12",
+    "short": false,
+    "title": "Escoles a Escena 2026-27",
     "views": 64
    },
    {
@@ -183,7 +183,7 @@
     "published": "2026-11-17",
     "short": false,
     "title": "Sant Cugat reforça la seva presència al 4YFN (MWC) 2027",
-    "views": 34
+    "views": 35
    },
    {
     "channel": "car",
@@ -315,6 +315,14 @@
    },
    {
     "channel": "cugat-media",
+    "id": "iqmrSN1eCMs",
+    "published": "2026-11-20",
+    "short": false,
+    "title": "L'agenda de cap de setmana de Cugat Mèdia",
+    "views": 20
+   },
+   {
+    "channel": "cugat-media",
     "id": "dXVM6DqyesY",
     "published": "2026-11-17",
     "short": true,
@@ -328,14 +336,6 @@
     "short": true,
     "title": "Empat entre el SantCu i el Bosc de Tosca",
     "views": 17
-   },
-   {
-    "channel": "cugat-media",
-    "id": "iqmrSN1eCMs",
-    "published": "2026-11-20",
-    "short": false,
-    "title": "L'agenda de cap de setmana de Cugat Mèdia",
-    "views": 16
    },
    {
     "channel": "cugat-media",
@@ -395,5 +395,5 @@
    }
   ]
  },
- "fetched": "2026-11-20T15:18:29+01:00"
+ "fetched": "2026-11-20T23:19:42+01:00"
 }

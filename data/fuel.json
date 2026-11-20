@@ -8,7 +8,7 @@
     "lon": "2.050861",
     "name": "REPSOL",
     "prices": {
-     "diesel": 1.879,
+     "diesel": 1.869,
      "g95": 1.685
     },
     "town": "Sant Cugat del Vallès"
@@ -19,18 +19,6 @@
     "lat": "41.487889",
     "lon": "2.063417",
     "name": "ESCLATOIL",
-    "prices": {
-     "diesel": 1.669,
-     "g95": 1.429
-    },
-    "town": "Sant Cugat del Vallès"
-   },
-   {
-    "address": "Avenida Via Augusta, 137",
-    "hours": "L-D: 24H",
-    "lat": "41.487083",
-    "lon": "2.067778",
-    "name": "MEROIL",
     "prices": {
      "diesel": 1.669,
      "g95": 1.429
@@ -74,6 +62,18 @@
     "town": "Sant Cugat del Vallès"
    },
    {
+    "address": "Avenida Via Augusta, 137",
+    "hours": "L-D: 24H",
+    "lat": "41.487083",
+    "lon": "2.067778",
+    "name": "MEROIL",
+    "prices": {
+     "diesel": 1.669,
+     "g95": 1.429
+    },
+    "town": "Sant Cugat del Vallès"
+   },
+   {
     "address": "Calle Cerdanya Esq Ronda Norte, Sn",
     "hours": "L-D: 24H",
     "lat": "41.479694",
@@ -110,14 +110,14 @@
     "town": "Sant Cugat del Vallès"
    },
    {
-    "address": "Carretera C-1413 Km. 9,8",
-    "hours": "L-D: 05:00-23:00",
-    "lat": "41.481222",
-    "lon": "2.030833",
-    "name": "REPSOL",
+    "address": "Av.Electricidad,Esq.Chaplin C.Vallhonrat",
+    "hours": "L-D: 06:00-22:00",
+    "lat": "41.474000",
+    "lon": "2.035111",
+    "name": "JULIA-OIL",
     "prices": {
-     "diesel": 1.849,
-     "g95": 1.685
+     "diesel": 1.799,
+     "g95": 1.639
     },
     "town": "Rubí"
    },
@@ -128,80 +128,8 @@
     "lon": "2.042083",
     "name": "JULIA-OIL",
     "prices": {
-     "diesel": 1.779,
-     "g95": 1.479
-    },
-    "town": "Rubí"
-   },
-   {
-    "address": "Av.Electricidad,Esq.Chaplin C.Vallhonrat",
-    "hours": "L-D: 06:00-22:00",
-    "lat": "41.474000",
-    "lon": "2.035111",
-    "name": "JULIA-OIL",
-    "prices": {
-     "diesel": 1.849,
-     "g95": 1.669
-    },
-    "town": "Rubí"
-   },
-   {
-    "address": "Carretera C1413a Km. 9,4",
-    "hours": "L-D: 24H",
-    "lat": "41.478528",
-    "lon": "2.031472",
-    "name": "ESCLATOIL",
-    "prices": {
-     "diesel": 1.649,
-     "g95": 1.399
-    },
-    "town": "Rubí"
-   },
-   {
-    "address": "Calle Pagesia, 2",
-    "hours": "L-V: 06:00-21:00; S: 09:00-14:00",
-    "lat": "41.506861",
-    "lon": "2.037306",
-    "name": "REPSOL",
-    "prices": {
-     "diesel": 1.899,
-     "g95": 1.699
-    },
-    "town": "Rubí"
-   },
-   {
-    "address": "Carretera E-9 Km. 14,9",
-    "hours": "L-D: 24H",
-    "lat": "41.498222",
-    "lon": "2.049278",
-    "name": "REPSOL",
-    "prices": {
-     "diesel": 1.885,
-     "g95": 1.695
-    },
-    "town": "Rubí"
-   },
-   {
-    "address": "Calle Comp Wagner, 21",
-    "hours": "L-D: 24H",
-    "lat": "41.470806",
-    "lon": "2.024333",
-    "name": "TAMOIL",
-    "prices": {
-     "diesel": 1.629,
-     "g95": 1.369
-    },
-    "town": "Rubí"
-   },
-   {
-    "address": "Carretera E-9 Km. 14,7",
-    "hours": "L-D: 24H",
-    "lat": "41.497083",
-    "lon": "2.048389",
-    "name": "REPSOL",
-    "prices": {
-     "diesel": 1.875,
-     "g95": 1.705
+     "diesel": 1.739,
+     "g95": 1.459
     },
     "town": "Rubí"
    },
@@ -224,8 +152,8 @@
     "lon": "2.033972",
     "name": "TAMOIL",
     "prices": {
-     "diesel": 1.629,
-     "g95": 1.369
+     "diesel": 1.599,
+     "g95": 1.349
     },
     "town": "Rubí"
    },
@@ -236,8 +164,80 @@
     "lon": "2.023583",
     "name": "PUNTA SOLERA",
     "prices": {
-     "diesel": 1.649,
+     "diesel": 1.629,
      "g95": 1.369
+    },
+    "town": "Rubí"
+   },
+   {
+    "address": "Calle Comp Wagner, 21",
+    "hours": "L-D: 24H",
+    "lat": "41.470806",
+    "lon": "2.024333",
+    "name": "TAMOIL",
+    "prices": {
+     "diesel": 1.569,
+     "g95": 1.299
+    },
+    "town": "Rubí"
+   },
+   {
+    "address": "Carretera E-9 Km. 14,7",
+    "hours": "L-D: 24H",
+    "lat": "41.497083",
+    "lon": "2.048389",
+    "name": "REPSOL",
+    "prices": {
+     "diesel": 1.875,
+     "g95": 1.695
+    },
+    "town": "Rubí"
+   },
+   {
+    "address": "Carretera C-1413 Km. 9,8",
+    "hours": "L-D: 05:00-23:00",
+    "lat": "41.481222",
+    "lon": "2.030833",
+    "name": "REPSOL",
+    "prices": {
+     "diesel": 1.849,
+     "g95": 1.685
+    },
+    "town": "Rubí"
+   },
+   {
+    "address": "Calle Pagesia, 2",
+    "hours": "L-V: 06:00-21:00; S: 09:00-14:00",
+    "lat": "41.506861",
+    "lon": "2.037306",
+    "name": "REPSOL",
+    "prices": {
+     "diesel": 1.899,
+     "g95": 1.699
+    },
+    "town": "Rubí"
+   },
+   {
+    "address": "Carretera C1413a Km. 9,4",
+    "hours": "L-D: 24H",
+    "lat": "41.478528",
+    "lon": "2.031472",
+    "name": "ESCLATOIL",
+    "prices": {
+     "diesel": 1.649,
+     "g95": 1.399
+    },
+    "town": "Rubí"
+   },
+   {
+    "address": "Carretera E-9 Km. 14,9",
+    "hours": "L-D: 24H",
+    "lat": "41.498222",
+    "lon": "2.049278",
+    "name": "REPSOL",
+    "prices": {
+     "diesel": 1.875,
+     "g95": 1.695
     },
     "town": "Rubí"
    },
@@ -248,8 +248,8 @@
     "lon": "2.031417",
     "name": "PETROPRIX",
     "prices": {
-     "diesel": 1.599,
-     "g95": 1.369
+     "diesel": 1.569,
+     "g95": 1.299
     },
     "town": "Rubí"
    },
@@ -265,18 +265,6 @@
     "town": "Rubí"
    },
    {
-    "address": "Ronda Cerdanyola, S/N",
-    "hours": "L-D: 06:00-22:00",
-    "lat": "41.489194",
-    "lon": "2.151500",
-    "name": "MOEVE",
-    "prices": {
-     "diesel": 1.879,
-     "g95": 1.659
-    },
-    "town": "Cerdanyola del Vallès"
-   },
-   {
     "address": "Calle Santa Rosa, 49",
     "hours": "L-D: 06:00-22:00",
     "lat": "41.485306",
@@ -289,26 +277,14 @@
     "town": "Cerdanyola del Vallès"
    },
    {
-    "address": "Calle Can Jeroni Marti/Ctra Sabadell, 197,5",
+    "address": "Ronda Cerdanyola, S/N",
     "hours": "L-D: 06:00-22:00",
-    "lat": "41.508583",
-    "lon": "2.090472",
-    "name": "REPSOL",
+    "lat": "41.489194",
+    "lon": "2.151500",
+    "name": "MOEVE",
     "prices": {
-     "diesel": 1.875,
-     "g95": 1.689
-    },
-    "town": "Cerdanyola del Vallès"
-   },
-   {
-    "address": "Avenida Can Fatjó dels Aurons, Sn",
-    "hours": "L-D: 24H",
-    "lat": "41.489167",
-    "lon": "2.084000",
-    "name": "PETROPRIX",
-    "prices": {
-     "diesel": 1.639,
-     "g95": 1.399
+     "diesel": 1.869,
+     "g95": 1.659
     },
     "town": "Cerdanyola del Vallès"
    },
@@ -321,6 +297,18 @@
     "prices": {
      "diesel": 1.639,
      "g95": 1.379
+    },
+    "town": "Cerdanyola del Vallès"
+   },
+   {
+    "address": "Avenida Can Fatjó dels Aurons, Sn",
+    "hours": "L-D: 24H",
+    "lat": "41.489167",
+    "lon": "2.084000",
+    "name": "PETROPRIX",
+    "prices": {
+     "diesel": 1.639,
+     "g95": 1.399
     },
     "town": "Cerdanyola del Vallès"
    },
@@ -373,16 +361,40 @@
     "town": "Cerdanyola del Vallès"
    },
    {
+    "address": "Calle Can Jeroni Marti/Ctra Sabadell, 197,5",
+    "hours": "L-D: 06:00-22:00",
+    "lat": "41.508583",
+    "lon": "2.090472",
+    "name": "REPSOL",
+    "prices": {
+     "diesel": 1.875,
+     "g95": 1.689
+    },
+    "town": "Cerdanyola del Vallès"
+   },
+   {
     "address": "Calle Santa Ana, 115",
     "hours": "L-D: 24H",
     "lat": "41.500472",
     "lon": "2.128028",
     "name": "BALLENOIL",
     "prices": {
-     "diesel": 1.599,
-     "g95": 1.399
+     "diesel": 1.579,
+     "g95": 1.349
     },
     "town": "Cerdanyola del Vallès"
+   },
+   {
+    "address": "Carretera Bp-1503 Km. 20,270",
+    "hours": "L-D: 24H",
+    "lat": "41.520417",
+    "lon": "2.038167",
+    "name": "PETROPRIX",
+    "prices": {
+     "diesel": 1.569,
+     "g95": 1.299
+    },
+    "town": "Sant Quirze del Vallès"
    },
    {
     "address": "Calle Mallorca, 43/47",
@@ -393,18 +405,6 @@
     "prices": {
      "diesel": 1.619,
      "g95": 1.319
-    },
-    "town": "Sant Quirze del Vallès"
-   },
-   {
-    "address": "Carretera Bp-1503 Km. 20,270",
-    "hours": "L-D: 24H",
-    "lat": "41.520417",
-    "lon": "2.038167",
-    "name": "PETROPRIX",
-    "prices": {
-     "diesel": 1.619,
-     "g95": 1.299
     },
     "town": "Sant Quirze del Vallès"
    },
@@ -433,7 +433,7 @@
     "town": "Sant Quirze del Vallès"
    }
   ],
-  "updated": "20/11/2026 15:27:47"
+  "updated": "20/11/2026 23:28:47"
  },
- "fetched": "2026-11-20T15:18:29+01:00"
+ "fetched": "2026-11-20T23:19:42+01:00"
 }
