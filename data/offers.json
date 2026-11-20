@@ -1,6 +1,19 @@
 {
  "data": [
   {
+   "company": "ARAMARK",
+   "contract": "Contracte laboral temporal (2 mesos)",
+   "date": "2026-11-20",
+   "hours": "Jornada completa",
+   "salary": [
+    1600,
+    1600
+   ],
+   "title": "Cocineros/as - educación - empresa",
+   "town": "SANT CUGAT DEL VALLÈS",
+   "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329261"
+  },
+  {
    "company": "AJUNTAMENT DE RUBI",
    "contract": "Contracte laboral indefinit",
    "date": "2026-11-19",
@@ -282,19 +295,6 @@
     1700,
     1700
    ],
-   "title": "Conductors/es de camió_31374",
-   "town": "SANT CUGAT DEL VALLÈS",
-   "url": "https://feinaactiva.gencat.cat/search/offers/detail/09202631374"
-  },
-  {
-   "company": "Oficina de Treball del SOC",
-   "contract": "Contracte laboral temporal (12 mesos)",
-   "date": "2026-11-03",
-   "hours": "Jornada completa",
-   "salary": [
-    1700,
-    1700
-   ],
    "title": "Conductors/es de furgoneta, fins a 3,5 tones_31382",
    "town": "SANT CUGAT DEL VALLÈS",
    "url": "https://feinaactiva.gencat.cat/search/offers/detail/09202631382"
@@ -350,19 +350,6 @@
    "title": "Cuiner/a_30981",
    "town": "SANT CUGAT DEL VALLÈS",
    "url": "https://feinaactiva.gencat.cat/search/offers/detail/09202630981"
-  },
-  {
-   "company": "GROWING UP HR SL",
-   "contract": "Contracte laboral indefinit",
-   "date": "2026-10-22",
-   "hours": "Jornada completa",
-   "salary": [
-    1400,
-    1800
-   ],
-   "title": "14. administratiu/va de finques i lloguers -sant cugat",
-   "town": "SANT CUGAT DEL VALLÈS",
-   "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92327394"
   },
   {
    "company": "Empresa sector sanitari",
@@ -964,19 +951,6 @@
    "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92328147"
   },
   {
-   "company": "Empresa pública",
-   "contract": "Contracte laboral indefinit",
-   "date": "2026-11-03",
-   "hours": "Jornada parcial matí (25 hores - jornada setmanal)",
-   "salary": [
-    890,
-    890
-   ],
-   "title": "Comercial (codi: 7638) (h/d)",
-   "town": "RUBÍ",
-   "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92328145"
-  },
-  {
    "company": "AJUNTAMENT",
    "contract": "Contracte laboral indefinit",
    "date": "2026-11-03",
@@ -1294,6 +1268,32 @@
    "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92325616"
   },
   {
+   "company": "EMPRESA DE MANTENIMENT",
+   "contract": "Contracte laboral indefinit",
+   "date": "2026-11-20",
+   "hours": "Jornada completa",
+   "salary": [
+    1800,
+    1900
+   ],
+   "title": "Técnico/a de montaje audiovisual – pantallas led y eventos",
+   "town": "CERDANYOLA DEL VALLÈS",
+   "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329322"
+  },
+  {
+   "company": "Oficina de Treball del SOC",
+   "contract": "Contracte laboral indefinit",
+   "date": "2026-11-20",
+   "hours": "Jornada completa",
+   "salary": [
+    2100,
+    2100
+   ],
+   "title": "Instal·lador/a electricista (ref:32623)",
+   "town": "CERDANYOLA DEL VALLÈS",
+   "url": "https://feinaactiva.gencat.cat/search/offers/detail/09202632623"
+  },
+  {
    "company": "Oficina de Treball del SOC",
    "contract": "Contracte laboral temporal (3 mesos)",
    "date": "2026-11-19",
@@ -1474,19 +1474,6 @@
    "title": "Muntador/a de forns - paleta (ref. 31637)",
    "town": "CERDANYOLA DEL VALLÈS",
    "url": "https://feinaactiva.gencat.cat/search/offers/detail/09202631637"
-  },
-  {
-   "company": "Oficina de Treball del SOC",
-   "contract": "Contracte laboral temporal (6 mesos)",
-   "date": "2026-11-06",
-   "hours": "Jornada completa",
-   "salary": [
-    1500,
-    1501
-   ],
-   "title": "Tècnic/a administratiu/va de logística",
-   "town": "CERDANYOLA DEL VALLÈS",
-   "url": "https://feinaactiva.gencat.cat/search/offers/detail/09202631594"
   },
   {
    "company": "Empresa de manteniment",
@@ -1865,5 +1852,5 @@
    "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92325167"
   }
  ],
- "fetched": "2026-11-19T20:36:55+01:00"
+ "fetched": "2026-11-20T15:18:29+01:00"
 }

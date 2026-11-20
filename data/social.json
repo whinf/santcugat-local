@@ -15,7 +15,7 @@
     "published": "2026-06-04",
     "short": false,
     "title": "Temporada 2026/27",
-    "views": 1227
+    "views": 1228
    },
    {
     "channel": "ajuntament",
@@ -39,7 +39,7 @@
     "published": "2026-09-29",
     "short": false,
     "title": "The Book of Mormon",
-    "views": 313
+    "views": 314
    },
    {
     "channel": "ajuntament",
@@ -103,7 +103,7 @@
     "published": "2026-11-17",
     "short": false,
     "title": "Maria Nicolau, cuinera i divulgadora",
-    "views": 61
+    "views": 64
    },
    {
     "channel": "car",
@@ -119,7 +119,7 @@
     "published": "2026-11-11",
     "short": true,
     "title": "Més d’un miler de persones han sortit al carrer a Sant Cugat en el marc de la vaga general de l’11N",
-    "views": 53
+    "views": 56
    },
    {
     "channel": "cugat-media",
@@ -127,7 +127,7 @@
     "published": "2026-11-15",
     "short": true,
     "title": "Diada de la Colla dels Castellers de Sant Cugat",
-    "views": 53
+    "views": 55
    },
    {
     "channel": "car",
@@ -178,6 +178,14 @@
     "views": 36
    },
    {
+    "channel": "ajuntament",
+    "id": "_YLKSGBUCvA",
+    "published": "2026-11-17",
+    "short": false,
+    "title": "Sant Cugat reforça la seva presència al 4YFN (MWC) 2027",
+    "views": 34
+   },
+   {
     "channel": "car",
     "id": "aikyk3yGJNo",
     "published": "2026-01-28",
@@ -191,6 +199,14 @@
     "published": "2026-01-28",
     "short": true,
     "title": "28 de enero de 2026",
+    "views": 33
+   },
+   {
+    "channel": "ajuntament",
+    "id": "Z8Pdnj0AOVY",
+    "published": "2026-11-16",
+    "short": true,
+    "title": "Jordi Sunyer, investigador de l'ISGLOBAL: Els beneficis d’una gestió sostenible dels espais naturals",
     "views": 33
    },
    {
@@ -208,14 +224,6 @@
     "short": false,
     "title": "Bessó Digital del Pi d'en Xandri",
     "views": 32
-   },
-   {
-    "channel": "ajuntament",
-    "id": "Z8Pdnj0AOVY",
-    "published": "2026-11-16",
-    "short": true,
-    "title": "Jordi Sunyer, investigador de l'ISGLOBAL: Els beneficis d’una gestió sostenible dels espais naturals",
-    "views": 31
    },
    {
     "channel": "car",
@@ -242,12 +250,12 @@
     "views": 30
    },
    {
-    "channel": "ajuntament",
-    "id": "_YLKSGBUCvA",
-    "published": "2026-11-17",
-    "short": false,
-    "title": "Sant Cugat reforça la seva presència al 4YFN (MWC) 2027",
-    "views": 30
+    "channel": "cugat-media",
+    "id": "w9QtMWIgTfw",
+    "published": "2026-11-13",
+    "short": true,
+    "title": "“Hi ha gent que no té per menjar”: el Gran Recapte arrenca a Sant Cugat",
+    "views": 29
    },
    {
     "channel": "car",
@@ -267,11 +275,11 @@
    },
    {
     "channel": "cugat-media",
-    "id": "w9QtMWIgTfw",
-    "published": "2026-11-13",
-    "short": true,
-    "title": "“Hi ha gent que no té per menjar”: el Gran Recapte arrenca a Sant Cugat",
-    "views": 27
+    "id": "YFgqhcg0rak",
+    "published": "2026-11-19",
+    "short": false,
+    "title": "Les notícies del 19 de novembre",
+    "views": 28
    },
    {
     "channel": "car",
@@ -311,15 +319,23 @@
     "published": "2026-11-17",
     "short": true,
     "title": "Menopausa precoç: una qüestió de salut",
-    "views": 21
+    "views": 19
    },
    {
     "channel": "cugat-media",
-    "id": "YFgqhcg0rak",
-    "published": "2026-11-19",
+    "id": "5xbPUQ8EJXU",
+    "published": "2026-11-15",
+    "short": true,
+    "title": "Empat entre el SantCu i el Bosc de Tosca",
+    "views": 17
+   },
+   {
+    "channel": "cugat-media",
+    "id": "iqmrSN1eCMs",
+    "published": "2026-11-20",
     "short": false,
-    "title": "Les notícies del 19 de novembre",
-    "views": 20
+    "title": "L'agenda de cap de setmana de Cugat Mèdia",
+    "views": 16
    },
    {
     "channel": "cugat-media",
@@ -328,14 +344,6 @@
     "short": false,
     "title": "Les notícies del 18 de novembre",
     "views": 15
-   },
-   {
-    "channel": "cugat-media",
-    "id": "5xbPUQ8EJXU",
-    "published": "2026-11-15",
-    "short": true,
-    "title": "Empat entre el SantCu i el Bosc de Tosca",
-    "views": 14
    },
    {
     "channel": "cugat-media",
@@ -363,27 +371,19 @@
    },
    {
     "channel": "cugat-media",
+    "id": "zk0iAi43-K4",
+    "published": "2026-11-19",
+    "short": true,
+    "title": "Cristina Arróniz: \"Encara hi ha empresaris que prefereixen no contractar dones en edat fèrtil\"",
+    "views": 9
+   },
+   {
+    "channel": "cugat-media",
     "id": "jJG3aVgFzqo",
     "published": "2026-11-17",
     "short": false,
     "title": "Les notícies del 17 de novembre",
     "views": 8
-   },
-   {
-    "channel": "cugat-media",
-    "id": "fJPWWp5C_rY",
-    "published": "2026-11-11",
-    "short": false,
-    "title": "Les notícies de l'11 de novembre",
-    "views": 6
-   },
-   {
-    "channel": "cugat-media",
-    "id": "zk0iAi43-K4",
-    "published": "2026-11-19",
-    "short": true,
-    "title": "Cristina Arróniz: \"Encara hi ha empresaris que prefereixen no contractar dones en edat fèrtil\"",
-    "views": 4
    },
    {
     "channel": "teatre-auditori",
@@ -395,5 +395,5 @@
    }
   ]
  },
- "fetched": "2026-11-19T20:36:55+01:00"
+ "fetched": "2026-11-20T15:18:29+01:00"
 }

@@ -1,6 +1,64 @@
 {
  "data": [
   {
+   "amount": 82609.73,
+   "date": "2026-11-19",
+   "deadline": "2026-09-21T12:00",
+   "id": "3045974/5576/2026",
+   "lots": 0,
+   "organ": "Ajuntament de Sant Cugat del Vallès",
+   "phase": "Expedient en avaluació",
+   "title": "Obres del Projecte bàsic i executiu de la restauració dels paraments i de la coberta de la Capella de Sant Benet, annexa a la Sala capitular del Monestir de sant Cugat del Vallès",
+   "type": "Obres",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/5bc5deec-b941-4e7d-91b8-07d63c6b67db/300944764",
+   "winners": []
+  },
+  {
+   "amount": 417388.91,
+   "date": "2026-11-19",
+   "deadline": "2026-07-31T12:20",
+   "id": "3045974/35054/2026",
+   "lots": 0,
+   "organ": "Ajuntament de Sant Cugat del Vallès",
+   "phase": "Execució",
+   "title": "Obres de conservació i manteniment de l'Institut Escola Catalunya",
+   "type": "Obres",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b199fd9-bcfe-4dd2-9586-ca2aa9dfb25f/300944019",
+   "winners": [
+    "SERVEIS I MANTENIMENTS SERVIAL, S.L.U"
+   ]
+  },
+  {
+   "amount": 30000.0,
+   "date": "2026-11-19",
+   "deadline": "2026-09-17T12:00",
+   "id": "3045974/28685/2026",
+   "lots": 0,
+   "organ": "Ajuntament de Sant Cugat del Vallès",
+   "phase": "Adjudicació",
+   "title": "Subministrament de formigó de planta per a la realització de tasques de manteniment a via pública i en edificis municipals",
+   "type": "Subministraments",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/86a59bcd-e583-4ab9-ab00-fb2782e27388/300944030",
+   "winners": [
+    "Hercal ECO-CONCRETE, S.L."
+   ]
+  },
+  {
+   "amount": 12000.0,
+   "date": "2026-11-19",
+   "deadline": "2026-09-16T12:00",
+   "id": "3045974/26889/2026",
+   "lots": 0,
+   "organ": "Ajuntament de Sant Cugat del Vallès",
+   "phase": "Adjudicació",
+   "title": "Verificació i legalització d'instal·lacions elèctriques periòdiques i noves instal·lacions en edificis municipals i espais públics",
+   "type": "Serveis",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/1c32bc8f-71c4-4129-a173-026d8dc341f1/300944565",
+   "winners": [
+    "APAVE INSPECTION SPAIN, SA"
+   ]
+  },
+  {
    "amount": 59534.0,
    "date": "2026-11-18",
    "deadline": "2026-11-18T12:00",
@@ -241,19 +299,6 @@
    "winners": []
   },
   {
-   "amount": 12000.0,
-   "date": "2026-11-10",
-   "deadline": "2026-09-16T12:00",
-   "id": "3045974/26889/2026",
-   "lots": 0,
-   "organ": "Ajuntament de Sant Cugat del Vallès",
-   "phase": "Expedient en avaluació",
-   "title": "Verificació i legalització d'instal·lacions elèctriques periòdiques i noves instal·lacions en edificis municipals i espais públics",
-   "type": "Serveis",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/1c32bc8f-71c4-4129-a173-026d8dc341f1/300934436",
-   "winners": []
-  },
-  {
    "amount": 2549930.26,
    "date": "2026-11-10",
    "deadline": "2026-12-11T14:00",
@@ -472,19 +517,6 @@
    "winners": [
     "MATERIALS SERVIMAT S.L."
    ]
-  },
-  {
-   "amount": 30000.0,
-   "date": "2026-11-03",
-   "deadline": "2026-09-17T12:00",
-   "id": "3045974/28685/2026",
-   "lots": 0,
-   "organ": "Ajuntament de Sant Cugat del Vallès",
-   "phase": "Expedient en avaluació",
-   "title": "Subministrament de formigó de planta per a la realització de tasques de manteniment a via pública i en edificis municipals",
-   "type": "Subministraments",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/86a59bcd-e583-4ab9-ab00-fb2782e27388/300927407",
-   "winners": []
   },
   {
    "amount": 45976.04,
@@ -901,19 +933,6 @@
    "title": "Consulta Preliminar del Mercat",
    "type": "Serveis",
    "url": "https://contractaciopublica.cat/ca/detall-publicacio/d5870766-246c-4080-bbaf-caeda8e967a2/300914115",
-   "winners": []
-  },
-  {
-   "amount": 82609.73,
-   "date": "2026-10-20",
-   "deadline": "2026-09-21T12:00",
-   "id": "3045974/5576/2026",
-   "lots": 0,
-   "organ": "Ajuntament de Sant Cugat del Vallès",
-   "phase": "Expedient en avaluació",
-   "title": "Obres del Projecte bàsic i executiu de la restauració dels paraments i de la coberta de la Capella de Sant Benet, annexa a la Sala capitular del Monestir de sant Cugat del Vallès",
-   "type": "Obres",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/5bc5deec-b941-4e7d-91b8-07d63c6b67db/300913210",
    "winners": []
   },
   {
@@ -1930,21 +1949,6 @@
    "url": "https://contractaciopublica.cat/ca/detall-publicacio/d4c68257-3c1e-43a7-9cff-11b34fe5890e/300856832",
    "winners": [
     "SAGE SPAIN, S.L."
-   ]
-  },
-  {
-   "amount": 417388.91,
-   "date": "2026-08-06",
-   "deadline": "2026-07-31T12:20",
-   "id": "3045974/35054/2026",
-   "lots": 0,
-   "organ": "Ajuntament de Sant Cugat del Vallès",
-   "phase": "Adjudicació",
-   "title": "Obres de conservació i manteniment de l'Institut Escola Catalunya",
-   "type": "Obres",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b199fd9-bcfe-4dd2-9586-ca2aa9dfb25f/300856225",
-   "winners": [
-    "SERVEIS I MANTENIMENTS SERVIAL, S.L.U"
    ]
   },
   {
@@ -5248,34 +5252,6 @@
    ]
   },
   {
-   "amount": 12000.0,
-   "date": "2025-10-15",
-   "deadline": "2025-10-22T12:00",
-   "id": "3045974/34618/2025",
-   "lots": 0,
-   "organ": "Ajuntament de Sant Cugat del Vallès",
-   "phase": "Anunci de licitació",
-   "title": "Contracte Menor de Servei d'anàlisis dels resultats de la implementació de les millores al procés d'atorgament de llicències d'obres de l'Ajuntament de Sant Cugat del Vallès",
-   "type": "Serveis",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/e37fe2a5-bde7-443d-8f60-50d493de5748/300587860",
-   "winners": []
-  },
-  {
-   "amount": 900.0,
-   "date": "2025-10-15",
-   "deadline": "",
-   "id": "3045974/24572/2025",
-   "lots": 0,
-   "organ": "Ajuntament de Sant Cugat del Vallès",
-   "phase": "Formalització",
-   "title": "Contractació del subministrament del programa de disseny de senyals de trànsit LENA i el seu manteniment",
-   "type": "Subministraments",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/7d7e6a53-3869-4952-ae65-a55252035742/300588670",
-   "winners": [
-    "MOST Enginyers, SL"
-   ]
-  },
-  {
    "amount": 2130000.0,
    "date": "2025-09-29",
    "deadline": "2027-05-03T12:00",
@@ -5328,5 +5304,5 @@
    "winners": []
   }
  ],
- "fetched": "2026-11-19T20:36:55+01:00"
+ "fetched": "2026-11-20T15:18:29+01:00"
 }
