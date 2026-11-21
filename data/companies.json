@@ -2,6 +2,713 @@
  "data": {
   "events": [
    {
+    "date": "2026-10-05",
+    "id": "2026-10-05-441341-moved_in",
+    "kind": "moved_in",
+    "name": "CAT E-GLOBAL XPERIENCE S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-192-08"
+   },
+   {
+    "activity": "La adquisicion,promocion, construccion, enajenacion y arrendamiento -excepto el financiero-,de toda clase de bienes…",
+    "capital": 4500.0,
+    "date": "2026-10-05",
+    "id": "2026-10-05-441285-new",
+    "kind": "new",
+    "name": "ELEYPE 360 GRUP S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-192-08"
+   },
+   {
+    "activity": "Actividades de apoyo a la agricultura",
+    "capital": 6000.0,
+    "date": "2026-10-05",
+    "id": "2026-10-05-441106-new",
+    "kind": "new",
+    "name": "ALTUM VISION S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-192-08"
+   },
+   {
+    "activity": "El transporte regular y no regular de pasajeros por carretera. el alquiler de vehiculos, taxis y arrendamiento de…",
+    "capital": 100.0,
+    "date": "2026-10-02",
+    "id": "2026-10-02-440090-new",
+    "kind": "new",
+    "name": "MOUNT EVEREST TRAVEL S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-191-08"
+   },
+   {
+    "activity": "Cnae correspondiente a la actividad principal es 6210, definido como actividades de programacion informatica. i.…",
+    "capital": 3000.0,
+    "date": "2026-10-02",
+    "id": "2026-10-02-440020-new",
+    "kind": "new",
+    "name": "SYNCROHUB S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-191-08"
+   },
+   {
+    "activity": "La prestacion de servicios de telemedicina, entendiendo por tales, la asistencia sanitaria a distancia mediante el…",
+    "capital": 150000.0,
+    "date": "2026-10-02",
+    "id": "2026-10-02-440018-new",
+    "kind": "new",
+    "name": "SSD CONNECT S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-191-08"
+   },
+   {
+    "date": "2026-10-01",
+    "id": "2026-10-01-437223-moved_in",
+    "kind": "moved_in",
+    "name": "LIVESERUMS S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-190-08"
+   },
+   {
+    "capital": 68452.0,
+    "date": "2026-10-01",
+    "id": "2026-10-01-437208-capital",
+    "kind": "capital",
+    "name": "RICARTGIRO S.L.",
+    "total": 210922.0,
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-190-08"
+   },
+   {
+    "activity": "Alquiler de vehiculos y motocicletas sin conductor. compra y venta de todo tipo de vehiculos automoviles y…",
+    "capital": 3000.0,
+    "date": "2026-09-29",
+    "id": "2026-09-29-433179-new",
+    "kind": "new",
+    "name": "SPW MOBILITY S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-188-08"
+   },
+   {
+    "activity": "La adquisicion, suscripcion, tenencia, disfrute y enajenacion de acciones y participaciones sociales en sociedades…",
+    "capital": 3000.0,
+    "date": "2026-09-29",
+    "id": "2026-09-29-433171-new",
+    "kind": "new",
+    "name": "POZZI & MEMBRIVE CAPITAL S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-188-08"
+   },
+   {
+    "date": "2026-09-29",
+    "id": "2026-09-29-433126-moved_in",
+    "kind": "moved_in",
+    "name": "RECERCA I ASSESSORAMENT FISCAL SL",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-188-08"
+   },
+   {
+    "date": "2026-09-29",
+    "id": "2026-09-29-433120-moved_in",
+    "kind": "moved_in",
+    "name": "GRUP PATRIMONI MARVI SL",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-188-08"
+   },
+   {
+    "date": "2026-09-29",
+    "id": "2026-09-29-432988-moved_in",
+    "kind": "moved_in",
+    "name": "UNICORN E-GLOBAL XPERIENCE S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-188-08"
+   },
+   {
+    "date": "2026-09-28",
+    "id": "2026-09-28-431481-moved_in",
+    "kind": "moved_in",
+    "name": "KILL THE CLASSICS SL",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-187-08"
+   },
+   {
+    "date": "2026-09-28",
+    "id": "2026-09-28-431466-moved_in",
+    "kind": "moved_in",
+    "name": "ELEPHANT E-GLOBAL XPERIENCE S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-187-08"
+   },
+   {
+    "date": "2026-09-28",
+    "id": "2026-09-28-431464-moved_in",
+    "kind": "moved_in",
+    "name": "MAGNUS E-GLOBAL XPERIENCE S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-187-08"
+   },
+   {
+    "date": "2026-09-28",
+    "id": "2026-09-28-431458-moved_in",
+    "kind": "moved_in",
+    "name": "DIGITAL E-GLOBAL XPERIENCE S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-187-08"
+   },
+   {
+    "activity": "Diseño, desarrollo, programacion, mantenimiento, explotacion, comercializacion y licenciamiento de software,…",
+    "capital": 13000.0,
+    "date": "2026-09-28",
+    "id": "2026-09-28-431405-new",
+    "kind": "new",
+    "name": "PHAROS AIP S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-187-08"
+   },
+   {
+    "activity": "La compra, venta, importacion, exportacion, distribucion y comercializacion, al por mayor y al por menor, mediante…",
+    "capital": 15000.0,
+    "date": "2026-09-28",
+    "id": "2026-09-28-431385-new",
+    "kind": "new",
+    "name": "FASHION EPLUS APPAREL S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-187-08"
+   },
+   {
+    "date": "2026-09-28",
+    "id": "2026-09-28-431315-moved_in",
+    "kind": "moved_in",
+    "name": "MAD E-GLOBAL XPERIENCE S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-187-08"
+   },
+   {
+    "activity": "Actividades de jardineria",
+    "capital": 3000.0,
+    "date": "2026-09-28",
+    "id": "2026-09-28-431232-new",
+    "kind": "new",
+    "name": "JARDINERIA VALLDOREIX S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-187-08"
+   },
+   {
+    "activity": "Actividad principal: cnae 6421 actividades de sociedades holding. la adquisicion, tenencia, administracion y…",
+    "capital": 3000.0,
+    "date": "2026-09-25",
+    "id": "2026-09-25-429833-new",
+    "kind": "new",
+    "name": "JMLS CAPITAL S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-186-08"
+   },
+   {
+    "activity": "La prestacion de servicios de consultoria estrategica, empresarial, economica, financiera, comercial y de gestion,…",
+    "capital": 3000.0,
+    "date": "2026-09-25",
+    "id": "2026-09-25-429703-new",
+    "kind": "new",
+    "name": "GM HERITAGE CAPITAL S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-186-08"
+   },
+   {
+    "activity": "Otras actividades de consultoria de gestion empresarial",
+    "capital": 3000.0,
+    "date": "2026-09-25",
+    "id": "2026-09-25-429519-new",
+    "kind": "new",
+    "name": "VERDANT BEAM CONSULTING S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-186-08"
+   },
+   {
+    "date": "2026-09-24",
+    "id": "2026-09-24-427514-moved_in",
+    "kind": "moved_in",
+    "name": "GARTAR IBERICA SL",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-185-08"
+   },
+   {
+    "date": "2026-09-24",
+    "id": "2026-09-24-427485-moved_in",
+    "kind": "moved_in",
+    "name": "EUJA SA",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-185-08"
+   },
+   {
+    "date": "2026-09-24",
+    "id": "2026-09-24-427482-moved_in",
+    "kind": "moved_in",
+    "name": "GLOBAL E-XPERIENCE PLATFORM S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-185-08"
+   },
+   {
+    "date": "2026-09-24",
+    "id": "2026-09-24-427480-moved_in",
+    "kind": "moved_in",
+    "name": "AURALEX ADMINISTRATIVE AND TAX SERVICES S.L.P.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-185-08"
+   },
+   {
+    "activity": "Edicion de otros programas informaticos",
+    "capital": 3000.0,
+    "date": "2026-09-24",
+    "id": "2026-09-24-427326-new",
+    "kind": "new",
+    "name": "CHASE THIS LIGHT S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-185-08"
+   },
+   {
+    "activity": "Otras actividades sanitarias n",
+    "capital": 3000.0,
+    "date": "2026-09-24",
+    "id": "2026-09-24-427279-new",
+    "kind": "new",
+    "name": "TRIMED SALUD S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-185-08"
+   },
+   {
+    "date": "2026-09-23",
+    "id": "2026-09-23-425664-moved_in",
+    "kind": "moved_in",
+    "name": "REACH AUT CARE LIKE HOME S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-184-08"
+   },
+   {
+    "activity": "Adquirir, tener, administrar, gestionar y transmitir acciones, participaciones y otros valores representativos del…",
+    "capital": 3000.0,
+    "date": "2026-09-23",
+    "id": "2026-09-23-425579-new",
+    "kind": "new",
+    "name": "MILVIO 75 S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-184-08"
+   },
+   {
+    "activity": "La adquisicion, tenencia, administracion, gestion, explotacion, arrendamiento y subarrendamiento de toda clase de…",
+    "capital": 560452.87,
+    "date": "2026-09-23",
+    "id": "2026-09-23-425531-new",
+    "kind": "new",
+    "name": "CALAVIER INMUEBLES S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-184-08"
+   },
+   {
+    "activity": "Reformas y construccion de edificios residenciales. construccion de estructuras de hormigon. cnae de su actividad…",
+    "capital": 4000.0,
+    "date": "2026-09-23",
+    "id": "2026-09-23-425451-new",
+    "kind": "new",
+    "name": "LOS JUANES REFORMAS Y CONSTRUCCIONES SIGLO XXI S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-184-08"
+   },
+   {
+    "activity": "Actividades de programacion informatica",
+    "capital": 3000.0,
+    "date": "2026-09-23",
+    "id": "2026-09-23-425373-new",
+    "kind": "new",
+    "name": "AWORA FLOW S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-184-08"
+   },
+   {
+    "activity": "Prestacion de servicios de enseñanza, formacion, educacion y perfeccionamiento, dirigidos a particulares, empresas y…",
+    "capital": 3000.0,
+    "date": "2026-09-22",
+    "id": "2026-09-22-423404-new",
+    "kind": "new",
+    "name": "MIK ESTUDI SANT CUGAT S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-183-08"
+   },
+   {
+    "date": "2026-09-21",
+    "id": "2026-09-21-421903-moved_in",
+    "kind": "moved_in",
+    "name": "DESCIFRADO A.I.E.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-182-08"
+   },
+   {
+    "activity": "Actividades inmobiliarias e intermediacion. la prestacion de servicios de intermediacion, mediacion, asesoramiento,…",
+    "capital": 3000.0,
+    "date": "2026-09-18",
+    "id": "2026-09-18-419200-new",
+    "kind": "new",
+    "name": "MIA CAPITAL CONSULTING S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-181-08"
+   },
+   {
+    "activity": "Restaurantes",
+    "capital": 3000.0,
+    "date": "2026-09-18",
+    "id": "2026-09-18-419154-new",
+    "kind": "new",
+    "name": "RITUAL LEVANTINO S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-181-08"
+   },
+   {
+    "activity": "Otra educacion n",
+    "capital": 3000.0,
+    "date": "2026-09-18",
+    "id": "2026-09-18-419136-new",
+    "kind": "new",
+    "name": "MODEL UNITED NATIONS EDUCATION S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-181-08"
+   },
+   {
+    "activity": "Actividad principal: cnae 8299- otras actividades de apoyo a las empresas, n.c.o.p. servicios de hosteleria y de…",
+    "capital": 3000.0,
+    "date": "2026-09-16",
+    "id": "2026-09-16-415868-new",
+    "kind": "new",
+    "name": "POLARED S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-179-08"
+   },
+   {
+    "activity": "Actividad principal: cnae 8299 - otras actividades de apoyo a las empresas, n.c.o.p. servicios de hosteleria y de…",
+    "capital": 3000.0,
+    "date": "2026-09-16",
+    "id": "2026-09-16-415867-new",
+    "kind": "new",
+    "name": "MARED TONIC S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-179-08"
+   },
+   {
+    "activity": "Cnae 8299-otras actividades de apoyo a las empresas, n.c.o.p. servicios de hosteleria y de restauracion.…",
+    "capital": 3000.0,
+    "date": "2026-09-16",
+    "id": "2026-09-16-415866-new",
+    "kind": "new",
+    "name": "ZAMANARO S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-179-08"
+   },
+   {
+    "activity": "Actividad principal: cnae 8299 - otras actividades de apoyo a las empresas, n.c.o.p. servicios de hosteleria y de…",
+    "capital": 3000.0,
+    "date": "2026-09-16",
+    "id": "2026-09-16-415865-new",
+    "kind": "new",
+    "name": "PALINAGO S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-179-08"
+   },
+   {
+    "date": "2026-09-14",
+    "id": "2026-09-14-412403-moved_in",
+    "kind": "moved_in",
+    "name": "LCG CAPITAL MANAGEMENT S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-177-08"
+   },
+   {
+    "activity": "La prestacion de servicios de consultroia, asesoramiento tecnico, investigacion, desarrollo e ingenieria…",
+    "capital": 3000.0,
+    "date": "2026-09-14",
+    "id": "2026-09-14-412367-new",
+    "kind": "new",
+    "name": "VANGUARD FSI ENGINEERING S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-177-08"
+   },
+   {
+    "capital": 2196.58,
+    "date": "2026-09-14",
+    "id": "2026-09-14-412325-capital",
+    "kind": "capital",
+    "name": "ADAPTICAL S.L.",
+    "total": 41796.0,
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-177-08"
+   },
+   {
+    "date": "2026-09-14",
+    "id": "2026-09-14-412309-moved_in",
+    "kind": "moved_in",
+    "name": "KABINET SOLUCIONES INFORMATICAS SL",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-177-08"
+   },
+   {
+    "date": "2026-09-14",
+    "id": "2026-09-14-412304-moved_in",
+    "kind": "moved_in",
+    "name": "DEXTER INTRALOGISTICS S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-177-08"
+   },
+   {
+    "date": "2026-09-14",
+    "id": "2026-09-14-412295-moved_in",
+    "kind": "moved_in",
+    "name": "NEOFUSION DEVELOPMENT S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-177-08"
+   },
+   {
+    "date": "2026-09-11",
+    "id": "2026-09-11-411084-moved_in",
+    "kind": "moved_in",
+    "name": "WIN SYSTEMS SOLUTIONS SL",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-176-08"
+   },
+   {
+    "activity": "Comercio al por mayor de otra maquinaria y equipo",
+    "capital": 3000.0,
+    "date": "2026-09-11",
+    "id": "2026-09-11-410965-new",
+    "kind": "new",
+    "name": "ECOMAX CAT S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-176-08"
+   },
+   {
+    "activity": "La prestacion de servicios de consultoria, asesoramiento y asistencia tecnica a empresas, profesionales y entidades…",
+    "capital": 3000.0,
+    "date": "2026-09-11",
+    "id": "2026-09-11-410917-new",
+    "kind": "new",
+    "name": "MAZYA NYO S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-176-08"
+   },
+   {
+    "date": "2026-09-11",
+    "id": "2026-09-11-410799-moved_out",
+    "kind": "moved_out",
+    "name": "AFORSEC SISTEMAS DE SEGURIDAD S.L.",
+    "town": "CERDANYOLA DEL VALLES",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-176-08"
+   },
+   {
+    "activity": "La adquisicion, tenencia, disfrute, administracion, gestion, gravamen, enajenacion y disposicion, por cuenta propia,…",
+    "capital": 287391.0,
+    "date": "2026-09-09",
+    "id": "2026-09-09-407983-new",
+    "kind": "new",
+    "name": "S2F ALLIANCE S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-174-08"
+   },
+   {
+    "date": "2026-09-08",
+    "id": "2026-09-08-406839-moved_in",
+    "kind": "moved_in",
+    "name": "SCJL RYDERS S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-173-08"
+   },
+   {
+    "activity": "La inversion, adquisicion y tenencia, siempre por cuenta propia, de activos financieros, obligaciones, acciones y…",
+    "capital": 3000.0,
+    "date": "2026-09-08",
+    "id": "2026-09-08-406741-new",
+    "kind": "new",
+    "name": "LUPVEL TRADE S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-173-08"
+   },
+   {
+    "activity": "Prestacion de servicios auxiliares de seguridad tanto a empresas como a particulares; informacion y control de…",
+    "capital": 3000.0,
+    "date": "2026-09-04",
+    "id": "2026-09-04-403917-new",
+    "kind": "new",
+    "name": "ALMER CONTROL DE ACCESOS S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-171-08"
+   },
+   {
+    "activity": "La restauracion",
+    "capital": 3000.0,
+    "date": "2026-09-04",
+    "id": "2026-09-04-403893-new",
+    "kind": "new",
+    "name": "TEMPS DE TERRA TURISMO Y RESTAURACION 2026 S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-171-08"
+   },
+   {
+    "date": "2026-09-04",
+    "id": "2026-09-04-403805-moved_in",
+    "kind": "moved_in",
+    "name": "LACRUX STUDIO S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-171-08"
+   },
+   {
+    "activity": "Cnae principal: 5829 / edicion de otros programas informaticos. cnae secundarios: 6220 / actividades de consultoria…",
+    "capital": 3000.0,
+    "date": "2026-09-03",
+    "id": "2026-09-03-402111-new",
+    "kind": "new",
+    "name": "GOLEMUI S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-170-08"
+   },
+   {
+    "capital": 185470.0,
+    "date": "2026-09-03",
+    "id": "2026-09-03-402054-capital",
+    "kind": "capital",
+    "name": "IGNION S.L.",
+    "total": 4231190.0,
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-170-08"
+   },
+   {
+    "activity": "Adquisicion, tenencia, administracion y disposicion, por cuenta propia, de toda clase de acciones, participaciones…",
+    "capital": 274.4,
+    "date": "2026-09-03",
+    "id": "2026-09-03-401988-new",
+    "kind": "new",
+    "name": "OPENTECA SPV S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-170-08"
+   },
+   {
+    "activity": "Actividad principal: cnae 8299 - otras actividades de apoyo a las empresas n.c.o.p. servicios de hosteleria y de…",
+    "capital": 3000.0,
+    "date": "2026-09-03",
+    "id": "2026-09-03-401979-new",
+    "kind": "new",
+    "name": "CORE FIZZLE S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-170-08"
+   },
+   {
+    "capital": 1000000.0,
+    "date": "2026-09-03",
+    "id": "2026-09-03-401957-capital_down",
+    "kind": "capital_down",
+    "name": "ONCESIETE SL",
+    "total": 16780900.0,
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-170-08"
+   },
+   {
+    "activity": "La prestacion de servicios de consultoria, asesoramiento, planificacion, coordinacion, supervision y gestion de…",
+    "capital": 3000.0,
+    "date": "2026-09-03",
+    "id": "2026-09-03-401882-new",
+    "kind": "new",
+    "name": "JDE ENGINEERING S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-170-08"
+   },
+   {
+    "activity": "Actividades de diseño de productos industriales y moda",
+    "capital": 3000.0,
+    "date": "2026-09-03",
+    "id": "2026-09-03-401845-new",
+    "kind": "new",
+    "name": "HUG-U SENSE S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-170-08"
+   },
+   {
+    "activity": "Actividad principal cnae 8299 otras actividades de apoyo a las empresas n.c.o.p. servicios de hoteleria y de…",
+    "capital": 3000.0,
+    "date": "2026-09-02",
+    "id": "2026-09-02-400306-new",
+    "kind": "new",
+    "name": "KAMALINE S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-169-08"
+   },
+   {
+    "activity": "Objeto principal: el comercio al por menor de muebles, aparatos de iluminacion, vajilla y otros articulos de uso…",
+    "capital": 3000.0,
+    "date": "2026-09-02",
+    "id": "2026-09-02-400302-new",
+    "kind": "new",
+    "name": "OPEN LIVING DESING S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-169-08"
+   },
+   {
+    "activity": "Promocion y construccion, por cuenta propia o ajena, de toda clase de edificaciones, asi como intermediacion y el…",
+    "capital": 3000.0,
+    "date": "2026-09-02",
+    "id": "2026-09-02-400215-new",
+    "kind": "new",
+    "name": "CASES CALIU S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-169-08"
+   },
+   {
+    "activity": "Diseño, desarrollo, programacion, produccion, mantenimiento, actualizacion, explotacion y comercializacion de…",
+    "capital": 3000.0,
+    "date": "2026-09-02",
+    "id": "2026-09-02-400207-new",
+    "kind": "new",
+    "name": "CUPICAN VENTURES S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-169-08"
+   },
+   {
+    "date": "2026-09-01",
+    "id": "2026-09-01-399128-moved_in",
+    "kind": "moved_in",
+    "name": "SUPLETIA INVEST S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-168-08"
+   },
+   {
+    "date": "2026-09-01",
+    "id": "2026-09-01-399123-moved_out",
+    "kind": "moved_out",
+    "name": "REDMA TRADE S.L.",
+    "town": "BARCELONA",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-168-08"
+   },
+   {
+    "date": "2026-09-01",
+    "id": "2026-09-01-399080-moved_in",
+    "kind": "moved_in",
+    "name": "BLACK SHEEP SL",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-168-08"
+   },
+   {
+    "date": "2026-09-01",
+    "id": "2026-09-01-399064-moved_in",
+    "kind": "moved_in",
+    "name": "FOUNDERZ EMPRENDIMIENTO S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-168-08"
+   },
+   {
+    "capital": 1815.05,
+    "date": "2026-09-01",
+    "id": "2026-09-01-399064-capital",
+    "kind": "capital",
+    "name": "FOUNDERZ EMPRENDIMIENTO S.L.",
+    "total": 9643.9,
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-168-08"
+   },
+   {
+    "activity": "Actividad principal: cnae 8299.- otras actividades de apoyo a las empresas n.c.o.p. servicios de hosteleria y de…",
+    "capital": 3000.0,
+    "date": "2026-08-31",
+    "id": "2026-08-31-397375-new",
+    "kind": "new",
+    "name": "VELVET CONSULTORIA S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-167-08"
+   },
+   {
+    "activity": "La prestacion de servicios profesionales de odontologia, ortodoncia, estomatologia, cirugia bucal e implantologia,…",
+    "capital": 3000.0,
+    "date": "2026-08-28",
+    "id": "2026-08-28-396121-new",
+    "kind": "new",
+    "name": "MEDICORTO S.L.P.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-166-08"
+   },
+   {
+    "activity": "Cnae principal: 7020- otras actividades de consultoria de gestion empresarial: la prestacion de servicios de…",
+    "capital": 3000.0,
+    "date": "2026-08-28",
+    "id": "2026-08-28-396118-new",
+    "kind": "new",
+    "name": "BANCLAXE S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-166-08"
+   },
+   {
+    "activity": "El comercio al por menor de productos de perfumeria, cosmetica, higiene y cuidado personal, asi como de sus…",
+    "capital": 3000.0,
+    "date": "2026-08-28",
+    "id": "2026-08-28-396047-new",
+    "kind": "new",
+    "name": "AURA COLLECTIVE S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-166-08"
+   },
+   {
+    "date": "2026-08-28",
+    "id": "2026-08-28-396009-moved_in",
+    "kind": "moved_in",
+    "name": "RIC SOLUTIONS, S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-166-08"
+   },
+   {
+    "activity": "Construccion y reformas la realizacion de toda clase de obras de construccion, rehabilitacion y reforma, tanto…",
+    "capital": 3000.0,
+    "date": "2026-08-27",
+    "id": "2026-08-27-394034-new",
+    "kind": "new",
+    "name": "CUBO D'ORO BY KRAFT HOLDING S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-165-08"
+   },
+   {
+    "date": "2026-08-27",
+    "id": "2026-08-27-393985-moved_in",
+    "kind": "moved_in",
+    "name": "SERVINOLTA SL",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-165-08"
+   },
+   {
+    "capital": 3692640.0,
+    "date": "2026-08-27",
+    "id": "2026-08-27-393985-capital",
+    "kind": "capital",
+    "name": "SERVINOLTA SL",
+    "total": 7717440.0,
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-165-08"
+   },
+   {
+    "capital": 450.0,
+    "date": "2026-08-27",
+    "id": "2026-08-27-393822-capital",
+    "kind": "capital",
+    "name": "THE FUYU SOCIETY S.L.",
+    "total": 4560.0,
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-165-08"
+   },
+   {
     "activity": "Ingenieria y consultoria tecnica: la prestacion de servicios de ingenieria, diseño, planificacion y direccion…",
     "capital": 44000.0,
     "date": "2026-08-26",
@@ -836,15 +1543,20 @@
   "known": {
    "B 101512": "BOTAVARA 3 SL",
    "B 109267": "APE SOFTWARE COMPONENTS SL",
+   "B 111080": "GRUP PATRIMONI MARVI SL",
    "B 111220": "CALDIC IBERICA SL",
    "B 115766": "JESANN I FILL SL",
    "B 122402": "FIRAMUNICH SL",
    "B 13653": "PROFABRE S.L.",
+   "B 140056": "SERVINOLTA SL",
    "B 150144": "COLILLAS BRANDING SL",
    "B 162231": "TU DIRAS PRODUCCIONS SL",
    "B 185785": "COPERION SL",
    "B 195744": "MAGAZINE VALLES SL",
+   "B 196289": "RECERCA I ASSESSORAMENT FISCAL SL",
    "B 19720": "2005 INVERECO SL",
+   "B 199965": "BLACK SHEEP SL",
+   "B 203155": "RIC SOLUTIONS, S.L.",
    "B 214756": "AVANRED SL",
    "B 218722": "MAVIL 94 SL",
    "B 221800": "ONCESIETE SL",
@@ -867,6 +1579,7 @@
    "B 293760": "ESGOPACK SL",
    "B 295126": "MBC FIRASERVICES SL",
    "B 29821": "AUTO BELTRAN SA",
+   "B 30569": "EUJA SA",
    "B 317737": "CADT SOFTWARE AND DRAFTING SL",
    "B 323206": "MOLT DE SABO SL",
    "B 324521": "JUST IMPLANT SL",
@@ -881,11 +1594,13 @@
    "B 355776": "IMPROVA CONSULTING SL",
    "B 357112": "DIAGONAL POLONIA SL",
    "B 357717": "CENTRIA TECNOLOGIA SL",
+   "B 358288": "WIN SYSTEMS SOLUTIONS SL",
    "B 364624": "LUQA COMMODITIES SL",
    "B 367099": "SPINE & BRAIN IMPLANTS SL",
    "B 378707": "EMES SERVICIOS 2009 SL",
    "B 379702": "MUSACO TECNOLOGIA I AIGUA SL",
    "B 386138": "SOLER FINQUES SANT CUGAT SL",
+   "B 389716": "KABINET SOLUCIONES INFORMATICAS SL",
    "B 390117": "APE FIRST SL",
    "B 392178": "INNOVA CONSULTING TECNOLOGICO SL",
    "B 393426": "BIALCA SOLUTIONS SL",
@@ -901,6 +1616,7 @@
    "B 418035": "GLI TEST LABS ESPAÑA SL",
    "B 418046": "VIVIENDA HABITUAL SL",
    "B 418879": "ADVALUE 2012 SL",
+   "B 419894": "GARTAR IBERICA SL",
    "B 422522": "GOBELIN PROJECTES SL",
    "B 422757": "TMPRECISION APPLICATIONS S.L.",
    "B 425533": "MITEX ENGINEERING AND SERVICES SL",
@@ -931,6 +1647,7 @@
    "B 478563": "SOLUCIONES LOGISTICAS TERUEL SL",
    "B 488123": "NAOS SHIP AND BOAT DESIGN SL",
    "B 491644": "SOONA BEACH SL",
+   "B 494421": "KILL THE CLASSICS SL",
    "B 496879": "IMMOBLES BARRIER SL",
    "B 497795": "AUTO PARTS MARESME SL",
    "B 499729": "CERRAJERIA ESPECIALIZADA FEHERRO SL",
@@ -953,6 +1670,7 @@
    "B 544003": "PEGGY'S CONSULTING S.L.",
    "B 545794": "CONCENTRACIO DE RECURSOS ECONOMICS S.L.",
    "B 546184": "QUALITY LIMP EGGY SERVEIS DE MANTENIMENT S.L.",
+   "B 547129": "DEXTER INTRALOGISTICS S.L.",
    "B 549422": "SERVEIS AERONAUTICS DE BARCELONA S.L.",
    "B 550842": "ADAPTICAL S.L.",
    "B 551880": "KEEP WORKING S.L.",
@@ -960,15 +1678,22 @@
    "B 553535": "NEXIO PLANAS HOTEL S.L.",
    "B 553899": "SMART CONSULTING SOLUTIONS S.L.",
    "B 553906": "MEATPACKING DISTRICT 2.0 S.L.",
+   "B 555392": "GLOBAL E-XPERIENCE PLATFORM S.L.",
    "B 555490": "GLOBAL EVENT SOLUTIONS & SERVICES S.L.",
    "B 556461": "PATAGONIA GOURMET S.L.",
    "B 556578": "CAPORMAY S.L.",
    "B 556790": "KOOLAB GLOBAL TECH SOLUTIONS S.L.",
    "B 557332": "PASSO DE CUINAR S.L.",
+   "B 559959": "ELEPHANT E-GLOBAL XPERIENCE S.L.",
+   "B 559960": "DIGITAL E-GLOBAL XPERIENCE S.L.",
+   "B 559961": "CAT E-GLOBAL XPERIENCE S.L.",
+   "B 559962": "MAGNUS E-GLOBAL XPERIENCE S.L.",
+   "B 559963": "UNICORN E-GLOBAL XPERIENCE S.L.",
    "B 560187": "CBD LABORATORY S.L.",
    "B 561237": "PUNT SABADELL S.L.",
    "B 565384": "BEAUTYG2C S.L.",
    "B 565836": "DESAVIA SERVICIOS DE JARDINERIA S.L.",
+   "B 566041": "FOUNDERZ EMPRENDIMIENTO S.L.",
    "B 566164": "ASSETS ELIAN 23 S.L.",
    "B 566613": "KANGURO DELIVERY S.L.",
    "B 566665": "TAMDREAM S.L.",
@@ -987,6 +1712,7 @@
    "B 583757": "DRABEL GROUP S.L.",
    "B 584939": "SIMULADORES DEL VALLES S.L.",
    "B 585215": "IRBIS SERVICIOS JURIDICOS S.L.",
+   "B 586040": "SUPLETIA INVEST S.L.",
    "B 586837": "LLARS D'INFANTS MIRA-SOLET S.L.",
    "B 589113": "DESTO CAPA S.L.",
    "B 594586": "SERGOM INVERSIONES Y GESTIONES S.L.",
@@ -996,6 +1722,7 @@
    "B 601026": "MACHDEAL S.L.",
    "B 601598": "TRAVEL BUEN VIAJE S.L.",
    "B 601717": "VEG AND FRUITS TRADE PARTNERS S.L.",
+   "B 602132": "MAD E-GLOBAL XPERIENCE S.L.",
    "B 602502": "SPOTLIGHT ENTERTAINMENT S.L.",
    "B 602738": "ADDERE AO S.L.",
    "B 6028": "CLAES SL",
@@ -1016,6 +1743,7 @@
    "B 621199": "MASAMAS PROYECTOS S.L.",
    "B 623076": "EQUIPOS FISUNIC S.L.",
    "B 626276": "UNFIVE SANTCUGATGROUP S.L.",
+   "B 626492": "LIVESERUMS S.L.",
    "B 628081": "GESTION Y DESARROLLO DE OBRAS STI S.L.",
    "B 628419": "VENTURA AVANZA S.L.",
    "B 630081": "ERIC PONS FILMS S.L.",
@@ -1024,7 +1752,8 @@
    "B 632742": "PALANTIR CODE S.L.",
    "B 632996": "CLINICA DENTAL URGELL S.L.",
    "B 633790": "MYNFAI LEGAL SERVICES S.L.",
-   "B 634366": "AFORSEC SISTEMAS DE SEGURIDAD S.L.",
+   "B 634138": "SCJL RYDERS S.L.",
+   "B 634216": "DESCIFRADO A.I.E.",
    "B 634413": "SAFE CORNER SERVICES S.L.",
    "B 636199": "BLACKDOT VENTURES S.L.",
    "B 636326": "GOES ABROAD S.L.",
@@ -1039,6 +1768,7 @@
    "B 640117": "UNION PORTABALES S.L.",
    "B 640571": "ESCRIBAI SOLUTIONS S.L.",
    "B 640903": "DEARBORN S.L.",
+   "B 642170": "AURALEX ADMINISTRATIVE AND TAX SERVICES S.L.P.",
    "B 642511": "PRAXIEL SERVICORP S.L.",
    "B 642705": "PAPOTEX INVESTMENTS S.L.",
    "B 643111": "NEURON FORGE S.L.",
@@ -1450,7 +2180,6 @@
    "B 656014": "TECNOBAJANTES S.L.",
    "B 656193": "GOLD FIZZLE S.L.",
    "B 656211": "VALLDOREPARA SERVEIS S.L.",
-   "B 656213": "REDMA TRADE S.L.",
    "B 656226": "POMELINO S.L.",
    "B 656230": "LUCID WORKS S.L.",
    "B 656345": "NETTA CORPORATE HOLDING S.L.",
@@ -1576,9 +2305,11 @@
    "B 659814": "UNIVERSAL EXPORTS 1962 S.L.",
    "B 659815": "RAGUNERGY S.L.",
    "B 659822": "YB ARBEL INVESTMENTS S.L.",
+   "B 659865": "NEOFUSION DEVELOPMENT S.L.",
    "B 659896": "MIRASOL SORT S.L.",
    "B 659909": "CALLIAFY S.L.",
    "B 659926": "DOM URBANIA S.L.",
+   "B 659934": "LACRUX STUDIO S.L.",
    "B 659988": "KALA HOUSE M1 S.L.",
    "B 660006": "SPIKELAB S.L.",
    "B 660011": "CANUDAS CORPORATE GROUP S.L.",
@@ -1667,11 +2398,61 @@
    "B 662519": "GESEM SOLIS S.L.",
    "B 662536": "TEPANLAND S.L.",
    "B 662544": "MEGAN & BRAM GROUP S.L.",
+   "B 662571": "CUBO D'ORO BY KRAFT HOLDING S.L.",
+   "B 662584": "AURA COLLECTIVE S.L.",
+   "B 662610": "BANCLAXE S.L.",
+   "B 662622": "MEDICORTO S.L.P.",
+   "B 662666": "VELVET CONSULTORIA S.L.",
+   "B 662733": "CUPICAN VENTURES S.L.",
+   "B 662743": "CASES CALIU S.L.",
+   "B 662777": "KAMALINE S.L.",
+   "B 662787": "OPEN LIVING DESING S.L.",
+   "B 662809": "OPENTECA SPV S.L.",
+   "B 662811": "JDE ENGINEERING S.L.",
+   "B 662851": "CORE FIZZLE S.L.",
+   "B 662853": "HUG-U SENSE S.L.",
+   "B 662876": "TEMPS DE TERRA TURISMO Y RESTAURACION 2026 S.L.",
+   "B 662888": "GOLEMUI S.L.",
+   "B 662905": "ALMER CONTROL DE ACCESOS S.L.",
+   "B 663017": "LUPVEL TRADE S.L.",
+   "B 663044": "S2F ALLIANCE S.L.",
+   "B 663110": "MAZYA NYO S.L.",
+   "B 663138": "ECOMAX CAT S.L.",
+   "B 663191": "LCG CAPITAL MANAGEMENT S.L.",
+   "B 663211": "VANGUARD FSI ENGINEERING S.L.",
+   "B 663295": "ZAMANARO S.L.",
+   "B 663300": "PALINAGO S.L.",
+   "B 663302": "MARED TONIC S.L.",
+   "B 663305": "POLARED S.L.",
+   "B 663328": "MIA CAPITAL CONSULTING S.L.",
+   "B 663341": "MODEL UNITED NATIONS EDUCATION S.L.",
+   "B 663364": "RITUAL LEVANTINO S.L.",
+   "B 663375": "MIK ESTUDI SANT CUGAT S.L.",
+   "B 663498": "MILVIO 75 S.L.",
+   "B 663524": "CALAVIER INMUEBLES S.L.",
+   "B 663527": "LOS JUANES REFORMAS Y CONSTRUCCIONES SIGLO XXI S.L.",
+   "B 663530": "REACH AUT CARE LIKE HOME S.L.",
+   "B 663592": "AWORA FLOW S.L.",
+   "B 663643": "TRIMED SALUD S.L.",
+   "B 663691": "CHASE THIS LIGHT S.L.",
+   "B 663723": "GM HERITAGE CAPITAL S.L.",
+   "B 663729": "VERDANT BEAM CONSULTING S.L.",
+   "B 663767": "JMLS CAPITAL S.L.",
+   "B 663823": "JARDINERIA VALLDOREIX S.L.",
+   "B 663847": "FASHION EPLUS APPAREL S.L.",
+   "B 663878": "PHAROS AIP S.L.",
+   "B 663966": "POZZI & MEMBRIVE CAPITAL S.L.",
+   "B 664003": "SPW MOBILITY S.L.",
+   "B 664005": "SSD CONNECT S.L.",
+   "B 664009": "SYNCROHUB S.L.",
+   "B 664036": "MOUNT EVEREST TRAVEL S.L.",
+   "B 664195": "ELEYPE 360 GRUP S.L.",
+   "B 664199": "ALTUM VISION S.L.",
    "B 80853": "ESTUDIOS Y PROYECTOS GRAU SL",
    "B 96774": "EURO IMPLEMENTOS SL"
   },
-  "last": "2026-08-26",
+  "last": "2026-10-05",
   "since": "2025-11-20"
  },
- "fetched": "2026-11-21T14:40:56+01:00"
+ "fetched": "2026-11-21T22:03:38+01:00"
 }
