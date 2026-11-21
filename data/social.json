@@ -15,7 +15,7 @@
     "published": "2026-06-04",
     "short": false,
     "title": "Temporada 2026/27",
-    "views": 1228
+    "views": 1230
    },
    {
     "channel": "ajuntament",
@@ -23,7 +23,7 @@
     "published": "2026-10-30",
     "short": false,
     "title": "Ple Municipal Octubre",
-    "views": 908
+    "views": 909
    },
    {
     "channel": "ajuntament",
@@ -31,7 +31,7 @@
     "published": "2026-10-31",
     "short": false,
     "title": "Audiència pública del ple d'octubre de 2026",
-    "views": 411
+    "views": 412
    },
    {
     "channel": "teatre-auditori",
@@ -39,7 +39,7 @@
     "published": "2026-09-29",
     "short": false,
     "title": "The Book of Mormon",
-    "views": 315
+    "views": 316
    },
    {
     "channel": "ajuntament",
@@ -87,7 +87,7 @@
     "published": "2026-10-05",
     "short": false,
     "title": "Transformació Operativa de l'Administració",
-    "views": 75
+    "views": 76
    },
    {
     "channel": "cugat-media",
@@ -95,7 +95,7 @@
     "published": "2026-11-17",
     "short": false,
     "title": "Maria Nicolau, cuinera i divulgadora",
-    "views": 68
+    "views": 72
    },
    {
     "channel": "teatre-auditori",
@@ -103,7 +103,7 @@
     "published": "2026-06-12",
     "short": false,
     "title": "Escoles a Escena 2026-27",
-    "views": 64
+    "views": 65
    },
    {
     "channel": "car",
@@ -112,14 +112,6 @@
     "short": true,
     "title": "28 de enero de 2026",
     "views": 58
-   },
-   {
-    "channel": "cugat-media",
-    "id": "iOHofqeeUvo",
-    "published": "2026-11-11",
-    "short": true,
-    "title": "Més d’un miler de persones han sortit al carrer a Sant Cugat en el marc de la vaga general de l’11N",
-    "views": 56
    },
    {
     "channel": "cugat-media",
@@ -171,19 +163,19 @@
    },
    {
     "channel": "ajuntament",
+    "id": "_YLKSGBUCvA",
+    "published": "2026-11-17",
+    "short": false,
+    "title": "Sant Cugat reforça la seva presència al 4YFN (MWC) 2027",
+    "views": 36
+   },
+   {
+    "channel": "ajuntament",
     "id": "kQ6pwxTvc4s",
     "published": "2026-09-10",
     "short": false,
     "title": "Descobreix l'hort comunitari de Coll Favà",
     "views": 36
-   },
-   {
-    "channel": "ajuntament",
-    "id": "_YLKSGBUCvA",
-    "published": "2026-11-17",
-    "short": false,
-    "title": "Sant Cugat reforça la seva presència al 4YFN (MWC) 2027",
-    "views": 35
    },
    {
     "channel": "car",
@@ -290,19 +282,19 @@
     "views": 24
    },
    {
-    "channel": "car",
-    "id": "JwCee6WLQbQ",
-    "published": "2026-01-28",
-    "short": true,
-    "title": "28 de enero de 2026",
-    "views": 22
-   },
-   {
     "channel": "ajuntament",
     "id": "Xqa5RZG32nM",
     "published": "2026-11-16",
     "short": false,
     "title": "El Tech Spirit BIVA reuneix a Sant Cugat més de 250 professionals del sector tecnològic i innovador",
+    "views": 23
+   },
+   {
+    "channel": "car",
+    "id": "JwCee6WLQbQ",
+    "published": "2026-01-28",
+    "short": true,
+    "title": "28 de enero de 2026",
     "views": 22
    },
    {
@@ -354,20 +346,20 @@
     "views": 13
    },
    {
+    "channel": "ajuntament",
+    "id": "3usQpSiKcHw",
+    "published": "2026-11-18",
+    "short": false,
+    "title": "Et vas perdre el BIVA Talent Day 2026?",
+    "views": 12
+   },
+   {
     "channel": "cugat-media",
     "id": "hC_Xg0bj-Yc",
     "published": "2026-11-16",
     "short": false,
     "title": "Les notícies del 16 de novembre",
     "views": 11
-   },
-   {
-    "channel": "ajuntament",
-    "id": "3usQpSiKcHw",
-    "published": "2026-11-18",
-    "short": false,
-    "title": "Et vas perdre el BIVA Talent Day 2026?",
-    "views": 10
    },
    {
     "channel": "cugat-media",
@@ -386,6 +378,14 @@
     "views": 8
    },
    {
+    "channel": "cugat-media",
+    "id": "ryhAv_1JoMk",
+    "published": "2026-11-21",
+    "short": true,
+    "title": "Laia Paredes, referent del Patí Hoquei Sant Cugat",
+    "views": 1
+   },
+   {
     "channel": "teatre-auditori",
     "id": "IPpB4KXm194",
     "published": "2026-11-19",
@@ -395,5 +395,5 @@
    }
   ]
  },
- "fetched": "2026-11-20T23:19:42+01:00"
+ "fetched": "2026-11-21T14:40:56+01:00"
 }

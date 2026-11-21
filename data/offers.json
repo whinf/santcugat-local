@@ -1728,19 +1728,6 @@
    "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92325281"
   },
   {
-   "company": "Oficina de Treball del SOC",
-   "contract": "Contracte laboral indefinit",
-   "date": "2026-09-21",
-   "hours": "Jornada completa",
-   "salary": [
-    2243,
-    2243
-   ],
-   "title": "Mecànic/a de camions (ref:28014)",
-   "town": "CERDANYOLA DEL VALLÈS",
-   "url": "https://feinaactiva.gencat.cat/search/offers/detail/09202628014"
-  },
-  {
    "company": "L'EINA COOPERATIVA",
    "contract": "Contracte laboral indefinit",
    "date": "2026-11-19",
@@ -1837,20 +1824,7 @@
    "title": "Educador/a social per al sis l'indret de sant quirze",
    "town": "SANT QUIRZE DEL VALLÈS",
    "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92325443"
-  },
-  {
-   "company": "Empresa del sector industrial",
-   "contract": "Contracte laboral indefinit",
-   "date": "2026-09-21",
-   "hours": "Jornada completa",
-   "salary": [
-    2500,
-    2800
-   ],
-   "title": "Fresador/ra cnc para centro de mecanizado",
-   "town": "SANT QUIRZE DEL VALLÈS",
-   "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92325167"
   }
  ],
- "fetched": "2026-11-20T23:19:42+01:00"
+ "fetched": "2026-11-21T14:40:56+01:00"
 }

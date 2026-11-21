@@ -1,6 +1,19 @@
 {
  "data": [
   {
+   "amount": 38236.0,
+   "date": "2026-11-20",
+   "deadline": "2026-10-08T12:00",
+   "id": "3045974/13641/2026",
+   "lots": 0,
+   "organ": "Ajuntament de Sant Cugat del Vallès",
+   "phase": "Anul·lació",
+   "title": "Serveis per a la transformació del vehicle pick-up 4x4 de Protecció Civil en vehicle de primera intervenció",
+   "type": "Serveis",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/317b1879-1350-4188-91ad-a61ece708a2c/300945373",
+   "winners": []
+  },
+  {
    "amount": 82609.73,
    "date": "2026-11-19",
    "deadline": "2026-09-21T12:00",
@@ -1404,19 +1417,6 @@
    "title": "Subministrament d'equips de protecció individual (Lot 1), d'equips de protecció individual contra el foc (Lot 2) i cremes de protecció solar i repel·lents d'insectes (Lot 3) per al personal municipal",
    "type": "Subministraments",
    "url": "https://contractaciopublica.cat/ca/detall-publicacio/3100bc8d-0b1f-4b6b-810a-a452be864332/300858343",
-   "winners": []
-  },
-  {
-   "amount": 38236.0,
-   "date": "2026-09-24",
-   "deadline": "2026-10-08T12:00",
-   "id": "3045974/13641/2026",
-   "lots": 0,
-   "organ": "Ajuntament de Sant Cugat del Vallès",
-   "phase": "Anunci de licitació",
-   "title": "Serveis per a la transformació del vehicle pick-up 4x4 de Protecció Civil en vehicle de primera intervenció",
-   "type": "Serveis",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/317b1879-1350-4188-91ad-a61ece708a2c/300847640",
    "winners": []
   },
   {
@@ -5304,5 +5304,5 @@
    "winners": []
   }
  ],
- "fetched": "2026-11-20T23:19:42+01:00"
+ "fetched": "2026-11-21T14:40:56+01:00"
 }

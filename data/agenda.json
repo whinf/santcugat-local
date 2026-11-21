@@ -246,96 +246,6 @@
     "url": "https://www.santcugat.cat/activitat/exposicio-argimon-i-grau-garriga-sant-cugat-territori-davantguarda"
    },
    {
-    "category": "Infància",
-    "end": "2026-11-20",
-    "place": "Casal Mira-sol",
-    "source": "ajuntament",
-    "start": "2026-11-20",
-    "time": "17:00",
-    "title": "Decorem el Casal: Entre tots i totes, omplim el Casal d'estrelles i màgia de Nadal!",
-    "url": "https://www.santcugat.cat/activitat/decorem-el-casal-entre-tots-i-totes-omplim-el-casal-destrelles-i-magia-de-nadal"
-   },
-   {
-    "category": "Teatre i dansa",
-    "end": "2026-11-20",
-    "place": "Museu del Monestir",
-    "source": "ajuntament",
-    "start": "2026-11-20",
-    "time": "17:00",
-    "title": "Teatre al Museu. \"La casa de Bernarda Alba\" - 1a sessió",
-    "url": "https://www.santcugat.cat/activitat/teatre-al-museu-la-casa-de-bernarda-alba"
-   },
-   {
-    "category": "Infància",
-    "end": "2026-11-20",
-    "place": "Casa de Cultura",
-    "source": "ajuntament",
-    "start": "2026-11-20",
-    "time": "17:30",
-    "title": "Diverdivendres. \"Dibuix a l'aire\"",
-    "url": "https://www.santcugat.cat/activitat/diverdivendres-dibuix-a-laire"
-   },
-   {
-    "category": "Infància",
-    "end": "2026-11-20",
-    "place": "Casal les Planes",
-    "source": "ajuntament",
-    "start": "2026-11-20",
-    "time": "17:30",
-    "title": "Diverdivendres. \"Els calaixos del cel\"",
-    "url": "https://www.santcugat.cat/activitat/diverdivendres-els-calaixos-del-cel"
-   },
-   {
-    "category": "Conferències",
-    "end": "2026-11-20",
-    "place": "Associació de Propietaris i Veïns de la Floresta Pearson",
-    "source": "ajuntament",
-    "start": "2026-11-20",
-    "time": "18:00",
-    "title": "Xerrada. \"El baixador de la Floresta-Pearson: motor de la gestació del barri\"",
-    "url": "https://www.santcugat.cat/activitat/xerrada-el-baixador-de-la-floresta-pearson-motor-de-la-gestacio-del-barri"
-   },
-   {
-    "category": "Actes literaris",
-    "end": "2026-11-20",
-    "place": "Centre Social i Sanitari la Floresta",
-    "source": "ajuntament",
-    "start": "2026-11-20",
-    "time": "19:00",
-    "title": "\"Memòria contra el feixisme\". Conversa amb Paco Niebla, autor del llibre \"La Protestante. Ojos azules, corazón rojo\"",
-    "url": "https://www.santcugat.cat/activitat/memoria-contra-el-feixisme-conversa-amb-paco-niebla-autor-del-llibre-la-protestante-ojos-azules-corazon-rojo"
-   },
-   {
-    "category": "Teatre i dansa",
-    "end": "2026-11-20",
-    "place": "L'Ateneu",
-    "source": "ajuntament",
-    "start": "2026-11-20",
-    "time": "19:00",
-    "title": "ComunarESS. Teatre íntim: \"Malas hierbas\", de La Simbiòtica",
-    "url": "https://www.santcugat.cat/activitat/comunaress-teatre-intim-malas-hierbas-de-la-simbiotica"
-   },
-   {
-    "category": "Teatre i dansa",
-    "end": "2026-11-20",
-    "place": "Museu del Monestir",
-    "source": "ajuntament",
-    "start": "2026-11-20",
-    "time": "19:00",
-    "title": "Teatre al Museu. \"La casa de Bernarda Alba\" - 2a sessió",
-    "url": "https://www.santcugat.cat/activitat/teatre-al-museu-la-casa-de-bernarda-alba-2"
-   },
-   {
-    "category": "Música",
-    "end": "2026-11-20",
-    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
-    "source": "ajuntament",
-    "start": "2026-11-20",
-    "time": "20:00",
-    "title": "Concert de l'OSSC. La 2a de Sibelius",
-    "url": "https://www.santcugat.cat/activitat/concert-de-lossc-la-2a-de-sibelius"
-   },
-   {
     "category": "Fires i mercats",
     "end": "2026-11-21",
     "place": "L'Ateneu",
@@ -1921,5 +1831,5 @@
    }
   ]
  },
- "fetched": "2026-11-20T23:19:42+01:00"
+ "fetched": "2026-11-21T14:40:56+01:00"
 }
