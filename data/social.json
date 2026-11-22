@@ -7,7 +7,7 @@
     "published": "2026-09-25",
     "short": false,
     "title": "Ple Municipal Setembre",
-    "views": 1285
+    "views": 1286
    },
    {
     "channel": "teatre-auditori",
@@ -39,7 +39,7 @@
     "published": "2026-09-29",
     "short": false,
     "title": "The Book of Mormon",
-    "views": 318
+    "views": 327
    },
    {
     "channel": "ajuntament",
@@ -79,7 +79,7 @@
     "published": "2026-11-17",
     "short": false,
     "title": "Maria Nicolau, cuinera i divulgadora",
-    "views": 84
+    "views": 88
    },
    {
     "channel": "car",
@@ -87,7 +87,7 @@
     "published": "2026-02-05",
     "short": true,
     "title": "5 de febrero de 2026",
-    "views": 81
+    "views": 82
    },
    {
     "channel": "ajuntament",
@@ -111,7 +111,7 @@
     "published": "2026-01-28",
     "short": true,
     "title": "28 de enero de 2026",
-    "views": 59
+    "views": 60
    },
    {
     "channel": "cugat-media",
@@ -127,7 +127,7 @@
     "published": "2026-01-28",
     "short": true,
     "title": "28 de enero de 2026",
-    "views": 53
+    "views": 55
    },
    {
     "channel": "car",
@@ -135,7 +135,7 @@
     "published": "2026-01-28",
     "short": true,
     "title": "28 de enero de 2026",
-    "views": 53
+    "views": 54
    },
    {
     "channel": "ajuntament",
@@ -151,7 +151,7 @@
     "published": "2026-01-28",
     "short": true,
     "title": "28 de enero de 2026",
-    "views": 46
+    "views": 47
    },
    {
     "channel": "ajuntament",
@@ -175,7 +175,7 @@
     "published": "2026-01-28",
     "short": true,
     "title": "28 de enero de 2026",
-    "views": 34
+    "views": 35
    },
    {
     "channel": "car",
@@ -183,7 +183,7 @@
     "published": "2026-01-28",
     "short": true,
     "title": "28 de enero de 2026",
-    "views": 34
+    "views": 35
    },
    {
     "channel": "car",
@@ -191,7 +191,7 @@
     "published": "2026-01-28",
     "short": true,
     "title": "28 de enero de 2026",
-    "views": 33
+    "views": 34
    },
    {
     "channel": "ajuntament",
@@ -207,6 +207,22 @@
     "published": "2026-01-28",
     "short": true,
     "title": "28 de enero de 2026",
+    "views": 33
+   },
+   {
+    "channel": "car",
+    "id": "wrTm1cFBY2M",
+    "published": "2026-01-28",
+    "short": true,
+    "title": "28 de enero de 2026",
+    "views": 33
+   },
+   {
+    "channel": "car",
+    "id": "ScCWp0gby2g",
+    "published": "2026-01-28",
+    "short": true,
+    "title": "28 de enero de 2026",
     "views": 32
    },
    {
@@ -219,19 +235,11 @@
    },
    {
     "channel": "car",
-    "id": "wrTm1cFBY2M",
+    "id": "BFip8q5ey44",
     "published": "2026-01-28",
     "short": true,
     "title": "28 de enero de 2026",
-    "views": 32
-   },
-   {
-    "channel": "car",
-    "id": "ScCWp0gby2g",
-    "published": "2026-01-28",
-    "short": true,
-    "title": "28 de enero de 2026",
-    "views": 31
+    "views": 29
    },
    {
     "channel": "car",
@@ -239,14 +247,6 @@
     "published": "2026-05-07",
     "short": false,
     "title": "Ingrés al CAR Per ser consideratda admèsa definitivament al CAR hauràs de",
-    "views": 28
-   },
-   {
-    "channel": "car",
-    "id": "BFip8q5ey44",
-    "published": "2026-01-28",
-    "short": true,
-    "title": "28 de enero de 2026",
     "views": 28
    },
    {
@@ -263,7 +263,7 @@
     "published": "2026-01-28",
     "short": true,
     "title": "28 de enero de 2026",
-    "views": 25
+    "views": 26
    },
    {
     "channel": "ajuntament",
@@ -314,14 +314,6 @@
     "views": 15
    },
    {
-    "channel": "cugat-media",
-    "id": "_XuSBr0kImQ",
-    "published": "2026-11-15",
-    "short": true,
-    "title": "Et pots enamorar d'una intel·ligència artificial?",
-    "views": 13
-   },
-   {
     "channel": "ajuntament",
     "id": "3usQpSiKcHw",
     "published": "2026-11-18",
@@ -336,6 +328,14 @@
     "short": false,
     "title": "Les notícies del 16 de novembre",
     "views": 11
+   },
+   {
+    "channel": "cugat-media",
+    "id": "fIrsdwonWoI",
+    "published": "2026-11-21",
+    "short": true,
+    "title": "Nacho Martín Blanco (PP) visita Sant Cugat durant la campanya del 29N",
+    "views": 10
    },
    {
     "channel": "cugat-media",
@@ -355,14 +355,6 @@
    },
    {
     "channel": "cugat-media",
-    "id": "fIrsdwonWoI",
-    "published": "2026-11-21",
-    "short": true,
-    "title": "Nacho Martín Blanco (PP) visita Sant Cugat durant la campanya del 29N",
-    "views": 7
-   },
-   {
-    "channel": "cugat-media",
     "id": "ryhAv_1JoMk",
     "published": "2026-11-21",
     "short": true,
@@ -375,7 +367,15 @@
     "published": "2026-11-21",
     "short": true,
     "title": "Jaume Asens (Comuns – Front Ampli): “Els candidats de Netanyahu i de Trump són Feijóo i Abascal”",
-    "views": 2
+    "views": 3
+   },
+   {
+    "channel": "cugat-media",
+    "id": "Z2p7RqH4FBM",
+    "published": "2026-11-22",
+    "short": true,
+    "title": "Suspès per “inferioritat física” el Rugby Sant Cugat-Burgos amb un 0-134 en 41 minuts",
+    "views": 3
    },
    {
     "channel": "cugat-media",
@@ -383,7 +383,7 @@
     "published": "2026-11-22",
     "short": true,
     "title": "El vi català: entre la tradició i els nous hàbits de consum",
-    "views": 1
+    "views": 2
    },
    {
     "channel": "teatre-auditori",
@@ -395,5 +395,5 @@
    }
   ]
  },
- "fetched": "2026-11-22T14:33:52+01:00"
+ "fetched": "2026-11-22T22:11:55+01:00"
 }
