@@ -210,8 +210,8 @@
    "winners": [
     "INFOBIBLIOTECAS S.L.",
     "BIBLIO ALIBRI SL",
-    "DISTRIASVY S.L.",
-    "RACÓ DEL LLIBRE SL"
+    "RACÓ DEL LLIBRE SL",
+    "DISTRIASVY S.L."
    ]
   },
   {
@@ -646,8 +646,8 @@
    "url": "https://contractaciopublica.cat/ca/detall-publicacio/a26d8d9b-d081-4260-9307-14b416350d12/300691903",
    "winners": [
     "PREZERO ESPAÑA, S.A.U.",
-    "FUNDACIÓ PRIVADA PER LA INCLUSIÓ LABORAL ÀURIA",
     "TALHER, S.A.",
+    "FUNDACIÓ PRIVADA PER LA INCLUSIÓ LABORAL ÀURIA",
     "AMBITEC SERVICIOS AMBIENTALES SAU"
    ]
   },
@@ -5222,36 +5222,6 @@
    "winners": []
   },
   {
-   "amount": 68047.92,
-   "date": "2025-10-17",
-   "deadline": "2025-08-29T14:00",
-   "id": "232204/2025/11",
-   "lots": 0,
-   "organ": "Centre d'Alt Rendiment Esportiu Sant Cugat del Vallés",
-   "phase": "Formalització",
-   "title": "Contracte de subministrament de material esportiu per a les sales de gimnàs del Centre d’Alt Rendiment (CAR)",
-   "type": "Subministraments",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/766b786f-c9b6-4af3-a228-82c55ea184e6/300591205",
-   "winners": [
-    "CONQUES INSTALACIONES DEPORTIVAS S.L.,"
-   ]
-  },
-  {
-   "amount": 23408.33,
-   "date": "2025-10-17",
-   "deadline": "2025-06-06T13:00",
-   "id": "16191063/612.2025.006",
-   "lots": 0,
-   "organ": "Barcelona d'Infraestructures Municipals SA",
-   "phase": "Formalització",
-   "title": "612.2025.006_SERVEIS DE CONTROL DE QUALITAT DE LES OBRES DE LA 3a FASE DE CORRECCIÓ DE PATOLOGIES, CONSOLIDACIÓ, RESTAURACIÓ I ADEQUACIÓ INTERIOR DE LA MASIA CAN PUIG I LES CORRESPONENTS OBRES D'INSTAL·LACIONS I MILLORA D’OFICINES DE PLANTA",
-   "type": "Serveis",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/1a685430-290c-4c67-899a-25ee0f533948/300590601",
-   "winners": [
-    "APPLUS NORCONTROL, SLU"
-   ]
-  },
-  {
    "amount": 2130000.0,
    "date": "2025-09-29",
    "deadline": "2027-05-03T12:00",
@@ -5304,5 +5274,5 @@
    "winners": []
   }
  ],
- "fetched": "2026-11-21T14:40:56+01:00"
+ "fetched": "2026-11-22T14:33:52+01:00"
 }

@@ -1641,16 +1641,6 @@
    "sub": "Borses joves d'habitatge"
   },
   {
-   "address": "Pl. de Barcelona",
-   "cat": "Justícia",
-   "cp": "08190",
-   "lat": "41.4696462",
-   "lon": "2.08238753",
-   "name": "Oficina de Justícia de Sant Cugat del Vallès",
-   "phone": "936746696",
-   "sub": "Jutjats de pau"
-  },
-  {
    "address": "Avinguda de Gràcia, 50 (Casa Mònaco)",
    "cat": "Justícia",
    "cp": "08172",
@@ -1931,5 +1921,5 @@
    "sub": ""
   }
  ],
- "fetched": "2026-11-21T14:40:56+01:00"
+ "fetched": "2026-11-22T14:33:52+01:00"
 }
