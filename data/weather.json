@@ -4,8 +4,8 @@
    {
     "date": "2026-11-23",
     "rain_mm": 0.5,
-    "symbol": "partlycloudy_day",
-    "tmax": 16,
+    "symbol": "partlycloudy_night",
+    "tmax": 13,
     "tmin": 10,
     "wind_kmh": 10
    },
@@ -51,12 +51,12 @@
    }
   ],
   "now": {
-   "symbol": "partlycloudy_day",
-   "temp": 16.3,
-   "time": "2026-11-23T15:00:00+01:00",
-   "wind_kmh": 9
+   "symbol": "partlycloudy_night",
+   "temp": 13.4,
+   "time": "2026-11-23T17:00:00+01:00",
+   "wind_kmh": 8
   },
   "updated": "2026-11-23T13:18:35Z"
  },
- "fetched": "2026-11-23T15:26:14+01:00"
+ "fetched": "2026-11-23T17:24:40+01:00"
 }
