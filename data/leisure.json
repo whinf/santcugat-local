@@ -2821,6 +2821,21 @@
    "web": ""
   },
   {
+   "address": "Avinguda de la Via Augusta",
+   "cuisine": "chicken",
+   "group": "eat",
+   "hours": "Mo-Su 13:00-00:00",
+   "km": "",
+   "lat": 41.4834019,
+   "lon": 2.0517344,
+   "name": "Popeyes",
+   "osm": "way/127668424",
+   "phone": "",
+   "ref": "",
+   "type": "fast_food",
+   "web": ""
+  },
+  {
    "address": "Avinguda de Catalunya 8",
    "cuisine": "japanese",
    "group": "eat",
@@ -5016,6 +5031,21 @@
    "group": "sport",
    "hours": "",
    "km": "",
+   "lat": 41.4829087,
+   "lon": 2.056223,
+   "name": "Club Junior 1917",
+   "osm": "way/1583625110",
+   "phone": "",
+   "ref": "",
+   "type": "sports_centre",
+   "web": "https://www.junior.cat/"
+  },
+  {
+   "address": "",
+   "cuisine": "",
+   "group": "sport",
+   "hours": "",
+   "km": "",
    "lat": 41.4620218,
    "lon": 2.0913234,
    "name": "Club Tennis Natació Sant Cugat",
@@ -5176,5 +5206,5 @@
    "web": ""
   }
  ],
- "fetched": "2026-11-21T22:03:38+01:00"
+ "fetched": "2026-11-23T22:42:29+01:00"
 }
