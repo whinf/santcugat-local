@@ -8,6 +8,7 @@ Web local de Sant Cugat del Vallès, en catalán, castellano e inglés, hermana 
 - avisos del Ajuntament en vigor (tráfico, obras, cortes, tratamientos) y los plazos de ayudas, oposiciones y licitaciones que cierran en 14 días;
 - redes («Xarxes»): los vídeos más vistos del último año de canales locales de YouTube y un directorio de perfiles (`curated/social.json`; añadir un perfil = una línea, y con `youtube_id` sus vídeos entran solos);
 - recomendaciones de la semana: lugares y experiencias elegidos a mano (`curated/picks.json`), que rotan cada semana. De momento solo hay experiencias (`"kind": "experience"`); al añadir seis o más fichas `"kind": "food"` aparece «Dónde comer»;
+- «Participa»: guía neutral de participación política del municipio al planeta (Ajuntament, AMB, Consell Comarcal, Diputació, Generalitat, Estado, UE, ONU): quién decide qué, cómo se elige y cómo influir, con enlaces oficiales (`curated/politics.json`, escrito a mano; `--check` avisa si `checked` tiene más de un año);
 - una página «Ahorra»: horas baratas de la luz, gasolinera más barata, actos gratuitos y ayudas para particulares;
 - una guía de ocio: plan para hoy según el tiempo, próximas fiestas, rutas, fuentes, miradores, patrimonio, restaurantes, bares y pubs;
 - las ayudas, becas y subvenciones que se pueden pedir ahora (Ajuntament, comarca, AMB, Generalitat y Estado), con su plazo;
@@ -49,6 +50,7 @@ Se actualiza sola cuatro veces al día con GitHub Actions y se publica en GitHub
 | Carburantes | API del Ministerio para la Transición Ecológica (`FiltroMunicipio`) | Reutilización libre citando fuente y fecha |
 | Redes | Feed Atom público de cada canal de YouTube + `curated/social.json` (cuentas de la lista oficial `santcugat.cat/web/xarxes-socials`) | Solo título, fecha, visitas y enlace; miniaturas servidas por YouTube. Instagram y TikTok: solo se enlazan perfiles |
 | Recomendaciones | `curated/picks.json`, escrito a mano | Propio; `--check` avisa si una ficha lleva más de un año sin revisar (`checked`) |
+| Participa | `curated/politics.json`, escrito a mano a partir de las leyes y webs oficiales enlazadas | Propio; sin datos de personas ni de partidos concretos; revisión anual (`checked`) |
 | Guía de ocio | OpenStreetMap vía Overpass API (una consulta al día) | ODbL: `data/leisure.json`, `data/pharmacy.json`, `tests/fixtures/osm*.json` y `geo/santcugat.json` (término municipal) son © colaboradores de OpenStreetMap, bajo ODbL |
 | Más locales nocturnos | Overture Maps, PMTiles de lugares de la última versión, leído por rangos HTTP | CDLA Permissive 2.0; se descartan los registros con otras licencias. `_NIGHT_SKIP` en `sources.py` excluye por nombre los clubs de alterne |
 | Ayudas | Base de Datos Nacional de Subvenciones (`infosubvenciones.es/bdnstrans/api`) | Reutilización libre (Ministerio de Hacienda) |

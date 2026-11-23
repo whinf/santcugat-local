@@ -382,6 +382,22 @@ class TestSite(unittest.TestCase):
             self.assertTrue(set(p.get("months", [1])) <= set(range(1, 13)), p["id"])
             date.fromisoformat(p["checked"])
 
+    def test_politics_guide(self):
+        g = render.load_politics()
+        date.fromisoformat(g["checked"])
+        ids = [lv["id"] for lv in g["levels"]]
+        self.assertGreaterEqual(len(ids), 7)
+        self.assertEqual(len(set(ids)), len(ids))
+        ways = [w for lv in g["levels"] for w in lv["ways"]] + g["common"]
+        for lv in g["levels"]:
+            self.assertIn(lv["vote"], ("direct", "indirect", "none"))
+            self.assertTrue(lv["ways"], lv["id"])
+            for f in ("name", "body", "size", "who", "elected", "decides"):
+                self.assertTrue(all(lv[f].get(lg) for lg in i18n.LANGS), (lv["id"], f))
+        for w in ways:
+            self.assertTrue(all(w["name"].get(lg) and w["text"].get(lg) for lg in i18n.LANGS), w["name"])
+            self.assertTrue(w["url"] == "" or w["url"].startswith("https://"), w["url"])
+
     def test_events_split_and_weekend(self):
         cfg = CFG
         events = [{"title": "Acabat", "start": "2026-11-10", "end": "2026-11-12", "source": "ajuntament"},
@@ -538,6 +554,12 @@ class TestSite(unittest.TestCase):
             self.assertNotIn("aiguesdebarcelona", save)  # a Sant Cugat no le da servicio Aigües de Barcelona
             self.assertIn("Recomanat aquesta setmana", home)
             picks_en = (out / "en/recommendations/index.html").read_text(encoding="utf-8")
+            politics = (out / "es/participa/index.html").read_text(encoding="utf-8")
+            self.assertIn('class="ladder"', politics)
+            self.assertIn('href="#town"', politics)
+            self.assertIn('id="world"', politics)
+            self.assertIn('href="#i-globe"', politics)
+            self.assertTrue((out / "en/get-involved/index.html").exists())
             self.assertIn("Things to do</h2>", picks_en)
             self.assertNotIn("Where to eat</h2>", picks_en)  # aún no hay restaurantes elegidos
             self.assertTrue((out / "static/style.css").exists())

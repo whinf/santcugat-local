@@ -27,6 +27,12 @@ FGC = "https://www.fgc.cat/"
 icons.LUCIDE.setdefault("pill", '<path d="m10.5 20.5 10-10a4.95 4.95 0 1 0-7-7l-10 10a4.95 4.95 0 1 0 7 7Z" />'
                                 '<path d="m8.5 8.5 7 7" />')
 PHARMACY_TOWNS = {"Sant Cugat": "Sant Cugat del Vallès"}
+# Lucide «vote» y «globe» (ISC) para la guía de participación política.
+icons.LUCIDE.setdefault("vote", '<path d="m9 12 2 2 4-4" /><path d="M5 7c0-1.1.9-2 2-2h10a2 2 0 0 1 2 2v12H5V7Z" />'
+                                '<path d="M22 19H2" />')
+icons.LUCIDE.setdefault("globe", '<circle cx="12" cy="12" r="10" /><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20" />'
+                                 '<path d="M2 12h20" />')
+POLITICS = ROOT / "curated" / "politics.json"  # guía «Participa», escrita a mano; revisión anual (`checked`)
 PICKS = ROOT / "curated" / "picks.json"  # recomendaciones escritas a mano; rotan cada semana
 PICKS_PER_WEEK = {"food": 3, "experience": 2}
 FILL_LITRES = 50  # «llenar el depósito» para comparar gasolineras
@@ -93,6 +99,10 @@ def pick_live(p, today):
 
 def load_picks():
     return json.loads(PICKS.read_text(encoding="utf-8")) if PICKS.exists() else []
+
+
+def load_politics():
+    return json.loads(POLITICS.read_text(encoding="utf-8")) if POLITICS.exists() else {"levels": [], "common": []}
 
 
 def festive(e):
@@ -193,8 +203,9 @@ def osm(lat, lon):
 
 
 class Site:
-    def __init__(self, cfg, data, out_dir, now, picks=None, social=None):
+    def __init__(self, cfg, data, out_dir, now, picks=None, social=None, politics=None):
         self.cfg = cfg
+        self.politics = load_politics() if politics is None else politics
         self.social = sources.load_social() if social is None else social  # directorio de redes, hecho a mano
         self.picks = load_picks() if picks is None else picks
         self.data = data  # {fuente: {"fetched": iso, "data": ...}}
@@ -253,8 +264,8 @@ class Site:
             f'<meta property="og:url" content="{self.absolute(self.path(lang, kind))}">')
         nav = "".join(f'<li><a href="{self.href(self.path(lang, k))}"{" aria-current=\"page\"" if k == kind and not noindex else ""}>'
                       f'{t(lang, "nav_" + k)}</a></li>'
-                      for k in ("home", "agenda", "leisure", "picks", "social", "board", "save", "aids", "jobs", "invest", "directory",
-                                "pharmacy", "emergency") if k != "board" or self.has_board)
+                      for k in ("home", "agenda", "leisure", "picks", "social", "board", "save", "aids", "jobs", "invest", "politics",
+                                "directory", "pharmacy", "emergency") if k != "board" or self.has_board)
         theme = (f'<span class="theme-slot"><button class="theme" type="button" hidden data-theme-toggle '
                  f'data-auto="{esc(t(lang, "theme_auto"))}" data-light="{esc(t(lang, "theme_light"))}" '
                  f'data-dark="{esc(t(lang, "theme_dark"))}" aria-label="{esc(t(lang, "theme_auto"))}">'
@@ -880,6 +891,40 @@ class Site:
                            f'<h1>{t(lang, "emergency_title")}</h1>{t(lang, "emergency_body", local=local)}'
                            f'{self.pharmacy_block(lang, n=2)}')
 
+    def politics_way(self, lang, w):
+        return f'<li><strong>{link(w.get("url"), esc(w["name"][lang]))}</strong> — {esc(w["text"][lang])}</li>'
+
+    def politics_page(self, lang):
+        """Guía «Participa»: del municipio al planeta, quién decide qué, cómo se elige y cómo influir."""
+        levels = self.politics.get("levels", [])
+        n = len(levels)
+        steps, cards = [], []
+        for k, lv in enumerate(levels, 1):
+            vote = f'<span class="vote v-{lv["vote"]}">{t(lang, "politics_vote_" + lv["vote"])}</span>'
+            steps.append(f'<li style="--k:{k}/{n}"><a href="#{lv["id"]}"><span class="dot" aria-hidden="true"></span>'
+                         f'<span class="what">{esc(lv["name"][lang])}</span>'
+                         f'<span class="muted">{esc(lv["body"][lang])} · {esc(lv["size"][lang])}</span>{vote}</a></li>')
+            ways = "".join(self.politics_way(lang, w) for w in lv["ways"])
+            cards.append(f'<section class="level card" id="{lv["id"]}"><h2><span class="lvl" aria-hidden="true">{k}</span>'
+                         f'<span>{esc(lv["name"][lang])}<small>{esc(lv["body"][lang])} · {esc(lv["size"][lang])}</small></span></h2>'
+                         f'<dl class="facts"><dt>{t(lang, "politics_who")}</dt><dd>{esc(lv["who"][lang])}</dd>'
+                         f'<dt>{t(lang, "politics_elected")}</dt><dd>{vote} {esc(lv["elected"][lang])}</dd>'
+                         f'<dt>{t(lang, "politics_decides")}</dt><dd>{esc(lv["decides"][lang])}</dd></dl>'
+                         f'<h3>{t(lang, "politics_ways")}</h3><ul class="ways">{ways}</ul></section>')
+        common = "".join(self.politics_way(lang, w) for w in self.politics.get("common", []))
+        checked = self.politics.get("checked")
+        when = i18n.fmt_date(lang, date.fromisoformat(checked), weekday=False) if checked else ""
+        body = (f'<h1>{t(lang, "politics_title")}</h1><p class="lede">{t(lang, "politics_desc")}</p>'
+                f'<aside class="tip">{self.i("info")}<p>{t(lang, "politics_neutral")}</p></aside>'
+                f'<section><h2>{self.i("globe")}{t(lang, "politics_ladder")}</h2><p class="muted">{t(lang, "politics_ladder_note")}</p>'
+                f'<ol class="ladder">{"".join(steps)}</ol></section>'
+                f'<aside class="tip">{self.i("info")}<p>{t(lang, "politics_tip")}</p></aside>'
+                f'{"".join(cards)}'
+                f'<section class="level card" id="always"><h2>{self.i("vote")}<span>{t(lang, "politics_common")}</span></h2>'
+                f'<ul class="ways">{common}</ul></section>'
+                f'<p class="note">{t(lang, "politics_note", d=when, repo=esc(self.cfg.get("repo_url") or "https://github.com"))}{self.suggest(lang)}</p>')
+        return self.layout(lang, "politics", f'{t(lang, "politics_title")} · {self.name}', t(lang, "politics_desc"), body)
+
     def this_week(self):
         live = [p for p in self.picks if pick_live(p, self.now.date())]  # fiestas: solo en su época
         return {k: week_picks([p for p in live if p["kind"] == k], self.now.date(), n)
@@ -1246,6 +1291,7 @@ class Site:
                  f'<li><a href="{self.href(self.path(lang, "save"))}">{t(lang, "save_title")}</a></li>'
                  f'<li><a href="{self.href(self.path(lang, "aids"))}">{t(lang, "aids_title")}</a></li>'
                  f'<li><a href="{self.href(self.path(lang, "invest"))}">{t(lang, "invest_title")}</a></li>'
+                 f'<li><a href="{self.href(self.path(lang, "politics"))}">{t(lang, "politics_home")}</a></li>'
                  f'<li><a href="{self.href(self.path(lang, "leisure"))}">{t(lang, "leisure_title")}</a></li>'
                  f'<li><a href="{self.href(self.path(lang, "directory"))}">{t(lang, "directory_title")}</a></li>'
                  f'<li><a href="{self.href(self.path(lang, "directory"))}#chargers">{t(lang, "chargers_title")}</a></li>'
@@ -1511,7 +1557,7 @@ location.replace("{self.prefix}/ca/");}})();
         urls = []
         daily = tuple(k for k in ("home", "agenda", "leisure", "picks", "social", "board", "save", "aids", "jobs", "invest",
                                   "directory", "pharmacy") if k != "board" or self.has_board)
-        for kind in daily + ("emergency", "about", "legal", "privacy"):
+        for kind in daily + ("politics", "emergency", "about", "legal", "privacy"):
             alts = "".join(f'<xhtml:link rel="alternate" hreflang="{lg}" href="{self.absolute(self.path(lg, kind))}"/>'
                            for lg in LANGS)
             for lg in LANGS:
@@ -1569,6 +1615,7 @@ location.replace("{self.prefix}/ca/");}})();
             self.write(self.path(lang, "invest"), self.invest_page(lang))
             self.write(self.path(lang, "invest") + "feed.xml", self.feed(lang))
             self.write(self.path(lang, "emergency"), self.emergency_page(lang))
+            self.write(self.path(lang, "politics"), self.politics_page(lang))
             self.write(self.path(lang, "pharmacy"), self.pharmacy_page(lang))
             self.write(self.path(lang, "directory"), self.directory_page(lang))
             for kind in ("about", "legal", "privacy"):
