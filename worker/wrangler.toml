@@ -6,7 +6,7 @@ compatibility_date = "2026-10-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "santcugat-board"
-database_id = "PENDIENTE"  # lo imprime `npx wrangler d1 create santcugat-board`
+database_id = "72a70f52-caa1-4905-8fe8-8e1c5f7cd276"  # lo imprime `npx wrangler d1 create santcugat-board`
 
 [vars]
 ALLOWED_ORIGINS = "https://santcugat.horaverda.es,http://localhost:8003"
