@@ -7,7 +7,7 @@
     "published": "2026-09-25",
     "short": false,
     "title": "Ple Municipal Setembre",
-    "views": 1286
+    "views": 1287
    },
    {
     "channel": "teatre-auditori",
@@ -43,14 +43,6 @@
    },
    {
     "channel": "ajuntament",
-    "id": "kGklg6DHk-M",
-    "published": "2026-07-28",
-    "short": false,
-    "title": "Ple Estat de la Ciutat",
-    "views": 256
-   },
-   {
-    "channel": "ajuntament",
     "id": "xPqTlpRCQ7c",
     "published": "2026-10-27",
     "short": false,
@@ -79,7 +71,7 @@
     "published": "2026-11-17",
     "short": false,
     "title": "Maria Nicolau, cuinera i divulgadora",
-    "views": 92
+    "views": 97
    },
    {
     "channel": "car",
@@ -291,19 +283,19 @@
    },
    {
     "channel": "cugat-media",
+    "id": "Z2p7RqH4FBM",
+    "published": "2026-11-22",
+    "short": true,
+    "title": "Suspès per “inferioritat física” el Rugby Sant Cugat-Burgos amb un 0-134 en 41 minuts",
+    "views": 19
+   },
+   {
+    "channel": "cugat-media",
     "id": "dXVM6DqyesY",
     "published": "2026-11-17",
     "short": true,
     "title": "Menopausa precoç: una qüestió de salut",
     "views": 19
-   },
-   {
-    "channel": "cugat-media",
-    "id": "Z2p7RqH4FBM",
-    "published": "2026-11-22",
-    "short": true,
-    "title": "Suspès per “inferioritat física” el Rugby Sant Cugat-Burgos amb un 0-134 en 41 minuts",
-    "views": 16
    },
    {
     "channel": "cugat-media",
@@ -363,6 +355,14 @@
    },
    {
     "channel": "cugat-media",
+    "id": "CxyQgyUGJ3c",
+    "published": "2026-11-23",
+    "short": false,
+    "title": "Les notícies del 23 de novembre",
+    "views": 4
+   },
+   {
+    "channel": "cugat-media",
     "id": "QiHZVyftlRc",
     "published": "2026-11-21",
     "short": true,
@@ -378,22 +378,22 @@
     "views": 2
    },
    {
-    "channel": "cugat-media",
-    "id": "CxyQgyUGJ3c",
-    "published": "2026-11-23",
-    "short": false,
-    "title": "Les notícies del 23 de novembre",
-    "views": 0
-   },
-   {
     "channel": "teatre-auditori",
     "id": "IPpB4KXm194",
     "published": "2026-11-19",
     "short": false,
     "title": "Observin aquests fills de puta",
     "views": 0
+   },
+   {
+    "channel": "ajuntament",
+    "id": "KrxL4U0yz9Y",
+    "published": "2026-11-23",
+    "short": false,
+    "title": "Ple Extraordinari",
+    "views": 0
    }
   ]
  },
- "fetched": "2026-11-23T09:16:10+01:00"
+ "fetched": "2026-11-23T15:26:14+01:00"
 }
