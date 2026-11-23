@@ -2,6 +2,18 @@
  "data": {
   "stations": [
    {
+    "address": "Avenida Via Augusta, 1",
+    "hours": "L-S: 06:00-22:00; D: 07:00-22:00",
+    "lat": "41.482722",
+    "lon": "2.050861",
+    "name": "REPSOL",
+    "prices": {
+     "diesel": 1.845,
+     "g95": 1.669
+    },
+    "town": "Sant Cugat del Vallès"
+   },
+   {
     "address": "Avinguda Via Augusta, 3",
     "hours": "L: 24H",
     "lat": "41.487889",
@@ -14,38 +26,14 @@
     "town": "Sant Cugat del Vallès"
    },
    {
-    "address": "Avenida Via Augusta, 1",
-    "hours": "L-S: 06:00-22:00; D: 07:00-22:00",
-    "lat": "41.482722",
-    "lon": "2.050861",
-    "name": "REPSOL",
-    "prices": {
-     "diesel": 1.835,
-     "g95": 1.669
-    },
-    "town": "Sant Cugat del Vallès"
-   },
-   {
-    "address": "Cr C-1413, 7,7 (C-1413 km 7,75)",
-    "hours": "L-D: 06:00-22:00",
-    "lat": "41.464389",
-    "lon": "2.017611",
-    "name": "REPSOL",
-    "prices": {
-     "diesel": 1.849,
-     "g95": 1.689
-    },
-    "town": "Sant Cugat del Vallès"
-   },
-   {
-    "address": "Calle Cerdanya Esq Ronda Norte, Sn",
+    "address": "Avenida Via Augusta, 137",
     "hours": "L-D: 24H",
-    "lat": "41.479694",
-    "lon": "2.068361",
-    "name": "REPSOL",
+    "lat": "41.487083",
+    "lon": "2.067778",
+    "name": "MEROIL",
     "prices": {
-     "diesel": 1.825,
-     "g95": 1.659
+     "diesel": 1.669,
+     "g95": 1.429
     },
     "town": "Sant Cugat del Vallès"
    },
@@ -86,22 +74,22 @@
     "town": "Sant Cugat del Vallès"
    },
    {
-    "address": "Avenida Via Augusta, 137",
-    "hours": "L-D: 24H",
-    "lat": "41.487083",
-    "lon": "2.067778",
-    "name": "MEROIL",
-    "prices": {
-     "diesel": 1.669,
-     "g95": 1.429
-    },
-    "town": "Sant Cugat del Vallès"
-   },
-   {
     "address": "Autovia E-9 Km. 6,5",
     "hours": "L-D: 24H",
     "lat": "41.433500",
     "lon": "2.078250",
+    "name": "REPSOL",
+    "prices": {
+     "diesel": 1.859,
+     "g95": 1.689
+    },
+    "town": "Sant Cugat del Vallès"
+   },
+   {
+    "address": "Cr C-1413, 7,7 (C-1413 km 7,75)",
+    "hours": "L-D: 06:00-22:00",
+    "lat": "41.464389",
+    "lon": "2.017611",
     "name": "REPSOL",
     "prices": {
      "diesel": 1.849,
@@ -110,28 +98,16 @@
     "town": "Sant Cugat del Vallès"
    },
    {
-    "address": "Calle Comp Wagner, 21",
+    "address": "Calle Cerdanya Esq Ronda Norte, Sn",
     "hours": "L-D: 24H",
-    "lat": "41.470806",
-    "lon": "2.024333",
-    "name": "TAMOIL",
-    "prices": {
-     "diesel": 1.569,
-     "g95": 1.299
-    },
-    "town": "Rubí"
-   },
-   {
-    "address": "Carretera E-9 Km. 14,9",
-    "hours": "L-D: 24H",
-    "lat": "41.498222",
-    "lon": "2.049278",
+    "lat": "41.479694",
+    "lon": "2.068361",
     "name": "REPSOL",
     "prices": {
-     "diesel": 1.835,
+     "diesel": 1.825,
      "g95": 1.659
     },
-    "town": "Rubí"
+    "town": "Sant Cugat del Vallès"
    },
    {
     "address": "Avenida Cova Solera, 20",
@@ -170,26 +146,26 @@
     "town": "Rubí"
    },
    {
-    "address": "Carretera Terrassa Km. 1",
+    "address": "Carretera E-9 Km. 14,9",
     "hours": "L-D: 24H",
-    "lat": "41.503111",
-    "lon": "2.033972",
-    "name": "TAMOIL",
+    "lat": "41.498222",
+    "lon": "2.049278",
+    "name": "REPSOL",
     "prices": {
-     "diesel": 1.599,
-     "g95": 1.349
+     "diesel": 1.835,
+     "g95": 1.659
     },
     "town": "Rubí"
    },
    {
-    "address": "Av.Electricidad,Esq.Chaplin C.Vallhonrat",
-    "hours": "L-D: 06:00-22:00",
-    "lat": "41.474000",
-    "lon": "2.035111",
-    "name": "JULIA-OIL",
+    "address": "Calle Comp Wagner, 21",
+    "hours": "L-D: 24H",
+    "lat": "41.470806",
+    "lon": "2.024333",
+    "name": "TAMOIL",
     "prices": {
-     "diesel": 1.799,
-     "g95": 1.639
+     "diesel": 1.569,
+     "g95": 1.299
     },
     "town": "Rubí"
    },
@@ -206,6 +182,18 @@
     "town": "Rubí"
    },
    {
+    "address": "Av.Electricidad,Esq.Chaplin C.Vallhonrat",
+    "hours": "L-D: 06:00-22:00",
+    "lat": "41.474000",
+    "lon": "2.035111",
+    "name": "JULIA-OIL",
+    "prices": {
+     "diesel": 1.799,
+     "g95": 1.639
+    },
+    "town": "Rubí"
+   },
+   {
     "address": "Carretera C-1413 Km. 9,8",
     "hours": "L-D: 05:00-23:00",
     "lat": "41.481222",
@@ -214,18 +202,6 @@
     "prices": {
      "diesel": 1.805,
      "g95": 1.659
-    },
-    "town": "Rubí"
-   },
-   {
-    "address": "Carretera C1413a Km. 9,4",
-    "hours": "L-D: 24H",
-    "lat": "41.478528",
-    "lon": "2.031472",
-    "name": "ESCLATOIL",
-    "prices": {
-     "diesel": 1.649,
-     "g95": 1.399
     },
     "town": "Rubí"
    },
@@ -242,14 +218,38 @@
     "town": "Rubí"
    },
    {
+    "address": "Carretera C1413a Km. 9,4",
+    "hours": "L-D: 24H",
+    "lat": "41.478528",
+    "lon": "2.031472",
+    "name": "ESCLATOIL",
+    "prices": {
+     "diesel": 1.649,
+     "g95": 1.399
+    },
+    "town": "Rubí"
+   },
+   {
+    "address": "Carretera Terrassa Km. 1",
+    "hours": "L-D: 24H",
+    "lat": "41.503111",
+    "lon": "2.033972",
+    "name": "TAMOIL",
+    "prices": {
+     "diesel": 1.599,
+     "g95": 1.349
+    },
+    "town": "Rubí"
+   },
+   {
     "address": "Carretera E-9 Km. 14,7",
     "hours": "L-D: 24H",
     "lat": "41.497083",
     "lon": "2.048389",
     "name": "REPSOL",
     "prices": {
-     "diesel": 1.835,
-     "g95": 1.659
+     "diesel": 1.845,
+     "g95": 1.669
     },
     "town": "Rubí"
    },
@@ -271,8 +271,8 @@
     "lon": "2.131139",
     "name": "MOEVE",
     "prices": {
-     "diesel": 1.864,
-     "g95": 1.644
+     "diesel": 1.854,
+     "g95": 1.634
     },
     "town": "Cerdanyola del Vallès"
    },
@@ -283,8 +283,8 @@
     "lon": "2.151500",
     "name": "MOEVE",
     "prices": {
-     "diesel": 1.864,
-     "g95": 1.644
+     "diesel": 1.854,
+     "g95": 1.634
     },
     "town": "Cerdanyola del Vallès"
    },
@@ -367,7 +367,7 @@
     "lon": "2.090472",
     "name": "REPSOL",
     "prices": {
-     "diesel": 1.829,
+     "diesel": 1.839,
      "g95": 1.659
     },
     "town": "Cerdanyola del Vallès"
@@ -433,7 +433,7 @@
     "town": "Sant Quirze del Vallès"
    }
   ],
-  "updated": "22/11/2026 22:20:44"
+  "updated": "23/11/2026 9:25:19"
  },
- "fetched": "2026-11-22T22:11:55+01:00"
+ "fetched": "2026-11-23T09:16:10+01:00"
 }

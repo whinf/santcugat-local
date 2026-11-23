@@ -15,7 +15,7 @@
     "published": "2026-06-04",
     "short": false,
     "title": "Temporada 2026/27",
-    "views": 1230
+    "views": 1231
    },
    {
     "channel": "ajuntament",
@@ -39,7 +39,7 @@
     "published": "2026-09-29",
     "short": false,
     "title": "The Book of Mormon",
-    "views": 327
+    "views": 331
    },
    {
     "channel": "ajuntament",
@@ -79,7 +79,7 @@
     "published": "2026-11-17",
     "short": false,
     "title": "Maria Nicolau, cuinera i divulgadora",
-    "views": 88
+    "views": 92
    },
    {
     "channel": "car",
@@ -154,6 +154,14 @@
     "views": 47
    },
    {
+    "channel": "car",
+    "id": "So8g3eX2IJQ",
+    "published": "2026-01-28",
+    "short": true,
+    "title": "28 de enero de 2026",
+    "views": 38
+   },
+   {
     "channel": "ajuntament",
     "id": "_YLKSGBUCvA",
     "published": "2026-11-17",
@@ -170,11 +178,11 @@
     "views": 36
    },
    {
-    "channel": "car",
-    "id": "So8g3eX2IJQ",
-    "published": "2026-01-28",
+    "channel": "ajuntament",
+    "id": "Z8Pdnj0AOVY",
+    "published": "2026-11-16",
     "short": true,
-    "title": "28 de enero de 2026",
+    "title": "Jordi Sunyer, investigador de l'ISGLOBAL: Els beneficis d’una gestió sostenible dels espais naturals",
     "views": 35
    },
    {
@@ -192,14 +200,6 @@
     "short": true,
     "title": "28 de enero de 2026",
     "views": 34
-   },
-   {
-    "channel": "ajuntament",
-    "id": "Z8Pdnj0AOVY",
-    "published": "2026-11-16",
-    "short": true,
-    "title": "Jordi Sunyer, investigador de l'ISGLOBAL: Els beneficis d’una gestió sostenible dels espais naturals",
-    "views": 33
    },
    {
     "channel": "car",
@@ -287,7 +287,7 @@
     "published": "2026-11-20",
     "short": false,
     "title": "L'agenda de cap de setmana de Cugat Mèdia",
-    "views": 21
+    "views": 22
    },
    {
     "channel": "cugat-media",
@@ -299,11 +299,11 @@
    },
    {
     "channel": "cugat-media",
-    "id": "5xbPUQ8EJXU",
-    "published": "2026-11-15",
+    "id": "Z2p7RqH4FBM",
+    "published": "2026-11-22",
     "short": true,
-    "title": "Empat entre el SantCu i el Bosc de Tosca",
-    "views": 17
+    "title": "Suspès per “inferioritat física” el Rugby Sant Cugat-Burgos amb un 0-134 en 41 minuts",
+    "views": 16
    },
    {
     "channel": "cugat-media",
@@ -371,19 +371,19 @@
    },
    {
     "channel": "cugat-media",
-    "id": "Z2p7RqH4FBM",
-    "published": "2026-11-22",
-    "short": true,
-    "title": "Suspès per “inferioritat física” el Rugby Sant Cugat-Burgos amb un 0-134 en 41 minuts",
-    "views": 3
-   },
-   {
-    "channel": "cugat-media",
     "id": "fV1bb_eug5w",
     "published": "2026-11-22",
     "short": true,
     "title": "El vi català: entre la tradició i els nous hàbits de consum",
     "views": 2
+   },
+   {
+    "channel": "cugat-media",
+    "id": "CxyQgyUGJ3c",
+    "published": "2026-11-23",
+    "short": false,
+    "title": "Les notícies del 23 de novembre",
+    "views": 0
    },
    {
     "channel": "teatre-auditori",
@@ -395,5 +395,5 @@
    }
   ]
  },
- "fetched": "2026-11-22T22:11:55+01:00"
+ "fetched": "2026-11-23T09:16:10+01:00"
 }

@@ -2,6 +2,38 @@
  "data": {
   "events": [
    {
+    "date": "2026-11-23",
+    "id": "2026-11-23-526540-moved_in",
+    "kind": "moved_in",
+    "name": "PROMOCIONES AREPA 2025 S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-224-08"
+   },
+   {
+    "activity": "Las actividades de las sociedades holding. codigo de actividad economica principal: cnae 6420. actividades de las…",
+    "capital": 1153360.0,
+    "date": "2026-11-23",
+    "id": "2026-11-23-526203-new",
+    "kind": "new",
+    "name": "HOSPITALITY MOTORSPORT S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-224-08"
+   },
+   {
+    "activity": "Actividades de programacion informatica",
+    "capital": 3000.0,
+    "date": "2026-11-23",
+    "id": "2026-11-23-526156-new",
+    "kind": "new",
+    "name": "GRMT SOFTWARE AND CONSULTING S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-224-08"
+   },
+   {
+    "date": "2026-11-23",
+    "id": "2026-11-23-526151-moved_in",
+    "kind": "moved_in",
+    "name": "ECONTROL PROCESS SOLUTIONS SPAIN S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-224-08"
+   },
+   {
     "date": "2026-11-20",
     "id": "2026-11-20-523806-moved_in",
     "kind": "moved_in",
@@ -2619,6 +2651,7 @@
    "B 379702": "MUSACO TECNOLOGIA I AIGUA SL",
    "B 386138": "SOLER FINQUES SANT CUGAT SL",
    "B 389716": "KABINET SOLUCIONES INFORMATICAS SL",
+   "B 389952": "ECONTROL PROCESS SOLUTIONS SPAIN S.L.",
    "B 390117": "APE FIRST SL",
    "B 392178": "INNOVA CONSULTING TECNOLOGICO SL",
    "B 393426": "BIALCA SOLUTIONS SL",
@@ -2827,6 +2860,7 @@
    "B 643979": "FIXI-ENGINEERING S.L.",
    "B 644300": "MINSALVA PARTNERS S.L.",
    "B 644477": "XADON BUSINESS S.L.",
+   "B 644519": "PROMOCIONES AREPA 2025 S.L.",
    "B 644882": "BLINKY EVOLUTION A.I.E.",
    "B 645007": "BIOENERGIA CATALUNYA S.L.",
    "B 645079": "OPO SOLUTIONS S.L.",
@@ -3564,12 +3598,14 @@
    "B 666781": "LONGEVITY SUPPLEMENTS S.L.",
    "B 666789": "ALERICAJES MAQUINARIA ELECTRICA S.L.",
    "B 666886": "TDM BELLOW THE LINE S.L.",
+   "B 666903": "HOSPITALITY MOTORSPORT S.L.",
+   "B 666961": "GRMT SOFTWARE AND CONSULTING S.L.",
    "B 668868": "CREA NOVA 2026 S.L.",
    "B 80853": "ESTUDIOS Y PROYECTOS GRAU SL",
    "B 96774": "EURO IMPLEMENTOS SL"
   },
-  "last": "2026-11-21",
+  "last": "2026-11-23",
   "since": "2025-11-20"
  },
- "fetched": "2026-11-22T22:11:55+01:00"
+ "fetched": "2026-11-23T09:16:10+01:00"
 }

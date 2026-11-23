@@ -216,86 +216,6 @@
     "url": "https://www.santcugat.cat/activitat/exposicio-argimon-i-grau-garriga-sant-cugat-territori-davantguarda"
    },
    {
-    "category": "Esports",
-    "end": "2026-11-22",
-    "place": "Av. Pla del Vinyet / Carrer de Santa Teresa",
-    "source": "ajuntament",
-    "start": "2026-11-22",
-    "time": "09:30",
-    "title": "12a Cursa DiR Mossos d’Esquadra Sant Cugat",
-    "url": "https://www.santcugat.cat/activitat/12a-cursa-dir-mossos-desquadra-sant-cugat1"
-   },
-   {
-    "category": "Fires i mercats",
-    "end": "2026-11-22",
-    "place": "Mercantic",
-    "source": "ajuntament",
-    "start": "2026-11-22",
-    "time": "10:00",
-    "title": "Mercat de Tardor",
-    "url": "https://www.santcugat.cat/activitat/mercat-de-tardor544"
-   },
-   {
-    "category": "Rutes i visites",
-    "end": "2026-11-22",
-    "place": "Museu del Monestir",
-    "source": "ajuntament",
-    "start": "2026-11-22",
-    "time": "11:00",
-    "title": "\"Guia'm pel Monestir\"",
-    "url": "https://www.santcugat.cat/activitat/guiam-pel-monestir963"
-   },
-   {
-    "category": "Cinema",
-    "end": "2026-11-22",
-    "place": "Cinemes Sant Cugat",
-    "source": "ajuntament",
-    "start": "2026-11-22",
-    "time": "12:00",
-    "title": "Sessió de cinema gratuïta i adaptada. \"Tadeu Jones i la llàntia meravellosa\"",
-    "url": "https://www.santcugat.cat/activitat/sessio-de-cinema-gratuita-i-adaptada-tadeu-jones-i-la-llantia-meravellosa"
-   },
-   {
-    "category": "Música",
-    "end": "2026-11-22",
-    "place": "El Siglo Mercantic",
-    "source": "ajuntament",
-    "start": "2026-11-22",
-    "time": "12:30",
-    "title": "Concert-vermut a El Siglo. Barcelona in the Round XVII",
-    "url": "https://www.santcugat.cat/activitat/concert-vermut-a-el-siglo-barcelona-in-the-round"
-   },
-   {
-    "category": "Teatre i dansa",
-    "end": "2026-11-22",
-    "place": "Casa Museu Cal Gerrer",
-    "source": "ajuntament",
-    "start": "2026-11-22",
-    "time": "17:00",
-    "title": "Teatre. \"Dimarts, Marilyn\" - 4 sessions",
-    "url": "https://www.santcugat.cat/activitat/teatre-dimarts-marilyn-4-sessions"
-   },
-   {
-    "category": "Teatre i dansa",
-    "end": "2026-11-22",
-    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
-    "source": "ajuntament",
-    "start": "2026-11-22",
-    "time": "19:00",
-    "title": "Teatre. \"Perfectes desconeguts\"",
-    "url": "https://www.santcugat.cat/activitat/teatre-perfectes-desconeguts"
-   },
-   {
-    "category": "Música",
-    "end": "2026-11-22",
-    "place": "Cafè Auditori",
-    "source": "ajuntament",
-    "start": "2026-11-22",
-    "time": "21:00",
-    "title": "Jazz en Viu al Cafè Auditori. Icar Toset Organ Trio",
-    "url": "https://www.santcugat.cat/activitat/jazz-en-viu-al-cafe-auditori-icar-toset-organ-trio"
-   },
-   {
     "category": "Actes literaris",
     "end": "2026-11-23",
     "place": "Casa de Cultura",
@@ -1581,5 +1501,5 @@
    }
   ]
  },
- "fetched": "2026-11-22T22:11:55+01:00"
+ "fetched": "2026-11-23T09:16:10+01:00"
 }
