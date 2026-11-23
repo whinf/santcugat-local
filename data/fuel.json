@@ -301,30 +301,6 @@
     "town": "Cerdanyola del Vallès"
    },
    {
-    "address": "Calle Santa Anna, 133",
-    "hours": "L-D: 24H",
-    "lat": "41.500278",
-    "lon": "2.124972",
-    "name": "NUROIL",
-    "prices": {
-     "diesel": 1.589,
-     "g95": 1.349
-    },
-    "town": "Cerdanyola del Vallès"
-   },
-   {
-    "address": "Calle Bosc Tancat, S/N",
-    "hours": "L-D: 24H",
-    "lat": "41.499722",
-    "lon": "2.135250",
-    "name": "NUROIL",
-    "prices": {
-     "diesel": 1.589,
-     "g95": 1.349
-    },
-    "town": "Cerdanyola del Vallès"
-   },
-   {
     "address": "Autopista Ap-7 (MRG.DCHO.) Km. 151",
     "hours": "L-D: 24H",
     "lat": "41.492944",
@@ -349,14 +325,26 @@
     "town": "Cerdanyola del Vallès"
    },
    {
-    "address": "Avenida Can Fatjó dels Aurons, Sn",
+    "address": "Calle Santa Anna, 133",
     "hours": "L-D: 24H",
-    "lat": "41.489167",
-    "lon": "2.084000",
-    "name": "PETROPRIX",
+    "lat": "41.500278",
+    "lon": "2.124972",
+    "name": "NUROIL",
     "prices": {
-     "diesel": 1.639,
-     "g95": 1.399
+     "diesel": 1.589,
+     "g95": 1.349
+    },
+    "town": "Cerdanyola del Vallès"
+   },
+   {
+    "address": "Calle Bosc Tancat, S/N",
+    "hours": "L-D: 24H",
+    "lat": "41.499722",
+    "lon": "2.135250",
+    "name": "NUROIL",
+    "prices": {
+     "diesel": 1.589,
+     "g95": 1.349
     },
     "town": "Cerdanyola del Vallès"
    },
@@ -373,6 +361,18 @@
     "town": "Cerdanyola del Vallès"
    },
    {
+    "address": "Avenida Can Fatjó dels Aurons, Sn",
+    "hours": "L-D: 24H",
+    "lat": "41.489167",
+    "lon": "2.084000",
+    "name": "PETROPRIX",
+    "prices": {
+     "diesel": 1.639,
+     "g95": 1.399
+    },
+    "town": "Cerdanyola del Vallès"
+   },
+   {
     "address": "Calle Santa Ana, 115",
     "hours": "L-D: 24H",
     "lat": "41.500472",
@@ -385,18 +385,6 @@
     "town": "Cerdanyola del Vallès"
    },
    {
-    "address": "Carretera Bp-1503 Km. 20,270",
-    "hours": "L-D: 24H",
-    "lat": "41.520417",
-    "lon": "2.038167",
-    "name": "PETROPRIX",
-    "prices": {
-     "diesel": 1.569,
-     "g95": 1.299
-    },
-    "town": "Sant Quirze del Vallès"
-   },
-   {
     "address": "Calle Mallorca, 43/47",
     "hours": "L-D: 24H",
     "lat": "41.521806",
@@ -405,6 +393,18 @@
     "prices": {
      "diesel": 1.619,
      "g95": 1.319
+    },
+    "town": "Sant Quirze del Vallès"
+   },
+   {
+    "address": "Carretera Bp-1503 Km. 20,270",
+    "hours": "L-D: 24H",
+    "lat": "41.520417",
+    "lon": "2.038167",
+    "name": "PETROPRIX",
+    "prices": {
+     "diesel": 1.569,
+     "g95": 1.299
     },
     "town": "Sant Quirze del Vallès"
    },
@@ -433,7 +433,7 @@
     "town": "Sant Quirze del Vallès"
    }
   ],
-  "updated": "23/11/2026 9:25:19"
+  "updated": "23/11/2026 9:49:24"
  },
- "fetched": "2026-11-23T09:16:10+01:00"
+ "fetched": "2026-11-23T09:40:20+01:00"
 }
