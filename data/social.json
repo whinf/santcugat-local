@@ -39,7 +39,7 @@
     "published": "2026-09-29",
     "short": false,
     "title": "The Book of Mormon",
-    "views": 333
+    "views": 334
    },
    {
     "channel": "ajuntament",
@@ -71,7 +71,7 @@
     "published": "2026-11-17",
     "short": false,
     "title": "Maria Nicolau, cuinera i divulgadora",
-    "views": 110
+    "views": 114
    },
    {
     "channel": "car",
@@ -234,19 +234,19 @@
     "views": 29
    },
    {
-    "channel": "car",
-    "id": "2xfizEunzgo",
-    "published": "2026-05-07",
-    "short": false,
-    "title": "Ingrés al CAR Per ser consideratda admèsa definitivament al CAR hauràs de",
-    "views": 28
-   },
-   {
     "channel": "cugat-media",
     "id": "YFgqhcg0rak",
     "published": "2026-11-19",
     "short": false,
     "title": "Les notícies del 19 de novembre",
+    "views": 29
+   },
+   {
+    "channel": "car",
+    "id": "2xfizEunzgo",
+    "published": "2026-05-07",
+    "short": false,
+    "title": "Ingrés al CAR Per ser consideratda admèsa definitivament al CAR hauràs de",
     "views": 28
    },
    {
@@ -295,7 +295,7 @@
     "published": "2026-11-17",
     "short": true,
     "title": "Menopausa precoç: una qüestió de salut",
-    "views": 19
+    "views": 21
    },
    {
     "channel": "cugat-media",
@@ -359,7 +359,7 @@
     "published": "2026-11-23",
     "short": false,
     "title": "Les notícies del 23 de novembre",
-    "views": 5
+    "views": 6
    },
    {
     "channel": "cugat-media",
@@ -395,5 +395,5 @@
    }
   ]
  },
- "fetched": "2026-11-23T22:42:29+01:00"
+ "fetched": "2026-11-24T05:25:03+01:00"
 }
