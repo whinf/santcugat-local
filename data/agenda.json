@@ -578,6 +578,17 @@
     "url": "https://www.santcugat.cat/activitat/de-la-pedra-al-3d-taller-descaneig-de-capitells9"
    },
    {
+    "category": "Fires i mercats",
+    "end": "2026-11-28",
+    "free": true,
+    "place": "El Siglo - Mercantic",
+    "source": "gencat",
+    "start": "2026-11-28",
+    "time": "12.30 h",
+    "title": "Nadya Makoeva",
+    "url": ""
+   },
+   {
     "category": "Música",
     "end": "2026-11-28",
     "place": "El Siglo Mercantic",
@@ -1471,5 +1482,5 @@
    }
   ]
  },
- "fetched": "2026-11-24T05:25:03+01:00"
+ "fetched": "2026-11-24T17:15:56+01:00"
 }

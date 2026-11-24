@@ -2,6 +2,13 @@
  "data": {
   "events": [
    {
+    "date": "2026-11-24",
+    "id": "2026-11-24-529089-moved_in",
+    "kind": "moved_in",
+    "name": "CXPIRIENCE SERVICIOS S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-225-08"
+   },
+   {
     "date": "2026-11-23",
     "id": "2026-11-23-526540-moved_in",
     "kind": "moved_in",
@@ -2848,6 +2855,7 @@
    "B 640002": "TICSON TECHNOLOGIES S.L.",
    "B 640028": "SPES IMMUNOTHERAPEUTICS S.L.",
    "B 640117": "UNION PORTABALES S.L.",
+   "B 640353": "CXPIRIENCE SERVICIOS S.L.",
    "B 640489": "VERA Y VIENTO S.L.",
    "B 640571": "ESCRIBAI SOLUTIONS S.L.",
    "B 640903": "DEARBORN S.L.",
@@ -3604,8 +3612,8 @@
    "B 80853": "ESTUDIOS Y PROYECTOS GRAU SL",
    "B 96774": "EURO IMPLEMENTOS SL"
   },
-  "last": "2026-11-23",
+  "last": "2026-11-24",
   "since": "2025-11-20"
  },
- "fetched": "2026-11-24T05:25:03+01:00"
+ "fetched": "2026-11-24T17:15:56+01:00"
 }

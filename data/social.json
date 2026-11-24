@@ -7,7 +7,7 @@
     "published": "2026-09-25",
     "short": false,
     "title": "Ple Municipal Setembre",
-    "views": 1287
+    "views": 1289
    },
    {
     "channel": "teatre-auditori",
@@ -15,7 +15,7 @@
     "published": "2026-06-04",
     "short": false,
     "title": "Temporada 2026/27",
-    "views": 1233
+    "views": 1234
    },
    {
     "channel": "ajuntament",
@@ -23,7 +23,7 @@
     "published": "2026-10-30",
     "short": false,
     "title": "Ple Municipal Octubre",
-    "views": 910
+    "views": 912
    },
    {
     "channel": "ajuntament",
@@ -31,7 +31,7 @@
     "published": "2026-10-31",
     "short": false,
     "title": "Audiència pública del ple d'octubre de 2026",
-    "views": 412
+    "views": 413
    },
    {
     "channel": "teatre-auditori",
@@ -39,7 +39,7 @@
     "published": "2026-09-29",
     "short": false,
     "title": "The Book of Mormon",
-    "views": 334
+    "views": 335
    },
    {
     "channel": "ajuntament",
@@ -47,7 +47,7 @@
     "published": "2026-10-27",
     "short": false,
     "title": "Ple Extraordinari Fill predilecte Octavi Galceran",
-    "views": 248
+    "views": 249
    },
    {
     "channel": "ajuntament",
@@ -64,14 +64,6 @@
     "short": true,
     "title": "Sant Cugat celebra la Setmana Europea de la Mobilitat",
     "views": 212
-   },
-   {
-    "channel": "cugat-media",
-    "id": "tR7u__IvdE0",
-    "published": "2026-11-17",
-    "short": false,
-    "title": "Maria Nicolau, cuinera i divulgadora",
-    "views": 114
    },
    {
     "channel": "car",
@@ -106,14 +98,6 @@
     "views": 60
    },
    {
-    "channel": "cugat-media",
-    "id": "oGMo53G8-aw",
-    "published": "2026-11-15",
-    "short": true,
-    "title": "Diada de la Colla dels Castellers de Sant Cugat",
-    "views": 57
-   },
-   {
     "channel": "car",
     "id": "PyqI9WzWY2Y",
     "published": "2026-01-28",
@@ -146,20 +130,20 @@
     "views": 47
    },
    {
+    "channel": "ajuntament",
+    "id": "_YLKSGBUCvA",
+    "published": "2026-11-17",
+    "short": false,
+    "title": "Sant Cugat reforça la seva presència al 4YFN (MWC) 2027",
+    "views": 39
+   },
+   {
     "channel": "car",
     "id": "So8g3eX2IJQ",
     "published": "2026-01-28",
     "short": true,
     "title": "28 de enero de 2026",
     "views": 38
-   },
-   {
-    "channel": "ajuntament",
-    "id": "_YLKSGBUCvA",
-    "published": "2026-11-17",
-    "short": false,
-    "title": "Sant Cugat reforça la seva presència al 4YFN (MWC) 2027",
-    "views": 37
    },
    {
     "channel": "ajuntament",
@@ -271,6 +255,22 @@
     "published": "2026-11-22",
     "short": true,
     "title": "Suspès per “inferioritat física” el Rugby Sant Cugat-Burgos amb un 0-134 en 41 minuts",
+    "views": 24
+   },
+   {
+    "channel": "cugat-media",
+    "id": "dXVM6DqyesY",
+    "published": "2026-11-17",
+    "short": true,
+    "title": "Menopausa precoç: una qüestió de salut",
+    "views": 23
+   },
+   {
+    "channel": "cugat-media",
+    "id": "iqmrSN1eCMs",
+    "published": "2026-11-20",
+    "short": false,
+    "title": "L'agenda de cap de setmana de Cugat Mèdia",
     "views": 23
    },
    {
@@ -283,19 +283,11 @@
    },
    {
     "channel": "cugat-media",
-    "id": "iqmrSN1eCMs",
-    "published": "2026-11-20",
+    "id": "oleSk9mlBQs",
+    "published": "2026-11-24",
     "short": false,
-    "title": "L'agenda de cap de setmana de Cugat Mèdia",
-    "views": 22
-   },
-   {
-    "channel": "cugat-media",
-    "id": "dXVM6DqyesY",
-    "published": "2026-11-17",
-    "short": true,
-    "title": "Menopausa precoç: una qüestió de salut",
-    "views": 21
+    "title": "Les notícies del 24/11/2026",
+    "views": 16
    },
    {
     "channel": "cugat-media",
@@ -312,14 +304,6 @@
     "short": false,
     "title": "Et vas perdre el BIVA Talent Day 2026?",
     "views": 12
-   },
-   {
-    "channel": "cugat-media",
-    "id": "hC_Xg0bj-Yc",
-    "published": "2026-11-16",
-    "short": false,
-    "title": "Les notícies del 16 de novembre",
-    "views": 11
    },
    {
     "channel": "cugat-media",
@@ -363,11 +347,27 @@
    },
    {
     "channel": "cugat-media",
+    "id": "vwJEYuqgq7E",
+    "published": "2026-11-24",
+    "short": true,
+    "title": "La IA també discrimina",
+    "views": 4
+   },
+   {
+    "channel": "cugat-media",
     "id": "QiHZVyftlRc",
     "published": "2026-11-21",
     "short": true,
     "title": "Jaume Asens (Comuns – Front Ampli): “Els candidats de Netanyahu i de Trump són Feijóo i Abascal”",
     "views": 3
+   },
+   {
+    "channel": "cugat-media",
+    "id": "C-Caf2-jfZQ",
+    "published": "2026-11-24",
+    "short": false,
+    "title": "Maria Antònia Coscollola, titular del Jutjat d’Instrucció nº 24 de Barcelona",
+    "views": 1
    },
    {
     "channel": "cugat-media",
@@ -395,5 +395,5 @@
    }
   ]
  },
- "fetched": "2026-11-24T05:25:03+01:00"
+ "fetched": "2026-11-24T17:15:56+01:00"
 }

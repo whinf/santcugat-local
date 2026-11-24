@@ -11,6 +11,33 @@
   },
   {
    "access": "targeta",
+   "address": "Av. Lluís Companys i Jover, 31, 08172 Sant",
+   "lat": "41.472565",
+   "lon": "2.079507",
+   "name": "23XC11M2J03DB00135",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
+   "speed": "semiRAPID"
+  },
+  {
+   "access": "targeta",
+   "address": "GOLF SANT CUGAT - Carrer de Villà, 79, 08173",
+   "lat": "41.463154",
+   "lon": "2.076231",
+   "name": "20XP22T3KK4AL01141",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
+   "speed": "semiRAPID"
+  },
+  {
+   "access": "",
+   "address": "Camí de Can Camps, 13",
+   "lat": "41.49923",
+   "lon": "2.07282",
+   "name": "TESLA Supercarregador - Sant Cugat del Vallès (120kW)",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallés",
+   "speed": "superRAPID"
+  },
+  {
+   "access": "targeta",
    "address": "Avenida Rius I Taulet 137",
    "lat": "41.477768",
    "lon": "2.069592",
@@ -20,19 +47,10 @@
   },
   {
    "access": "targeta",
-   "address": "PdRR Sant Cugat del Vallès: Av. Via Augusta,",
-   "lat": "41.4828",
-   "lon": "2.051367",
-   "name": "PdRR Sant Cugat del Vallès: Av. Via Augusta, 3 08173 Sant Cugat del Vallès ESP",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "RAPID i semiRAPID"
-  },
-  {
-   "access": "targeta",
-   "address": "Carrer de Ramon Mas",
-   "lat": "41.487064",
-   "lon": "2.065026",
-   "name": "W00054186 - Rafael Martins",
+   "address": "Carrer Pau Vila, 22",
+   "lat": "41.480145",
+   "lon": "2.064758",
+   "name": "Braker Corporation - SELBA EdRSR 4",
    "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
    "speed": "semiRAPID"
   },
@@ -47,37 +65,10 @@
   },
   {
    "access": "targeta",
-   "address": "GOLF SANT CUGAT - Carrer de Villà, 79, 08173",
-   "lat": "41.463177",
-   "lon": "2.076185",
-   "name": "20XP22T3KK4AL01139",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "semiRAPID"
-  },
-  {
-   "access": "targeta",
-   "address": "Carrer Pau Vila, 22",
-   "lat": "41.480145",
-   "lon": "2.064758",
-   "name": "Braker Corporation - SELBA EdRSR 4",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "semiRAPID"
-  },
-  {
-   "access": "targeta",
-   "address": "PdRL Sant Cugat del Vallès: Av. Via Augusta,",
-   "lat": "41.482742",
-   "lon": "2.051307",
-   "name": "PdRL Sant Cugat del Vallès: Av. Via Augusta, 3 08173 Sant Cugat del Vallès ESP",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "RAPID i semiRAPID"
-  },
-  {
-   "access": "targeta",
-   "address": "Carretera Rubí a Sant Cugat, 102",
-   "lat": "41.4816",
-   "lon": "2.054772",
-   "name": "Braker Corporation - INGETEAM EdRSR 1",
+   "address": "Carrer de Ramon Mas",
+   "lat": "41.487064",
+   "lon": "2.065026",
+   "name": "W00054186 - Rafael Martins",
    "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
    "speed": "semiRAPID"
   },
@@ -87,6 +78,42 @@
    "lat": "41.451183",
    "lon": "2.055308",
    "name": "20XM32T7KK4AR00203",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
+   "speed": "RAPID i semiRAPID"
+  },
+  {
+   "access": "targeta",
+   "address": "Carrer del Danubi, S/N",
+   "lat": "41.4864",
+   "lon": "2.050093",
+   "name": "Hotel Holiday Inn",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
+   "speed": "superRAPID i semiRAPID"
+  },
+  {
+   "access": "targeta",
+   "address": "GOLF SANT CUGAT - Carrer de Villà, 79, 08173",
+   "lat": "41.463177",
+   "lon": "2.076185",
+   "name": "20XP22T3KK4AL01139",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
+   "speed": "semiRAPID"
+  },
+  {
+   "access": "targeta",
+   "address": "Av. Lluís Companys i Jover, 31, 08172 Sant",
+   "lat": "41.472534",
+   "lon": "2.079477",
+   "name": "23XC11M2J03DB00137",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
+   "speed": "semiRAPID"
+  },
+  {
+   "access": "targeta",
+   "address": "PdRR Sant Cugat del Vallès: Av. Via Augusta,",
+   "lat": "41.4828",
+   "lon": "2.051367",
+   "name": "PdRR Sant Cugat del Vallès: Av. Via Augusta, 3 08173 Sant Cugat del Vallès ESP",
    "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
    "speed": "RAPID i semiRAPID"
   },
@@ -109,15 +136,6 @@
    "speed": "RAPID i semiRAPID"
   },
   {
-   "access": "tarjeta",
-   "address": "GOLF SANT CUGAT - Carrer de Villà, 79, 08173",
-   "lat": "41.462673",
-   "lon": "2.076862",
-   "name": "EdR Golf Sant Cugat",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "semiRAPID"
-  },
-  {
    "access": "targeta",
    "address": "Avinguda de la Generalitat, 152",
    "lat": "41.491356",
@@ -128,12 +146,12 @@
   },
   {
    "access": "targeta",
-   "address": "Av. Lluís Companys i Jover, 31, 08172 Sant",
-   "lat": "41.472534",
-   "lon": "2.079477",
-   "name": "23XC11M2J03DB00137",
+   "address": "PdRL Sant Cugat del Vallès: Av. Via Augusta,",
+   "lat": "41.482742",
+   "lon": "2.051307",
+   "name": "PdRL Sant Cugat del Vallès: Av. Via Augusta, 3 08173 Sant Cugat del Vallès ESP",
    "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "semiRAPID"
+   "speed": "RAPID i semiRAPID"
   },
   {
    "access": "tarjeta",
@@ -145,29 +163,29 @@
    "speed": "RAPID i semiRAPID"
   },
   {
-   "access": "targeta",
+   "access": "tarjeta",
    "address": "GOLF SANT CUGAT - Carrer de Villà, 79, 08173",
-   "lat": "41.463154",
-   "lon": "2.076231",
-   "name": "20XP22T3KK4AL01141",
+   "lat": "41.462673",
+   "lon": "2.076862",
+   "name": "EdR Golf Sant Cugat",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
+   "speed": "semiRAPID"
+  },
+  {
+   "access": "tarjeta",
+   "address": "GOLF SANT CUGAT - Carrer de Villà, 79, 08173",
+   "lat": "41.462673",
+   "lon": "2.076862",
+   "name": "EdR Golf Sant Cugat",
    "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
    "speed": "semiRAPID"
   },
   {
    "access": "targeta",
-   "address": "Av. Lluís Companys i Jover, 31, 08172 Sant",
-   "lat": "41.472565",
-   "lon": "2.079507",
-   "name": "23XC11M2J03DB00135",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "semiRAPID"
-  },
-  {
-   "access": "targeta",
-   "address": "Plaça de Xavier Cugat, 08174, Barcelona,",
-   "lat": "41.491673",
-   "lon": "2.074643",
-   "name": "23XP22T3KKJCK00887",
+   "address": "Carretera Rubí a Sant Cugat, 102",
+   "lat": "41.4816",
+   "lon": "2.054772",
+   "name": "Braker Corporation - INGETEAM EdRSR 1",
    "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
    "speed": "semiRAPID"
   },
@@ -182,28 +200,10 @@
   },
   {
    "access": "targeta",
-   "address": "Carrer del Danubi, S/N",
-   "lat": "41.4864",
-   "lon": "2.050093",
-   "name": "Hotel Holiday Inn",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "superRAPID i semiRAPID"
-  },
-  {
-   "access": "",
-   "address": "Camí de Can Camps, 13",
-   "lat": "41.49923",
-   "lon": "2.07282",
-   "name": "TESLA Supercarregador - Sant Cugat del Vallès (120kW)",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallés",
-   "speed": "superRAPID"
-  },
-  {
-   "access": "tarjeta",
-   "address": "GOLF SANT CUGAT - Carrer de Villà, 79, 08173",
-   "lat": "41.462673",
-   "lon": "2.076862",
-   "name": "EdR Golf Sant Cugat",
+   "address": "Plaça de Xavier Cugat, 08174, Barcelona,",
+   "lat": "41.491673",
+   "lon": "2.074643",
+   "name": "23XP22T3KKJCK00887",
    "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
    "speed": "semiRAPID"
   },
@@ -217,5 +217,5 @@
    "speed": "RAPID i semiRAPID"
   }
  ],
- "fetched": "2026-11-23T15:26:14+01:00"
+ "fetched": "2026-11-24T17:15:56+01:00"
 }

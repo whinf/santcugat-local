@@ -1,6 +1,97 @@
 {
  "data": [
   {
+   "amount": 24700.0,
+   "date": "2026-11-23",
+   "deadline": "2026-09-08T12:00",
+   "id": "46616380/17_281_2026",
+   "lots": 0,
+   "organ": "EPEL Cugat.cat",
+   "phase": "Expedient en avaluació",
+   "title": "Servei de direcció creativa, disseny gràfic i conceptualització de projectes de comunicació de cugat mèdia",
+   "type": "Serveis",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/7fb8bcd0-b151-472a-8019-3aa4a43e3f13/300947930",
+   "winners": []
+  },
+  {
+   "amount": 112666.29,
+   "date": "2026-11-23",
+   "deadline": "2026-12-10T23:59",
+   "id": "3045974/44974/2025",
+   "lots": 0,
+   "organ": "Ajuntament de Sant Cugat del Vallès",
+   "phase": "Anunci de licitació",
+   "title": "Subministrament, instal·lació i posada en marxa d'una plataforma d'anàlisi de contingut de vídeo per a la Policia Local de Sant Cugat del Vallès.",
+   "type": "Subministraments",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/63672703-495e-486f-83d0-a53a9485a595/300947043",
+   "winners": []
+  },
+  {
+   "amount": 144609.68,
+   "date": "2026-11-23",
+   "deadline": "2026-10-01T12:00",
+   "id": "3045974/38440/2025",
+   "lots": 0,
+   "organ": "Ajuntament de Sant Cugat del Vallès",
+   "phase": "Expedient en avaluació",
+   "title": "Serveis de mediació i convivència",
+   "type": "Contracte de serveis especials (annex IV)",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/eff2ce5f-c5d2-4a2e-93bd-c821cbda64bc/300923896",
+   "winners": []
+  },
+  {
+   "amount": 603483.7,
+   "date": "2026-11-23",
+   "deadline": "2026-05-18T12:00",
+   "id": "3045974/20784/2025",
+   "lots": 0,
+   "organ": "Ajuntament de Sant Cugat del Vallès",
+   "phase": "Expedient en avaluació",
+   "title": "Projecte educadors/es de carrer",
+   "type": "Serveis",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/809e6939-3303-4808-b507-750cdfbc6868/300946884",
+   "winners": []
+  },
+  {
+   "amount": 42114.05,
+   "date": "2026-11-23",
+   "deadline": "2026-10-07T12:00",
+   "id": "3045974/17077/2026",
+   "lots": 0,
+   "organ": "Ajuntament de Sant Cugat del Vallès",
+   "phase": "Expedient en avaluació",
+   "title": "Servei de comunicacions unificades de l'Ajuntament",
+   "type": "Serveis",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/0e3efd96-62ca-454c-b5fb-d53d04ca22c5/300947042",
+   "winners": []
+  },
+  {
+   "amount": 499054.48,
+   "date": "2026-11-23",
+   "deadline": "2026-09-10T12:00",
+   "id": "3045974/1651/2026",
+   "lots": 3,
+   "organ": "Ajuntament de Sant Cugat del Vallès",
+   "phase": "Expedient en avaluació",
+   "title": "Contracte d’obres de millores d'obra hidràulica dels parcs i jardins municipals de Sant Cugat del Vallès",
+   "type": "Obres",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/f8cc5cdb-2513-45d8-bc4f-dde263494327/300881177",
+   "winners": []
+  },
+  {
+   "amount": 31640.0,
+   "date": "2026-11-23",
+   "deadline": "2026-09-25T12:00",
+   "id": "3045974/11258/2026",
+   "lots": 0,
+   "organ": "Ajuntament de Sant Cugat del Vallès",
+   "phase": "Expedient en avaluació",
+   "title": "Servei de gestió energètica de consums i subministraments",
+   "type": "Serveis",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/c96f98ea-3120-4d65-8404-78164a76e218/300947101",
+   "winners": []
+  },
+  {
    "amount": 38236.0,
    "date": "2026-11-20",
    "deadline": "2026-10-08T12:00",
@@ -210,8 +301,8 @@
    "winners": [
     "INFOBIBLIOTECAS S.L.",
     "BIBLIO ALIBRI SL",
-    "DISTRIASVY S.L.",
-    "RACÓ DEL LLIBRE SL"
+    "RACÓ DEL LLIBRE SL",
+    "DISTRIASVY S.L."
    ]
   },
   {
@@ -353,19 +444,6 @@
    "winners": []
   },
   {
-   "amount": 24700.0,
-   "date": "2026-11-06",
-   "deadline": "2026-09-08T12:00",
-   "id": "46616380/17_281_2026",
-   "lots": 0,
-   "organ": "EPEL Cugat.cat",
-   "phase": "Anunci de licitació",
-   "title": "Servei de direcció creativa, disseny gràfic i conceptualització de projectes de comunicació de cugat mèdia",
-   "type": "Serveis",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/7fb8bcd0-b151-472a-8019-3aa4a43e3f13/300931230",
-   "winners": []
-  },
-  {
    "amount": 310472.89,
    "date": "2026-11-06",
    "deadline": "2026-07-10T12:00",
@@ -433,19 +511,6 @@
    "winners": [
     "SEVIMA SOLD. S.L."
    ]
-  },
-  {
-   "amount": 31640.0,
-   "date": "2026-11-06",
-   "deadline": "2026-09-25T12:00",
-   "id": "3045974/11258/2026",
-   "lots": 0,
-   "organ": "Ajuntament de Sant Cugat del Vallès",
-   "phase": "Expedient en avaluació",
-   "title": "Servei de gestió energètica de consums i subministraments",
-   "type": "Serveis",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/c96f98ea-3120-4d65-8404-78164a76e218/300931536",
-   "winners": []
   },
   {
    "amount": 270455.23,
@@ -646,8 +711,8 @@
    "url": "https://contractaciopublica.cat/ca/detall-publicacio/a26d8d9b-d081-4260-9307-14b416350d12/300691903",
    "winners": [
     "PREZERO ESPAÑA, S.A.U.",
-    "FUNDACIÓ PRIVADA PER LA INCLUSIÓ LABORAL ÀURIA",
     "TALHER, S.A.",
+    "FUNDACIÓ PRIVADA PER LA INCLUSIÓ LABORAL ÀURIA",
     "AMBITEC SERVICIOS AMBIENTALES SAU"
    ]
   },
@@ -860,19 +925,6 @@
    "title": "Contractació de les obres d’un laberint al Parc de Can Vernet",
    "type": "Obres",
    "url": "https://contractaciopublica.cat/ca/detall-publicacio/6f0a6717-5e0c-440d-b61d-3f26aebe5488/300916606",
-   "winners": []
-  },
-  {
-   "amount": 499054.48,
-   "date": "2026-10-22",
-   "deadline": "2026-09-10T12:00",
-   "id": "3045974/1651/2026",
-   "lots": 3,
-   "organ": "Ajuntament de Sant Cugat del Vallès",
-   "phase": "Expedient en avaluació",
-   "title": "Contracte d’obres de millores d'obra hidràulica dels parcs i jardins municipals de Sant Cugat del Vallès",
-   "type": "Obres",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/f8cc5cdb-2513-45d8-bc4f-dde263494327/300881177",
    "winners": []
   },
   {
@@ -1190,19 +1242,6 @@
    "winners": [
     "Dekra Industrial, SAU"
    ]
-  },
-  {
-   "amount": 42114.05,
-   "date": "2026-10-07",
-   "deadline": "2026-10-07T12:00",
-   "id": "3045974/17077/2026",
-   "lots": 0,
-   "organ": "Ajuntament de Sant Cugat del Vallès",
-   "phase": "Expedient en avaluació",
-   "title": "Servei de comunicacions unificades de l'Ajuntament",
-   "type": "Serveis",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/0e3efd96-62ca-454c-b5fb-d53d04ca22c5/300903049",
-   "winners": []
   },
   {
    "amount": 41378.21,
@@ -1881,19 +1920,6 @@
    ]
   },
   {
-   "amount": 144609.68,
-   "date": "2026-09-01",
-   "deadline": "2026-10-01T12:00",
-   "id": "3045974/38440/2025",
-   "lots": 0,
-   "organ": "Ajuntament de Sant Cugat del Vallès",
-   "phase": "Anunci de licitació",
-   "title": "Serveis de mediació i convivència",
-   "type": "Contracte de serveis especials (annex IV)",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/eff2ce5f-c5d2-4a2e-93bd-c821cbda64bc/300861316",
-   "winners": []
-  },
-  {
    "amount": 963.3,
    "date": "2026-08-28",
    "deadline": "2026-06-08T14:00",
@@ -2124,19 +2150,6 @@
    "winners": [
     "ELIAS JADRAQUE SA"
    ]
-  },
-  {
-   "amount": 603483.7,
-   "date": "2026-07-28",
-   "deadline": "2026-05-18T12:00",
-   "id": "3045974/20784/2025",
-   "lots": 0,
-   "organ": "Ajuntament de Sant Cugat del Vallès",
-   "phase": "Expedient en avaluació",
-   "title": "Projecte educadors/es de carrer",
-   "type": "Serveis",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/809e6939-3303-4808-b507-750cdfbc6868/300847992",
-   "winners": []
   },
   {
    "amount": 10000.0,
@@ -5274,5 +5287,5 @@
    "winners": []
   }
  ],
- "fetched": "2026-11-24T05:25:03+01:00"
+ "fetched": "2026-11-24T17:15:56+01:00"
 }
