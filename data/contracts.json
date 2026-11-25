@@ -5207,21 +5207,6 @@
    "winners": []
   },
   {
-   "amount": 56619.0,
-   "date": "2025-10-20",
-   "deadline": "2024-10-18T12:00",
-   "id": "3045974/24688/2024",
-   "lots": 0,
-   "organ": "Ajuntament de Sant Cugat del Vallès",
-   "phase": "Formalització",
-   "title": "Subministrament, implantació i manteniment programari informàtic de gestió de la Policia Local i de Protecció Civil",
-   "type": "Subministraments",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/c82b3127-ccc5-44c3-b03c-965bcd39e3b5/300592164",
-   "winners": [
-    "ESPUBLICO SERVICIOS PARA LA ADMINISTRACIÓN, SA"
-   ]
-  },
-  {
    "amount": 616000.0,
    "date": "2025-10-20",
    "deadline": "2026-11-30T12:00",
@@ -5287,5 +5272,5 @@
    "winners": []
   }
  ],
- "fetched": "2026-11-24T17:15:56+01:00"
+ "fetched": "2026-11-25T04:08:40+01:00"
 }

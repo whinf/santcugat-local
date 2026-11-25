@@ -7,7 +7,7 @@
     "published": "2026-09-25",
     "short": false,
     "title": "Ple Municipal Setembre",
-    "views": 1289
+    "views": 1290
    },
    {
     "channel": "teatre-auditori",
@@ -15,7 +15,7 @@
     "published": "2026-06-04",
     "short": false,
     "title": "Temporada 2026/27",
-    "views": 1234
+    "views": 1236
    },
    {
     "channel": "ajuntament",
@@ -23,7 +23,7 @@
     "published": "2026-10-30",
     "short": false,
     "title": "Ple Municipal Octubre",
-    "views": 912
+    "views": 914
    },
    {
     "channel": "ajuntament",
@@ -39,7 +39,7 @@
     "published": "2026-09-29",
     "short": false,
     "title": "The Book of Mormon",
-    "views": 335
+    "views": 338
    },
    {
     "channel": "ajuntament",
@@ -135,7 +135,7 @@
     "published": "2026-11-17",
     "short": false,
     "title": "Sant Cugat reforça la seva presència al 4YFN (MWC) 2027",
-    "views": 39
+    "views": 40
    },
    {
     "channel": "car",
@@ -183,7 +183,7 @@
     "published": "2026-01-28",
     "short": true,
     "title": "28 de enero de 2026",
-    "views": 33
+    "views": 34
    },
    {
     "channel": "car",
@@ -242,20 +242,12 @@
     "views": 26
    },
    {
-    "channel": "ajuntament",
-    "id": "Xqa5RZG32nM",
-    "published": "2026-11-16",
-    "short": false,
-    "title": "El Tech Spirit BIVA reuneix a Sant Cugat més de 250 professionals del sector tecnològic i innovador",
-    "views": 24
-   },
-   {
     "channel": "cugat-media",
     "id": "Z2p7RqH4FBM",
     "published": "2026-11-22",
     "short": true,
     "title": "Suspès per “inferioritat física” el Rugby Sant Cugat-Burgos amb un 0-134 en 41 minuts",
-    "views": 24
+    "views": 25
    },
    {
     "channel": "cugat-media",
@@ -263,7 +255,15 @@
     "published": "2026-11-17",
     "short": true,
     "title": "Menopausa precoç: una qüestió de salut",
-    "views": 23
+    "views": 25
+   },
+   {
+    "channel": "ajuntament",
+    "id": "Xqa5RZG32nM",
+    "published": "2026-11-16",
+    "short": false,
+    "title": "El Tech Spirit BIVA reuneix a Sant Cugat més de 250 professionals del sector tecnològic i innovador",
+    "views": 24
    },
    {
     "channel": "cugat-media",
@@ -274,20 +274,20 @@
     "views": 23
    },
    {
+    "channel": "cugat-media",
+    "id": "oleSk9mlBQs",
+    "published": "2026-11-24",
+    "short": false,
+    "title": "Les notícies del 24 de novembre",
+    "views": 23
+   },
+   {
     "channel": "car",
     "id": "JwCee6WLQbQ",
     "published": "2026-01-28",
     "short": true,
     "title": "28 de enero de 2026",
     "views": 22
-   },
-   {
-    "channel": "cugat-media",
-    "id": "oleSk9mlBQs",
-    "published": "2026-11-24",
-    "short": false,
-    "title": "Les notícies del 24/11/2026",
-    "views": 16
    },
    {
     "channel": "cugat-media",
@@ -311,7 +311,7 @@
     "published": "2026-11-21",
     "short": true,
     "title": "Nacho Martín Blanco (PP) visita Sant Cugat durant la campanya del 29N",
-    "views": 10
+    "views": 12
    },
    {
     "channel": "cugat-media",
@@ -347,6 +347,14 @@
    },
    {
     "channel": "cugat-media",
+    "id": "QiHZVyftlRc",
+    "published": "2026-11-21",
+    "short": true,
+    "title": "Jaume Asens (Comuns – Front Ampli): “Els candidats de Netanyahu i de Trump són Feijóo i Abascal”",
+    "views": 4
+   },
+   {
+    "channel": "cugat-media",
     "id": "vwJEYuqgq7E",
     "published": "2026-11-24",
     "short": true,
@@ -355,19 +363,11 @@
    },
    {
     "channel": "cugat-media",
-    "id": "QiHZVyftlRc",
-    "published": "2026-11-21",
-    "short": true,
-    "title": "Jaume Asens (Comuns – Front Ampli): “Els candidats de Netanyahu i de Trump són Feijóo i Abascal”",
-    "views": 3
-   },
-   {
-    "channel": "cugat-media",
     "id": "C-Caf2-jfZQ",
     "published": "2026-11-24",
     "short": false,
     "title": "Maria Antònia Coscollola, titular del Jutjat d’Instrucció nº 24 de Barcelona",
-    "views": 1
+    "views": 2
    },
    {
     "channel": "cugat-media",
@@ -395,5 +395,5 @@
    }
   ]
  },
- "fetched": "2026-11-24T17:15:56+01:00"
+ "fetched": "2026-11-25T04:08:40+01:00"
 }

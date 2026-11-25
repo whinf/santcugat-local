@@ -1280,32 +1280,6 @@
    "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92325673"
   },
   {
-   "company": "AJUNTAMENT DE RUBI",
-   "contract": "Contracte laboral indefinit",
-   "date": "2026-09-25",
-   "hours": "Jornada completa",
-   "salary": [
-    2166,
-    3000
-   ],
-   "title": "Personal mecànic/a de vehicles",
-   "town": "RUBÍ",
-   "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92325538"
-  },
-  {
-   "company": "AJUNTAMENT DE RUBI",
-   "contract": "Contracte laboral indefinit",
-   "date": "2026-09-25",
-   "hours": "Jornada completa",
-   "salary": [
-    2142,
-    2500
-   ],
-   "title": "Personal mecànic de maquinària industrial",
-   "town": "RUBÍ",
-   "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92325616"
-  },
-  {
    "company": "COOPERATIVA DOBLE VIA SCCL",
    "contract": "Contracte laboral temporal (6 mesos)",
    "date": "2026-11-23",
@@ -1742,16 +1716,6 @@
    "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92325909"
   },
   {
-   "company": "CENTRE METAL.LÚRGIC",
-   "contract": "Contracte laboral indefinit",
-   "date": "2026-09-25",
-   "hours": "Jornada completa",
-   "salary": [],
-   "title": "Magatzem i aprovisionament de materials 26.120",
-   "town": "CERDANYOLA DEL VALLÈS",
-   "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92325608"
-  },
-  {
    "company": "L'EINA COOPERATIVA",
    "contract": "Contracte laboral indefinit",
    "date": "2026-11-19",
@@ -1827,5 +1791,5 @@
    "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92326339"
   }
  ],
- "fetched": "2026-11-24T17:15:56+01:00"
+ "fetched": "2026-11-25T04:08:40+01:00"
 }

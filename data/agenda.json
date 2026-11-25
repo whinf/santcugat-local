@@ -216,76 +216,6 @@
     "url": "https://www.santcugat.cat/activitat/exposicio-argimon-i-grau-garriga-sant-cugat-territori-davantguarda"
    },
    {
-    "category": "Cursos i tallers",
-    "end": "2026-11-24",
-    "place": "Casa de Cultura",
-    "source": "ajuntament",
-    "start": "2026-11-24",
-    "time": "12:30",
-    "title": "Taller. \"Fem front al maltractament\"",
-    "url": "https://www.santcugat.cat/activitat/taller-fem-front-al-maltractament"
-   },
-   {
-    "category": "Música",
-    "end": "2026-11-24",
-    "place": "Escola La Farga (camí de Sant Cugat al Papiol, 36-46)",
-    "source": "ajuntament",
-    "start": "2026-11-24",
-    "time": "15:30",
-    "title": "Concert inclusiu Coral de FamiliaAMIC amb el músic Chema Mendive",
-    "url": "https://www.santcugat.cat/activitat/concert-inclusiu-coral-de-familiaamic-amb-el-music-chema-mendive"
-   },
-   {
-    "category": "Altres activitats",
-    "end": "2026-11-24",
-    "place": "Parc de Dolors Bigues (Volpelleres)",
-    "source": "ajuntament",
-    "start": "2026-11-24",
-    "time": "17:00",
-    "title": "Taitxí per a adults als parcs. Parc de Dolors Bigues",
-    "url": "https://www.santcugat.cat/activitat/taitxi-per-adults-als-parcs-parc-de-dolors-bigues4"
-   },
-   {
-    "category": "Esports",
-    "end": "2026-11-24",
-    "place": "Zona Esportiva Municipal Jaume Tubau",
-    "source": "ajuntament",
-    "start": "2026-11-24",
-    "time": "18:00",
-    "title": "9a edició del Partit per la Igualtat. Partit de futbol mixt",
-    "url": "https://www.santcugat.cat/activitat/9a-edicio-del-partit-per-la-igualtat-partit-de-futbol-mixt"
-   },
-   {
-    "category": "Conferències",
-    "end": "2026-11-24",
-    "place": "Casa de Cultura",
-    "source": "ajuntament",
-    "start": "2026-11-24",
-    "time": "18:00",
-    "title": "Xerrada. \"Com podem protegir els nostres fills i filles davant de la violència vicària?\"",
-    "url": "https://www.santcugat.cat/activitat/xerrada-com-podem-protegir-els-nostres-fills-i-filles-davant-de-la-violencia-vicaria"
-   },
-   {
-    "category": "Conferències",
-    "end": "2026-11-24",
-    "place": "Biblioteca Central Gabriel Ferrater",
-    "source": "ajuntament",
-    "start": "2026-11-24",
-    "time": "19:00",
-    "title": "Xerrada. \"Aprenem a llegir etiquetes nutricionals: edició Nadal\"",
-    "url": "https://www.santcugat.cat/activitat/xerrada-aprenem-a-llegir-etiquetes-nutricionals-edicio-nadal"
-   },
-   {
-    "category": "Música",
-    "end": "2026-11-24",
-    "place": "L'Ateneu",
-    "source": "ajuntament",
-    "start": "2026-11-24",
-    "time": "19:00",
-    "title": "Òpera entre copes. \"Cendrillon\", de Pauline Viardot",
-    "url": "https://www.santcugat.cat/activitat/opera-entre-copes-cendrillon-de-pauline-viardot"
-   },
-   {
     "category": "Altres activitats",
     "end": "2026-11-25",
     "place": "Casa Aymat",
@@ -1482,5 +1412,5 @@
    }
   ]
  },
- "fetched": "2026-11-24T17:15:56+01:00"
+ "fetched": "2026-11-25T04:08:40+01:00"
 }

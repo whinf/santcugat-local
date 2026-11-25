@@ -2559,36 +2559,6 @@
     "kind": "new",
     "name": "3030 ACTIVOS S.L.",
     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-143-08"
-   },
-   {
-    "date": "2026-07-27",
-    "id": "2026-07-27-349671-moved_in",
-    "kind": "moved_in",
-    "name": "VECTRON SISTEMAS S.L.",
-    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-142-08"
-   },
-   {
-    "date": "2026-07-27",
-    "id": "2026-07-27-349585-moved_in",
-    "kind": "moved_in",
-    "name": "PAN 67 ESPAÑA S.L.",
-    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-142-08"
-   },
-   {
-    "date": "2026-07-27",
-    "id": "2026-07-27-349557-moved_in",
-    "kind": "moved_in",
-    "name": "MEDVET SERVICE S.L.",
-    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-142-08"
-   },
-   {
-    "capital": 94500.0,
-    "date": "2026-07-27",
-    "id": "2026-07-27-349557-capital",
-    "kind": "capital",
-    "name": "MEDVET SERVICE S.L.",
-    "total": 97500.0,
-    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-142-08"
    }
   ],
   "known": {
@@ -3615,5 +3585,5 @@
   "last": "2026-11-24",
   "since": "2025-11-20"
  },
- "fetched": "2026-11-24T17:15:56+01:00"
+ "fetched": "2026-11-25T04:08:40+01:00"
 }
