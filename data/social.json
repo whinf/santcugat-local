@@ -15,7 +15,7 @@
     "published": "2026-06-04",
     "short": false,
     "title": "Temporada 2026/27",
-    "views": 1236
+    "views": 1237
    },
    {
     "channel": "ajuntament",
@@ -87,7 +87,7 @@
     "published": "2026-06-12",
     "short": false,
     "title": "Escoles a Escena 2026-27",
-    "views": 65
+    "views": 66
    },
    {
     "channel": "car",
@@ -128,6 +128,14 @@
     "short": true,
     "title": "28 de enero de 2026",
     "views": 47
+   },
+   {
+    "channel": "cugat-media",
+    "id": "C-Caf2-jfZQ",
+    "published": "2026-11-24",
+    "short": false,
+    "title": "Maria Antònia Coscollola, titular del Jutjat d’Instrucció nº 24 de Barcelona",
+    "views": 40
    },
    {
     "channel": "ajuntament",
@@ -250,19 +258,19 @@
     "views": 25
    },
    {
-    "channel": "cugat-media",
-    "id": "dXVM6DqyesY",
-    "published": "2026-11-17",
-    "short": true,
-    "title": "Menopausa precoç: una qüestió de salut",
-    "views": 25
-   },
-   {
     "channel": "ajuntament",
     "id": "Xqa5RZG32nM",
     "published": "2026-11-16",
     "short": false,
     "title": "El Tech Spirit BIVA reuneix a Sant Cugat més de 250 professionals del sector tecnològic i innovador",
+    "views": 24
+   },
+   {
+    "channel": "cugat-media",
+    "id": "xLDtJbPfUZc",
+    "published": "2026-11-25",
+    "short": false,
+    "title": "Les notícies del 25 de novembre",
     "views": 24
    },
    {
@@ -298,6 +306,14 @@
     "views": 15
    },
    {
+    "channel": "teatre-auditori",
+    "id": "IPpB4KXm194",
+    "published": "2026-11-19",
+    "short": false,
+    "title": "Observin aquests fills de puta",
+    "views": 14
+   },
+   {
     "channel": "ajuntament",
     "id": "3usQpSiKcHw",
     "published": "2026-11-18",
@@ -331,19 +347,19 @@
    },
    {
     "channel": "cugat-media",
-    "id": "jJG3aVgFzqo",
-    "published": "2026-11-17",
-    "short": false,
-    "title": "Les notícies del 17 de novembre",
-    "views": 8
-   },
-   {
-    "channel": "cugat-media",
     "id": "CxyQgyUGJ3c",
     "published": "2026-11-23",
     "short": false,
     "title": "Les notícies del 23 de novembre",
-    "views": 6
+    "views": 7
+   },
+   {
+    "channel": "cugat-media",
+    "id": "vwJEYuqgq7E",
+    "published": "2026-11-24",
+    "short": true,
+    "title": "La IA també discrimina",
+    "views": 5
    },
    {
     "channel": "cugat-media",
@@ -355,19 +371,11 @@
    },
    {
     "channel": "cugat-media",
-    "id": "vwJEYuqgq7E",
-    "published": "2026-11-24",
+    "id": "NxHT8n-9wTw",
+    "published": "2026-11-25",
     "short": true,
-    "title": "La IA també discrimina",
-    "views": 4
-   },
-   {
-    "channel": "cugat-media",
-    "id": "C-Caf2-jfZQ",
-    "published": "2026-11-24",
-    "short": false,
-    "title": "Maria Antònia Coscollola, titular del Jutjat d’Instrucció nº 24 de Barcelona",
-    "views": 2
+    "title": "Què podem fer com a societat per combatre les violències masclistes?",
+    "views": 3
    },
    {
     "channel": "cugat-media",
@@ -376,14 +384,6 @@
     "short": true,
     "title": "El vi català: entre la tradició i els nous hàbits de consum",
     "views": 1
-   },
-   {
-    "channel": "teatre-auditori",
-    "id": "IPpB4KXm194",
-    "published": "2026-11-19",
-    "short": false,
-    "title": "Observin aquests fills de puta",
-    "views": 0
    },
    {
     "channel": "ajuntament",
@@ -395,5 +395,5 @@
    }
   ]
  },
- "fetched": "2026-11-25T04:08:40+01:00"
+ "fetched": "2026-11-25T17:00:06+01:00"
 }

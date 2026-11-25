@@ -2,6 +2,40 @@
  "data": {
   "events": [
    {
+    "capital": 240000.0,
+    "date": "2026-11-25",
+    "id": "2026-11-25-531889-capital",
+    "kind": "capital",
+    "name": "ALTAVISTA PATRIMONIO S.L.",
+    "total": 243000.0,
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-226-08"
+   },
+   {
+    "capital": 18543.0,
+    "date": "2026-11-25",
+    "id": "2026-11-25-531732-capital",
+    "kind": "capital",
+    "name": "NORDSTEIN 19 S.L.",
+    "total": 28543.0,
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-226-08"
+   },
+   {
+    "date": "2026-11-25",
+    "id": "2026-11-25-531572-moved_in",
+    "kind": "moved_in",
+    "name": "NEWFLAT REHABILITACIONS SL",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-226-08"
+   },
+   {
+    "activity": "Comercio al por menor no especializado con predominio de productos alimenticios, bebidas y tabaco",
+    "capital": 3000.0,
+    "date": "2026-11-25",
+    "id": "2026-11-25-531514-new",
+    "kind": "new",
+    "name": "KHURRAM ALIMENTACION S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-226-08"
+   },
+   {
     "date": "2026-11-24",
     "id": "2026-11-24-529089-moved_in",
     "kind": "moved_in",
@@ -2666,6 +2700,7 @@
    "B 456103": "FA DIGITAL LAW & MEDIA SERVICES SL",
    "B 456969": "TECTON SERVICIOS GENERALES SL",
    "B 457696": "HARDLEVEL COMPUTER SL",
+   "B 459586": "NEWFLAT REHABILITACIONS SL",
    "B 461697": "INVERHOLDING PGC SL",
    "B 464176": "MILLOR ENERGY SOLUTIONS SL",
    "B 464260": "IGNION S.L.",
@@ -3578,12 +3613,13 @@
    "B 666886": "TDM BELLOW THE LINE S.L.",
    "B 666903": "HOSPITALITY MOTORSPORT S.L.",
    "B 666961": "GRMT SOFTWARE AND CONSULTING S.L.",
+   "B 667115": "KHURRAM ALIMENTACION S.L.",
    "B 668868": "CREA NOVA 2026 S.L.",
    "B 80853": "ESTUDIOS Y PROYECTOS GRAU SL",
    "B 96774": "EURO IMPLEMENTOS SL"
   },
-  "last": "2026-11-24",
+  "last": "2026-11-25",
   "since": "2025-11-20"
  },
- "fetched": "2026-11-25T04:08:40+01:00"
+ "fetched": "2026-11-25T17:00:06+01:00"
 }

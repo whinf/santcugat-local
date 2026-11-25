@@ -574,6 +574,19 @@
    "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92325911"
   },
   {
+   "company": "ETT",
+   "contract": "Contracte laboral temporal (6 mesos)",
+   "date": "2026-11-25",
+   "hours": "Jornada intensiva",
+   "salary": [
+    1700,
+    1800
+   ],
+   "title": "Pintor/a industrial",
+   "town": "RUBÍ",
+   "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329591"
+  },
+  {
    "company": "FACILITY EUROPE CC, S.L.",
    "contract": "Contracte laboral temporal (1 mesos)",
    "date": "2026-11-24",
@@ -1041,19 +1054,6 @@
    "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92328165"
   },
   {
-   "company": "Oficina de Treball del SOC",
-   "contract": "Contracte laboral indefinit",
-   "date": "2026-11-03",
-   "hours": "Jornada completa",
-   "salary": [
-    1340,
-    1340
-   ],
-   "title": "Operari/ària de producció",
-   "town": "RUBÍ",
-   "url": "https://feinaactiva.gencat.cat/search/offers/detail/09202631364"
-  },
-  {
    "company": "360RECURSOS HUMANOS ETT SL",
    "contract": "Contracte laboral temporal (6 mesos)",
    "date": "2026-10-28",
@@ -1278,6 +1278,19 @@
    "title": "Administratiu/iva",
    "town": "RUBÍ",
    "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92325673"
+  },
+  {
+   "company": "Ferronol Servicio Integral S.L.",
+   "contract": "Contracte laboral indefinit",
+   "date": "2026-11-25",
+   "hours": "Jornada completa",
+   "salary": [
+    1500,
+    1550
+   ],
+   "title": "Controladors/es d'accesos",
+   "town": "CERDANYOLA DEL VALLÈS",
+   "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329568"
   },
   {
    "company": "COOPERATIVA DOBLE VIA SCCL",
@@ -1791,5 +1804,5 @@
    "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92326339"
   }
  ],
- "fetched": "2026-11-25T04:08:40+01:00"
+ "fetched": "2026-11-25T17:00:06+01:00"
 }
