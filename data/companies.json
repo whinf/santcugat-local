@@ -2559,40 +2559,6 @@
     "kind": "new",
     "name": "TOVIQ AI S.L.",
     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-144-08"
-   },
-   {
-    "date": "2026-07-28",
-    "id": "2026-07-28-351983-moved_in",
-    "kind": "moved_in",
-    "name": "AUTHOR BORIS S.L.",
-    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-143-08"
-   },
-   {
-    "activity": "Como actividad principal cnae 6202 actividades de consultoria informatica. servicios de consultoria estrategica y…",
-    "capital": 3000.0,
-    "date": "2026-07-28",
-    "id": "2026-07-28-351971-new",
-    "kind": "new",
-    "name": "SYNTHETICWORKS S.L.",
-    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-143-08"
-   },
-   {
-    "activity": "Diseño, desarrollo, implementacion, explotacion, comercializacion de soluciones, sistemas, plataformsa y flujos de…",
-    "capital": 3000.0,
-    "date": "2026-07-28",
-    "id": "2026-07-28-351919-new",
-    "kind": "new",
-    "name": "BABYROCK MINERALS S.L.",
-    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-143-08"
-   },
-   {
-    "activity": "La compraventa, administracion y el arrendamiento no financiero de bienes inmuebles; la compra, suscripcion, permuta…",
-    "capital": 200000.0,
-    "date": "2026-07-28",
-    "id": "2026-07-28-351744-new",
-    "kind": "new",
-    "name": "3030 ACTIVOS S.L.",
-    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-143-08"
    }
   ],
   "known": {
@@ -3621,5 +3587,5 @@
   "last": "2026-11-25",
   "since": "2025-11-20"
  },
- "fetched": "2026-11-25T17:00:06+01:00"
+ "fetched": "2026-11-26T03:24:45+01:00"
 }
