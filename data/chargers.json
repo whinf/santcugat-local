@@ -2,12 +2,57 @@
  "data": [
   {
    "access": "targeta",
+   "address": "Carrer del Danubi, S/N",
+   "lat": "41.4864",
+   "lon": "2.050093",
+   "name": "Hotel Holiday Inn",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
+   "speed": "superRAPID i semiRAPID"
+  },
+  {
+   "access": "tarjeta",
+   "address": "GOLF SANT CUGAT - Carrer de Villà, 79, 08173",
+   "lat": "41.462673",
+   "lon": "2.076862",
+   "name": "EdR Golf Sant Cugat",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
+   "speed": "semiRAPID"
+  },
+  {
+   "access": "targeta",
+   "address": "Plaça de Xavier Cugat, 08174, Barcelona,",
+   "lat": "41.49181",
+   "lon": "2.074652",
+   "name": "C6E06BCC22XNXAJEVF",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
+   "speed": "RAPID i semiRAPID"
+  },
+  {
+   "access": "targeta",
    "address": "GOLF SANT CUGAT - Carrer de Villà, 79, 08173",
    "lat": "41.463177",
    "lon": "2.076185",
    "name": "20XP22T3KK4AL01139",
    "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
    "speed": "semiRAPID"
+  },
+  {
+   "access": "targeta",
+   "address": "Carrer de Ramon Mas",
+   "lat": "41.487064",
+   "lon": "2.065026",
+   "name": "W00054186 - Rafael Martins",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
+   "speed": "semiRAPID"
+  },
+  {
+   "access": "tarjeta",
+   "address": "PdRL Sant Cugat del Vallès: Av. Via Augusta,",
+   "lat": "41.482746",
+   "lon": "2.051307",
+   "name": "EdR Sant Cugat del Vallès",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
+   "speed": "semiRAPID i NORMAL"
   },
   {
    "access": "targeta",
@@ -28,22 +73,94 @@
    "speed": "superRAPID"
   },
   {
-   "access": "VIA PUBLICA (AMB)",
-   "address": "Avinguda de la Via Augusta, 2-14",
-   "lat": "41.48303",
-   "lon": "2.05199",
-   "name": "EdRR Sant Cugat (DC50kW AC43kW) AMB8",
+   "access": "targeta",
+   "address": "Avinguda de la Generalitat, 152",
+   "lat": "41.491356",
+   "lon": "2.050324",
+   "name": "GRIFOLS - SELBA EdRSR 1",
    "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "RAPID i NORMAL"
+   "speed": "semiRAPID"
+  },
+  {
+   "access": "targeta",
+   "address": "Av. de la Via Augusta, 51, 08174 Barcelona,",
+   "lat": "41.4857",
+   "lon": "2.054599",
+   "name": "C6E06BCC21BUHPJGZV",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
+   "speed": "RAPID i semiRAPID"
   },
   {
    "access": "tarjeta",
-   "address": "PdRL Sant Cugat del Vallès: Av. Via Augusta,",
-   "lat": "41.482746",
-   "lon": "2.051307",
-   "name": "EdR Sant Cugat del Vallès",
+   "address": "PdRR Sant Cugat del Vallès: Av. Via Augusta,",
+   "lat": "41.4828",
+   "lon": "2.051367",
+   "name": "EdR Perelada",
    "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "semiRAPID i NORMAL"
+   "speed": "RAPID i semiRAPID"
+  },
+  {
+   "access": "tarjeta",
+   "address": "GOLF SANT CUGAT - Carrer de Villà, 79, 08173",
+   "lat": "41.462673",
+   "lon": "2.076862",
+   "name": "EdR Golf Sant Cugat",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
+   "speed": "semiRAPID"
+  },
+  {
+   "access": "targeta",
+   "address": "PdRR Sant Cugat del Vallès: Av. Via Augusta,",
+   "lat": "41.4828",
+   "lon": "2.051367",
+   "name": "PdRR Sant Cugat del Vallès: Av. Via Augusta, 3 08173 Sant Cugat del Vallès ESP",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
+   "speed": "RAPID i semiRAPID"
+  },
+  {
+   "access": "tarjeta",
+   "address": "TENNIS VALLDOREIX - Carrer Goya, s/n, 08197",
+   "lat": "41.45025",
+   "lon": "2.055897",
+   "name": "EdRR Scugat Tennis Valldoreig (AC-DC50kW)",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
+   "speed": "RAPID i semiRAPID"
+  },
+  {
+   "access": "targeta",
+   "address": "Carretera Rubí a Sant Cugat, 102",
+   "lat": "41.4816",
+   "lon": "2.054772",
+   "name": "Braker Corporation - INGETEAM EdRSR 1",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
+   "speed": "semiRAPID"
+  },
+  {
+   "access": "targeta",
+   "address": "GOLF SANT CUGAT - Carrer de Villà, 79, 08173",
+   "lat": "41.463154",
+   "lon": "2.076231",
+   "name": "20XP22T3KK4AL01141",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
+   "speed": "semiRAPID"
+  },
+  {
+   "access": "targeta",
+   "address": "Av. Lluís Companys i Jover, 31, 08172 Sant",
+   "lat": "41.472565",
+   "lon": "2.079507",
+   "name": "23XC11M2J03DB00135",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
+   "speed": "semiRAPID"
+  },
+  {
+   "access": "targeta",
+   "address": "Av. de la Via Augusta, 51, 08174 Barcelona,",
+   "lat": "41.48568",
+   "lon": "2.054589",
+   "name": "21XP22T3KKJAK00549",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
+   "speed": "semiRAPID"
   },
   {
    "access": "targeta",
@@ -64,13 +181,22 @@
    "speed": "RAPID i semiRAPID"
   },
   {
-   "access": "tarjeta",
-   "address": "GOLF SANT CUGAT - Carrer de Villà, 79, 08173",
-   "lat": "41.462673",
-   "lon": "2.076862",
-   "name": "EdR Golf Sant Cugat",
+   "access": "VIA PUBLICA (AMB)",
+   "address": "Avinguda de la Via Augusta, 2-14",
+   "lat": "41.48303",
+   "lon": "2.05199",
+   "name": "EdRR Sant Cugat (DC50kW AC43kW) AMB8",
    "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "semiRAPID"
+   "speed": "RAPID i NORMAL"
+  },
+  {
+   "access": "targeta",
+   "address": "Avenida Rius I Taulet 137",
+   "lat": "41.477768",
+   "lon": "2.069592",
+   "name": "ES Repris",
+   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
+   "speed": "RAPID i semiRAPID"
   },
   {
    "access": "targeta",
@@ -82,24 +208,6 @@
    "speed": "semiRAPID"
   },
   {
-   "access": "tarjeta",
-   "address": "GOLF SANT CUGAT - Carrer de Villà, 79, 08173",
-   "lat": "41.462673",
-   "lon": "2.076862",
-   "name": "EdR Golf Sant Cugat",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "semiRAPID"
-  },
-  {
-   "access": "targeta",
-   "address": "Carrer de Ramon Mas",
-   "lat": "41.487064",
-   "lon": "2.065026",
-   "name": "W00054186 - Rafael Martins",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "semiRAPID"
-  },
-  {
    "access": "targeta",
    "address": "PdRL Sant Cugat del Vallès: Av. Via Augusta,",
    "lat": "41.482742",
@@ -107,115 +215,7 @@
    "name": "PdRL Sant Cugat del Vallès: Av. Via Augusta, 3 08173 Sant Cugat del Vallès ESP",
    "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
    "speed": "RAPID i semiRAPID"
-  },
-  {
-   "access": "targeta",
-   "address": "Carretera Rubí a Sant Cugat, 102",
-   "lat": "41.4816",
-   "lon": "2.054772",
-   "name": "Braker Corporation - INGETEAM EdRSR 1",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "semiRAPID"
-  },
-  {
-   "access": "targeta",
-   "address": "Av. Lluís Companys i Jover, 31, 08172 Sant",
-   "lat": "41.472565",
-   "lon": "2.079507",
-   "name": "23XC11M2J03DB00135",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "semiRAPID"
-  },
-  {
-   "access": "targeta",
-   "address": "GOLF SANT CUGAT - Carrer de Villà, 79, 08173",
-   "lat": "41.463154",
-   "lon": "2.076231",
-   "name": "20XP22T3KK4AL01141",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "semiRAPID"
-  },
-  {
-   "access": "tarjeta",
-   "address": "TENNIS VALLDOREIX - Carrer Goya, s/n, 08197",
-   "lat": "41.45025",
-   "lon": "2.055897",
-   "name": "EdRR Scugat Tennis Valldoreig (AC-DC50kW)",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "RAPID i semiRAPID"
-  },
-  {
-   "access": "targeta",
-   "address": "Carrer del Danubi, S/N",
-   "lat": "41.4864",
-   "lon": "2.050093",
-   "name": "Hotel Holiday Inn",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "superRAPID i semiRAPID"
-  },
-  {
-   "access": "targeta",
-   "address": "Plaça de Xavier Cugat, 08174, Barcelona,",
-   "lat": "41.49181",
-   "lon": "2.074652",
-   "name": "C6E06BCC22XNXAJEVF",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "RAPID i semiRAPID"
-  },
-  {
-   "access": "targeta",
-   "address": "PdRR Sant Cugat del Vallès: Av. Via Augusta,",
-   "lat": "41.4828",
-   "lon": "2.051367",
-   "name": "PdRR Sant Cugat del Vallès: Av. Via Augusta, 3 08173 Sant Cugat del Vallès ESP",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "RAPID i semiRAPID"
-  },
-  {
-   "access": "targeta",
-   "address": "Av. de la Via Augusta, 51, 08174 Barcelona,",
-   "lat": "41.48568",
-   "lon": "2.054589",
-   "name": "21XP22T3KKJAK00549",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "semiRAPID"
-  },
-  {
-   "access": "tarjeta",
-   "address": "PdRR Sant Cugat del Vallès: Av. Via Augusta,",
-   "lat": "41.4828",
-   "lon": "2.051367",
-   "name": "EdR Perelada",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "RAPID i semiRAPID"
-  },
-  {
-   "access": "targeta",
-   "address": "Av. de la Via Augusta, 51, 08174 Barcelona,",
-   "lat": "41.4857",
-   "lon": "2.054599",
-   "name": "C6E06BCC21BUHPJGZV",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "RAPID i semiRAPID"
-  },
-  {
-   "access": "targeta",
-   "address": "Avinguda de la Generalitat, 152",
-   "lat": "41.491356",
-   "lon": "2.050324",
-   "name": "GRIFOLS - SELBA EdRSR 1",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "semiRAPID"
-  },
-  {
-   "access": "targeta",
-   "address": "Avenida Rius I Taulet 137",
-   "lat": "41.477768",
-   "lon": "2.069592",
-   "name": "ES Repris",
-   "operator": "Institut Català d'Energia - Ajuntament de Sant Cugat del Vallès",
-   "speed": "RAPID i semiRAPID"
   }
  ],
- "fetched": "2026-11-25T17:00:06+01:00"
+ "fetched": "2026-11-26T16:41:37+01:00"
 }

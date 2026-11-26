@@ -2,6 +2,52 @@
  "data": {
   "events": [
    {
+    "date": "2026-11-26",
+    "id": "2026-11-26-534058-moved_in",
+    "kind": "moved_in",
+    "name": "RIELLO SPA SUCURSAL EN ESPAÑA",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-227-08"
+   },
+   {
+    "date": "2026-11-26",
+    "id": "2026-11-26-534024-moved_in",
+    "kind": "moved_in",
+    "name": "VITA VIRTUS S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-227-08"
+   },
+   {
+    "date": "2026-11-26",
+    "id": "2026-11-26-533685-moved_in",
+    "kind": "moved_in",
+    "name": "MEROUA DISTRIBUCION S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-227-08"
+   },
+   {
+    "date": "2026-11-26",
+    "id": "2026-11-26-533657-moved_in",
+    "kind": "moved_in",
+    "name": "WSM DESARROLLO INMOBILIARIO Y FINANCIERO S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-227-08"
+   },
+   {
+    "activity": "Otro comercio al por menor no especializado",
+    "capital": 4000.0,
+    "date": "2026-11-26",
+    "id": "2026-11-26-533634-new",
+    "kind": "new",
+    "name": "CERTIFICADOS Y PROPUESTAS S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-227-08"
+   },
+   {
+    "activity": "Actividades de las agencias de publicidad",
+    "capital": 3000.0,
+    "date": "2026-11-26",
+    "id": "2026-11-26-533617-new",
+    "kind": "new",
+    "name": "RIPOR TECHNOLOGIES S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-227-08"
+   },
+   {
     "capital": 240000.0,
     "date": "2026-11-25",
     "id": "2026-11-25-531889-capital",
@@ -2626,6 +2672,7 @@
    "B 367099": "SPINE & BRAIN IMPLANTS SL",
    "B 378707": "EMES SERVICIOS 2009 SL",
    "B 379702": "MUSACO TECNOLOGIA I AIGUA SL",
+   "B 384468": "RIELLO SPA SUCURSAL EN ESPAÑA",
    "B 386138": "SOLER FINQUES SANT CUGAT SL",
    "B 389716": "KABINET SOLUCIONES INFORMATICAS SL",
    "B 389952": "ECONTROL PROCESS SOLUTIONS SPAIN S.L.",
@@ -2661,6 +2708,7 @@
    "B 445355": "DIXEL TRADE SL",
    "B 449980": "IBSEN COMUNICACION SL",
    "B 451338": "CUADRENSER SL",
+   "B 451831": "VITA VIRTUS S.L.",
    "B 453528": "SERMOLDES SL",
    "B 454011": "IBERIA SPORTS CAMPS SL",
    "B 456103": "FA DIGITAL LAW & MEDIA SERVICES SL",
@@ -2691,6 +2739,7 @@
    "B 50519": "GRANSANI SL",
    "B 505265": "VIDEVISE 08 S.L.",
    "B 508314": "CUTTING-EDGE EVENTS S.L.",
+   "B 509988": "WSM DESARROLLO INMOBILIARIO Y FINANCIERO S.L.",
    "B 512526": "GT MARKETING&INDUSTRIES S.L.",
    "B 51282": "CENTRO DE ANALISIS Y DISEÑO TEXTIL SA",
    "B 514410": "DUUNVIRATO CONSULTING S.L.",
@@ -2746,6 +2795,7 @@
    "B 566164": "ASSETS ELIAN 23 S.L.",
    "B 566613": "KANGURO DELIVERY S.L.",
    "B 566665": "TAMDREAM S.L.",
+   "B 568338": "MEROUA DISTRIBUCION S.L.",
    "B 569313": "ALT3 PISCINAS Y SPAS S.L.",
    "B 569461": "OPENTECA S.L.",
    "B 570482": "GNR VENTURES S.L.",
@@ -3580,12 +3630,14 @@
    "B 666903": "HOSPITALITY MOTORSPORT S.L.",
    "B 666961": "GRMT SOFTWARE AND CONSULTING S.L.",
    "B 667115": "KHURRAM ALIMENTACION S.L.",
+   "B 667195": "RIPOR TECHNOLOGIES S.L.",
+   "B 667218": "CERTIFICADOS Y PROPUESTAS S.L.",
    "B 668868": "CREA NOVA 2026 S.L.",
    "B 80853": "ESTUDIOS Y PROYECTOS GRAU SL",
    "B 96774": "EURO IMPLEMENTOS SL"
   },
-  "last": "2026-11-25",
+  "last": "2026-11-26",
   "since": "2025-11-20"
  },
- "fetched": "2026-11-26T03:24:45+01:00"
+ "fetched": "2026-11-26T16:41:37+01:00"
 }

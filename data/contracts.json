@@ -1,6 +1,60 @@
 {
  "data": [
   {
+   "amount": 24700.0,
+   "date": "2026-11-25",
+   "deadline": "2026-09-08T12:00",
+   "id": "46616380/17_281_2026",
+   "lots": 0,
+   "organ": "EPEL Cugat.cat",
+   "phase": "Anul·lació",
+   "title": "Servei de direcció creativa, disseny gràfic i conceptualització de projectes de comunicació de cugat mèdia",
+   "type": "Serveis",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/7fb8bcd0-b151-472a-8019-3aa4a43e3f13/300947939",
+   "winners": []
+  },
+  {
+   "amount": 91612.28,
+   "date": "2026-11-25",
+   "deadline": "2026-06-04T12:00",
+   "id": "3045974/5929/2026",
+   "lots": 0,
+   "organ": "Ajuntament de Sant Cugat del Vallès",
+   "phase": "Formalització",
+   "title": "Inspecció i noves instal·lacions de sistemes contra-caigudes",
+   "type": "Serveis",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/8a89417b-8a87-4156-a258-422426d5cf28/300950291",
+   "winners": [
+    "ITURRI S.A."
+   ]
+  },
+  {
+   "amount": 190279.05,
+   "date": "2026-11-25",
+   "deadline": "2026-11-05T12:00",
+   "id": "3045974/31726/2026",
+   "lots": 0,
+   "organ": "Ajuntament de Sant Cugat del Vallès",
+   "phase": "Expedient en avaluació",
+   "title": "Contracte d’obres d'adequació de la pista poliesportiva descoberta a la ZEM Sant Francesc",
+   "type": "Obres",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/1123ad76-5b55-491b-be75-a59686f3ab27/300950398",
+   "winners": []
+  },
+  {
+   "amount": 219150.82,
+   "date": "2026-11-25",
+   "deadline": "2027-01-27T12:00",
+   "id": "202231/CU-2027-26",
+   "lots": 2,
+   "organ": "Departament de Cultura",
+   "phase": "Anunci de licitació",
+   "title": "Trabajos de digitalización sobre la documentación de varios fondos documentales del Archivo Nacional de Cataluña a realizar durante el 2027",
+   "type": "Serveis",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/09259ccf-ff06-4dd7-9dc5-8b33cb1626c2/300948165",
+   "winners": []
+  },
+  {
    "amount": 120000.0,
    "date": "2026-11-24",
    "deadline": "2026-10-20T13:00",
@@ -50,19 +104,6 @@
    "title": "Contracte d’obres del “PROJECTE DE MÒDULS PROVISIONALS PER A L’ESCOLA DE MÚSICA DE L’EMD DE VALLDOREIX”",
    "type": "Obres",
    "url": "https://contractaciopublica.cat/ca/detall-publicacio/0fb6fe16-1ec4-47e0-aea8-c5b75bc756fc/300948592",
-   "winners": []
-  },
-  {
-   "amount": 24700.0,
-   "date": "2026-11-23",
-   "deadline": "2026-09-08T12:00",
-   "id": "46616380/17_281_2026",
-   "lots": 0,
-   "organ": "EPEL Cugat.cat",
-   "phase": "Expedient en avaluació",
-   "title": "Servei de direcció creativa, disseny gràfic i conceptualització de projectes de comunicació de cugat mèdia",
-   "type": "Serveis",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/7fb8bcd0-b151-472a-8019-3aa4a43e3f13/300947930",
    "winners": []
   },
   {
@@ -524,19 +565,6 @@
    ]
   },
   {
-   "amount": 190279.05,
-   "date": "2026-11-06",
-   "deadline": "2026-11-05T12:00",
-   "id": "3045974/31726/2026",
-   "lots": 0,
-   "organ": "Ajuntament de Sant Cugat del Vallès",
-   "phase": "Expedient en avaluació",
-   "title": "Contracte d’obres d'adequació de la pista poliesportiva descoberta a la ZEM Sant Francesc",
-   "type": "Obres",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/1123ad76-5b55-491b-be75-a59686f3ab27/300930975",
-   "winners": []
-  },
-  {
    "amount": 35340.0,
    "date": "2026-11-06",
    "deadline": "2026-07-30T12:00",
@@ -968,21 +996,6 @@
    "url": "https://contractaciopublica.cat/ca/detall-publicacio/c5914e55-02da-4aea-9877-bc57521ea54a/300914701",
    "winners": [
     "Orona S. Coop."
-   ]
-  },
-  {
-   "amount": 91612.28,
-   "date": "2026-10-21",
-   "deadline": "2026-06-04T12:00",
-   "id": "3045974/5929/2026",
-   "lots": 0,
-   "organ": "Ajuntament de Sant Cugat del Vallès",
-   "phase": "Adjudicació",
-   "title": "Inspecció i noves instal·lacions de sistemes contra-caigudes",
-   "type": "Serveis",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/8a89417b-8a87-4156-a258-422426d5cf28/300914970",
-   "winners": [
-    "ITURRI S.A."
    ]
   },
   {
@@ -5272,5 +5285,5 @@
    "winners": []
   }
  ],
- "fetched": "2026-11-26T03:24:45+01:00"
+ "fetched": "2026-11-26T16:41:37+01:00"
 }

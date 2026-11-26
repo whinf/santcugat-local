@@ -3,6 +3,19 @@
   {
    "company": "Oficina de Treball del SOC",
    "contract": "Contracte laboral indefinit",
+   "date": "2026-11-26",
+   "hours": "Jornada completa",
+   "salary": [
+    1807,
+    1807
+   ],
+   "title": "Digital operations specialist_33061",
+   "town": "SANT CUGAT DEL VALLÈS",
+   "url": "https://feinaactiva.gencat.cat/search/offers/detail/09202633061"
+  },
+  {
+   "company": "Oficina de Treball del SOC",
+   "contract": "Contracte laboral indefinit",
    "date": "2026-11-24",
    "hours": "Jornada completa",
    "salary": [
@@ -561,6 +574,19 @@
    "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92325911"
   },
   {
+   "company": "AJUNTAMENT DE RUBI",
+   "contract": "Contracte laboral temporal (3 mesos)",
+   "date": "2026-11-26",
+   "hours": "Jornada completa",
+   "salary": [
+    1424,
+    1424
+   ],
+   "title": "Personal repartidor/a de llenya (codi: 7749)",
+   "town": "RUBÍ",
+   "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329698"
+  },
+  {
    "company": "ETT",
    "contract": "Contracte laboral temporal (6 mesos)",
    "date": "2026-11-25",
@@ -636,19 +662,6 @@
    "title": "Operario/a del metal",
    "town": "RUBÍ",
    "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329224"
-  },
-  {
-   "company": "Oficina de Treball del SOC",
-   "contract": "Contracte laboral indefinit",
-   "date": "2026-11-19",
-   "hours": "Jornada completa",
-   "salary": [
-    2221,
-    2221
-   ],
-   "title": "Conductors/es d'autobomba de formigó",
-   "town": "RUBÍ",
-   "url": "https://feinaactiva.gencat.cat/search/offers/detail/09202632494"
   },
   {
    "company": "360RECURSOS HUMANOS ETT SL",
@@ -1267,6 +1280,19 @@
    "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92325673"
   },
   {
+   "company": "Radan Desinfecciones Técnicas SL",
+   "contract": "Contracte laboral indefinit",
+   "date": "2026-11-26",
+   "hours": "Jornada completa",
+   "salary": [
+    1350,
+    1450
+   ],
+   "title": "Tècnic/a en control de plagues",
+   "town": "CERDANYOLA DEL VALLÈS",
+   "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329746"
+  },
+  {
    "company": "Ferronol Servicio Integral S.L.",
    "contract": "Contracte laboral indefinit",
    "date": "2026-11-25",
@@ -1395,19 +1421,6 @@
    "title": "Atenció al client",
    "town": "CERDANYOLA DEL VALLÈS",
    "url": "https://feinaactiva.gencat.cat/search/offers/detail/09202632359"
-  },
-  {
-   "company": "Talher, S.A.",
-   "contract": "Contracte laboral temporal (12 mesos)",
-   "date": "2026-11-13",
-   "hours": "Jornada completa",
-   "salary": [
-    1216,
-    1217
-   ],
-   "title": "Netejador/a. cerdanyola del vallès",
-   "town": "CERDANYOLA DEL VALLÈS",
-   "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92328826"
   },
   {
    "company": "Personal",
@@ -1605,19 +1618,6 @@
    "url": "https://feinaactiva.gencat.cat/search/offers/detail/09202630614"
   },
   {
-   "company": "Oficina de Treball del SOC",
-   "contract": "Contracte laboral indefinit",
-   "date": "2026-10-20",
-   "hours": "Jornada completa",
-   "salary": [
-    1500,
-    1500
-   ],
-   "title": "Tècnic/a manteniment d'edificis (ref. 30685)",
-   "town": "CERDANYOLA DEL VALLÈS",
-   "url": "https://feinaactiva.gencat.cat/search/offers/detail/09202630685"
-  },
-  {
    "company": "EMPRESA DE SERVICIOS",
    "contract": "Contracte laboral indefinit",
    "date": "2026-10-19",
@@ -1791,5 +1791,5 @@
    "url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92326339"
   }
  ],
- "fetched": "2026-11-26T03:24:45+01:00"
+ "fetched": "2026-11-26T16:41:37+01:00"
 }

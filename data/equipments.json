@@ -2414,8 +2414,8 @@
    "address": "Avinguda de l'Alcalde Barnils, 3-5",
    "cat": "",
    "cp": "08174",
-   "lat": "41.485425172",
-   "lon": "2.077967623",
+   "lat": "41.4818382263184",
+   "lon": "2.07992339134216",
    "name": "Centre d'Alt Rendiment Esportiu de Sant Cugat del Vallès (CAR)",
    "phone": "93 589 15 72",
    "sub": ""
@@ -2424,12 +2424,12 @@
    "address": "Avinguda de la Via Augusta, 71-73 Edifici Sant Cugat II. 1a. planta",
    "cat": "",
    "cp": "08174",
-   "lat": "41.4870786704861",
-   "lon": "2.05711270004453",
+   "lat": "41.4868927001953",
+   "lon": "2.05723810195923",
    "name": "Regió Sanitària Barcelona Metropolitana Nord",
    "phone": "93 551 57 00",
    "sub": ""
   }
  ],
- "fetched": "2026-11-25T17:00:06+01:00"
+ "fetched": "2026-11-26T16:41:37+01:00"
 }

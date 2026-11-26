@@ -7,7 +7,7 @@
     "published": "2026-09-25",
     "short": false,
     "title": "Ple Municipal Setembre",
-    "views": 1290
+    "views": 1292
    },
    {
     "channel": "teatre-auditori",
@@ -23,7 +23,7 @@
     "published": "2026-10-30",
     "short": false,
     "title": "Ple Municipal Octubre",
-    "views": 917
+    "views": 918
    },
    {
     "channel": "ajuntament",
@@ -39,7 +39,7 @@
     "published": "2026-09-29",
     "short": false,
     "title": "The Book of Mormon",
-    "views": 338
+    "views": 339
    },
    {
     "channel": "ajuntament",
@@ -47,7 +47,7 @@
     "published": "2026-10-27",
     "short": false,
     "title": "Ple Extraordinari Fill predilecte Octavi Galceran",
-    "views": 249
+    "views": 250
    },
    {
     "channel": "ajuntament",
@@ -71,7 +71,7 @@
     "published": "2026-11-24",
     "short": false,
     "title": "Maria Antònia Coscollola, titular del Jutjat d’Instrucció nº 24 de Barcelona",
-    "views": 126
+    "views": 149
    },
    {
     "channel": "car",
@@ -87,7 +87,7 @@
     "published": "2026-10-05",
     "short": false,
     "title": "Transformació Operativa de l'Administració",
-    "views": 76
+    "views": 79
    },
    {
     "channel": "teatre-auditori",
@@ -143,7 +143,7 @@
     "published": "2026-11-17",
     "short": false,
     "title": "Sant Cugat reforça la seva presència al 4YFN (MWC) 2027",
-    "views": 40
+    "views": 41
    },
    {
     "channel": "car",
@@ -202,6 +202,14 @@
     "views": 33
    },
    {
+    "channel": "ajuntament",
+    "id": "sIdPMNjJCVQ",
+    "published": "2026-10-05",
+    "short": false,
+    "title": "Bessó Digital del Pi d'en Xandri",
+    "views": 33
+   },
+   {
     "channel": "car",
     "id": "wrTm1cFBY2M",
     "published": "2026-01-28",
@@ -218,27 +226,11 @@
     "views": 32
    },
    {
-    "channel": "ajuntament",
-    "id": "sIdPMNjJCVQ",
-    "published": "2026-10-05",
-    "short": false,
-    "title": "Bessó Digital del Pi d'en Xandri",
-    "views": 32
-   },
-   {
     "channel": "car",
     "id": "BFip8q5ey44",
     "published": "2026-01-28",
     "short": true,
     "title": "28 de enero de 2026",
-    "views": 29
-   },
-   {
-    "channel": "cugat-media",
-    "id": "YFgqhcg0rak",
-    "published": "2026-11-19",
-    "short": false,
-    "title": "Les notícies del 19 de novembre",
     "views": 29
    },
    {
@@ -250,6 +242,14 @@
     "views": 28
    },
    {
+    "channel": "cugat-media",
+    "id": "xLDtJbPfUZc",
+    "published": "2026-11-25",
+    "short": false,
+    "title": "Les notícies del 25 de novembre",
+    "views": 28
+   },
+   {
     "channel": "car",
     "id": "kcvhk8xmWCU",
     "published": "2026-01-28",
@@ -258,12 +258,12 @@
     "views": 26
    },
    {
-    "channel": "cugat-media",
-    "id": "xLDtJbPfUZc",
-    "published": "2026-11-25",
+    "channel": "ajuntament",
+    "id": "Xqa5RZG32nM",
+    "published": "2026-11-16",
     "short": false,
-    "title": "Les notícies del 25 de novembre",
-    "views": 26
+    "title": "El Tech Spirit BIVA reuneix a Sant Cugat més de 250 professionals del sector tecnològic i innovador",
+    "views": 25
    },
    {
     "channel": "cugat-media",
@@ -272,14 +272,6 @@
     "short": true,
     "title": "Suspès per “inferioritat física” el Rugby Sant Cugat-Burgos amb un 0-134 en 41 minuts",
     "views": 25
-   },
-   {
-    "channel": "ajuntament",
-    "id": "Xqa5RZG32nM",
-    "published": "2026-11-16",
-    "short": false,
-    "title": "El Tech Spirit BIVA reuneix a Sant Cugat més de 250 professionals del sector tecnològic i innovador",
-    "views": 24
    },
    {
     "channel": "cugat-media",
@@ -311,7 +303,7 @@
     "published": "2026-11-18",
     "short": false,
     "title": "Et vas perdre el BIVA Talent Day 2026?",
-    "views": 12
+    "views": 16
    },
    {
     "channel": "cugat-media",
@@ -367,7 +359,7 @@
     "published": "2026-11-25",
     "short": true,
     "title": "Què podem fer com a societat per combatre les violències masclistes?",
-    "views": 3
+    "views": 4
    },
    {
     "channel": "cugat-media",
@@ -375,7 +367,15 @@
     "published": "2026-11-25",
     "short": true,
     "title": "El dret a l'habitatge com a condició d'una vida digna per a les dones",
-    "views": 2
+    "views": 3
+   },
+   {
+    "channel": "cugat-media",
+    "id": "wgyy-690pVU",
+    "published": "2026-11-26",
+    "short": false,
+    "title": "Les notícies del 26 de novembre",
+    "views": 3
    },
    {
     "channel": "cugat-media",
@@ -395,5 +395,5 @@
    }
   ]
  },
- "fetched": "2026-11-26T03:24:45+01:00"
+ "fetched": "2026-11-26T16:41:37+01:00"
 }
