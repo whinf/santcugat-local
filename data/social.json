@@ -7,7 +7,7 @@
     "published": "2026-09-25",
     "short": false,
     "title": "Ple Municipal Setembre",
-    "views": 1294
+    "views": 1303
    },
    {
     "channel": "teatre-auditori",
@@ -23,7 +23,7 @@
     "published": "2026-10-30",
     "short": false,
     "title": "Ple Municipal Octubre",
-    "views": 921
+    "views": 922
    },
    {
     "channel": "ajuntament",
@@ -31,7 +31,15 @@
     "published": "2026-10-31",
     "short": false,
     "title": "Audiència pública del ple d'octubre de 2026",
-    "views": 414
+    "views": 415
+   },
+   {
+    "channel": "ajuntament",
+    "id": "9K5yNh6XV4I",
+    "published": "2026-11-26",
+    "short": false,
+    "title": "Ple Novembre",
+    "views": 343
    },
    {
     "channel": "teatre-auditori",
@@ -58,20 +66,20 @@
     "views": 236
    },
    {
-    "channel": "ajuntament",
-    "id": "_HlckF1scgs",
-    "published": "2026-09-14",
-    "short": true,
-    "title": "Sant Cugat celebra la Setmana Europea de la Mobilitat",
-    "views": 212
-   },
-   {
     "channel": "cugat-media",
     "id": "C-Caf2-jfZQ",
     "published": "2026-11-24",
     "short": false,
     "title": "Maria Antònia Coscollola, titular del Jutjat d’Instrucció nº 24 de Barcelona",
-    "views": 168
+    "views": 171
+   },
+   {
+    "channel": "ajuntament",
+    "id": "KrxL4U0yz9Y",
+    "published": "2026-11-27",
+    "short": false,
+    "title": "Ple Extraordinari",
+    "views": 102
    },
    {
     "channel": "car",
@@ -87,15 +95,7 @@
     "published": "2026-10-05",
     "short": false,
     "title": "Transformació Operativa de l'Administració",
-    "views": 79
-   },
-   {
-    "channel": "ajuntament",
-    "id": "KrxL4U0yz9Y",
-    "published": "2026-11-23",
-    "short": false,
-    "title": "Ple Extraordinari",
-    "views": 67
+    "views": 80
    },
    {
     "channel": "teatre-auditori",
@@ -194,19 +194,19 @@
     "views": 34
    },
    {
-    "channel": "teatre-auditori",
-    "id": "IPpB4KXm194",
-    "published": "2026-11-26",
-    "short": false,
-    "title": "Observin aquests fills de puta",
-    "views": 33
-   },
-   {
     "channel": "ajuntament",
     "id": "sIdPMNjJCVQ",
     "published": "2026-10-05",
     "short": false,
     "title": "Bessó Digital del Pi d'en Xandri",
+    "views": 34
+   },
+   {
+    "channel": "teatre-auditori",
+    "id": "IPpB4KXm194",
+    "published": "2026-11-26",
+    "short": false,
+    "title": "Observin aquests fills de puta",
     "views": 33
    },
    {
@@ -275,18 +275,18 @@
    },
    {
     "channel": "cugat-media",
-    "id": "iqmrSN1eCMs",
-    "published": "2026-11-20",
-    "short": false,
-    "title": "L'agenda de cap de setmana de Cugat Mèdia",
-    "views": 23
-   },
-   {
-    "channel": "cugat-media",
     "id": "oleSk9mlBQs",
     "published": "2026-11-24",
     "short": false,
     "title": "Les notícies del 24 de novembre",
+    "views": 24
+   },
+   {
+    "channel": "cugat-media",
+    "id": "iqmrSN1eCMs",
+    "published": "2026-11-20",
+    "short": false,
+    "title": "L'agenda de cap de setmana de Cugat Mèdia",
     "views": 23
    },
    {
@@ -323,11 +323,11 @@
    },
    {
     "channel": "cugat-media",
-    "id": "zk0iAi43-K4",
-    "published": "2026-11-19",
-    "short": true,
-    "title": "Cristina Arróniz: \"Encara hi ha empresaris que prefereixen no contractar dones en edat fèrtil\"",
-    "views": 9
+    "id": "GQSdLfeItOw",
+    "published": "2026-11-27",
+    "short": false,
+    "title": "L'agenda del cap de setmana a Sant Cugat",
+    "views": 8
    },
    {
     "channel": "cugat-media",
@@ -336,6 +336,14 @@
     "short": false,
     "title": "Les notícies del 23 de novembre",
     "views": 7
+   },
+   {
+    "channel": "ajuntament",
+    "id": "zhbM_t68teA",
+    "published": "2026-11-27",
+    "short": false,
+    "title": "Sant Cugat del Vallès",
+    "views": 6
    },
    {
     "channel": "cugat-media",
@@ -375,7 +383,7 @@
     "published": "2026-11-26",
     "short": false,
     "title": "Les notícies del 26 de novembre",
-    "views": 3
+    "views": 4
    },
    {
     "channel": "cugat-media",
@@ -384,16 +392,8 @@
     "short": true,
     "title": "El vi català: entre la tradició i els nous hàbits de consum",
     "views": 1
-   },
-   {
-    "channel": "ajuntament",
-    "id": "9K5yNh6XV4I",
-    "published": "2026-11-26",
-    "short": false,
-    "title": "Ple Novembre",
-    "views": 0
    }
   ]
  },
- "fetched": "2026-11-27T03:22:34+01:00"
+ "fetched": "2026-11-27T16:30:11+01:00"
 }

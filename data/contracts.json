@@ -1,6 +1,60 @@
 {
  "data": [
   {
+   "amount": 59859.47,
+   "date": "2026-11-26",
+   "deadline": "2026-12-14T12:00",
+   "id": "41781016/45963/2026",
+   "lots": 0,
+   "organ": "Organisme Autònom Municipal Centre Cultural Sant Cugat",
+   "phase": "Anunci de licitació",
+   "title": "Serveis de neteja de les instal·lacions de l'Organisme Autònom Municipal Centre Cultural Sant Cugat (OAMCCSC)",
+   "type": "Serveis",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/1bf99533-f481-4076-b0b7-a17e0e59ad93/300952507",
+   "winners": []
+  },
+  {
+   "amount": 3960.0,
+   "date": "2026-11-26",
+   "deadline": "2026-09-21T14:00",
+   "id": "38590493/5596/2026",
+   "lots": 0,
+   "organ": "SPM Promocions Municipals de Sant Cugat del Vallès, SA (PROMUSA)",
+   "phase": "Adjudicació",
+   "title": "Servei control plagues aparcament monestir",
+   "type": "Serveis",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/f267e3c4-cafc-443a-a10f-147d49d1468e/300952294",
+   "winners": [
+    "XploraPlagas S.L."
+   ]
+  },
+  {
+   "amount": 190279.05,
+   "date": "2026-11-26",
+   "deadline": "2026-11-05T12:00",
+   "id": "3045974/31726/2026",
+   "lots": 0,
+   "organ": "Ajuntament de Sant Cugat del Vallès",
+   "phase": "Expedient en avaluació",
+   "title": "Contracte d’obres d'adequació de la pista poliesportiva descoberta a la ZEM Sant Francesc",
+   "type": "Obres",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/1123ad76-5b55-491b-be75-a59686f3ab27/300952107",
+   "winners": []
+  },
+  {
+   "amount": 42114.05,
+   "date": "2026-11-26",
+   "deadline": "2026-10-07T12:00",
+   "id": "3045974/17077/2026",
+   "lots": 0,
+   "organ": "Ajuntament de Sant Cugat del Vallès",
+   "phase": "Expedient en avaluació",
+   "title": "Servei de comunicacions unificades de l'Ajuntament",
+   "type": "Serveis",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/0e3efd96-62ca-454c-b5fb-d53d04ca22c5/300952282",
+   "winners": []
+  },
+  {
    "amount": 24700.0,
    "date": "2026-11-25",
    "deadline": "2026-09-08T12:00",
@@ -27,19 +81,6 @@
    "winners": [
     "ITURRI S.A."
    ]
-  },
-  {
-   "amount": 190279.05,
-   "date": "2026-11-25",
-   "deadline": "2026-11-05T12:00",
-   "id": "3045974/31726/2026",
-   "lots": 0,
-   "organ": "Ajuntament de Sant Cugat del Vallès",
-   "phase": "Expedient en avaluació",
-   "title": "Contracte d’obres d'adequació de la pista poliesportiva descoberta a la ZEM Sant Francesc",
-   "type": "Obres",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/1123ad76-5b55-491b-be75-a59686f3ab27/300950398",
-   "winners": []
   },
   {
    "amount": 219150.82,
@@ -143,19 +184,6 @@
    "title": "Projecte educadors/es de carrer",
    "type": "Serveis",
    "url": "https://contractaciopublica.cat/ca/detall-publicacio/809e6939-3303-4808-b507-750cdfbc6868/300946884",
-   "winners": []
-  },
-  {
-   "amount": 42114.05,
-   "date": "2026-11-23",
-   "deadline": "2026-10-07T12:00",
-   "id": "3045974/17077/2026",
-   "lots": 0,
-   "organ": "Ajuntament de Sant Cugat del Vallès",
-   "phase": "Expedient en avaluació",
-   "title": "Servei de comunicacions unificades de l'Ajuntament",
-   "type": "Serveis",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/0e3efd96-62ca-454c-b5fb-d53d04ca22c5/300947042",
    "winners": []
   },
   {
@@ -381,8 +409,8 @@
    "winners": [
     "INFOBIBLIOTECAS S.L.",
     "BIBLIO ALIBRI SL",
-    "RACÓ DEL LLIBRE SL",
-    "DISTRIASVY S.L."
+    "DISTRIASVY S.L.",
+    "RACÓ DEL LLIBRE SL"
    ]
   },
   {
@@ -765,8 +793,8 @@
    "url": "https://contractaciopublica.cat/ca/detall-publicacio/a26d8d9b-d081-4260-9307-14b416350d12/300691903",
    "winners": [
     "PREZERO ESPAÑA, S.A.U.",
-    "TALHER, S.A.",
     "FUNDACIÓ PRIVADA PER LA INCLUSIÓ LABORAL ÀURIA",
+    "TALHER, S.A.",
     "AMBITEC SERVICIOS AMBIENTALES SAU"
    ]
   },
@@ -926,19 +954,6 @@
    "winners": [
     "BARCINO GRUP OBRES I SERVEIS SL"
    ]
-  },
-  {
-   "amount": 6000.0,
-   "date": "2026-10-22",
-   "deadline": "2026-09-21T14:00",
-   "id": "38590493/5596/2026",
-   "lots": 0,
-   "organ": "SPM Promocions Municipals de Sant Cugat del Vallès, SA (PROMUSA)",
-   "phase": "Expedient en avaluació",
-   "title": "Servei control plagues aparcament monestir",
-   "type": "Serveis",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/f267e3c4-cafc-443a-a10f-147d49d1468e/300915931",
-   "winners": []
   },
   {
    "amount": 8169.32,
@@ -5285,5 +5300,5 @@
    "winners": []
   }
  ],
- "fetched": "2026-11-27T03:22:34+01:00"
+ "fetched": "2026-11-27T16:30:11+01:00"
 }

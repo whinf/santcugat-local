@@ -2,6 +2,31 @@
  "data": {
   "events": [
    {
+    "date": "2026-11-27",
+    "id": "2026-11-27-536737-moved_in",
+    "kind": "moved_in",
+    "name": "BACHMANN SA",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-228-08"
+   },
+   {
+    "activity": "La construccion informatica, planificacion, diseño, coordinacion, integracion, implantacion, gestion, soporte y…",
+    "capital": 3006.0,
+    "date": "2026-11-27",
+    "id": "2026-11-27-536603-new",
+    "kind": "new",
+    "name": "SMARTFLOW MOBILITY S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-228-08"
+   },
+   {
+    "activity": "Compraventa de bienes inmobiliarios por cuenta propia",
+    "capital": 3000.0,
+    "date": "2026-11-27",
+    "id": "2026-11-27-536472-new",
+    "kind": "new",
+    "name": "NEXALU GLOBAL S.L.",
+    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-228-08"
+   },
+   {
     "date": "2026-11-26",
     "id": "2026-11-26-534058-moved_in",
     "kind": "moved_in",
@@ -2589,22 +2614,6 @@
     "kind": "new",
     "name": "HOSO CAPITAL PARTNERS S.L.",
     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-145-08"
-   },
-   {
-    "date": "2026-07-29",
-    "id": "2026-07-29-354026-moved_in",
-    "kind": "moved_in",
-    "name": "GOBELIN PROJECTES SL",
-    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-144-08"
-   },
-   {
-    "activity": "Diseño, desarrollo, comercializacion, concesion de licencias, distribucion y explotacion de programas informaticos…",
-    "capital": 10000.0,
-    "date": "2026-07-29",
-    "id": "2026-07-29-354001-new",
-    "kind": "new",
-    "name": "TOVIQ AI S.L.",
-    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-144-08"
    }
   ],
   "known": {
@@ -2626,6 +2635,7 @@
    "B 19720": "2005 INVERECO SL",
    "B 199965": "BLACK SHEEP SL",
    "B 203155": "RIC SOLUTIONS, S.L.",
+   "B 204583": "BACHMANN SA",
    "B 211277": "EDIT ECONOMISTES CONSULTORS SLP",
    "B 214756": "AVANRED SL",
    "B 218722": "MAVIL 94 SL",
@@ -3631,13 +3641,15 @@
    "B 666961": "GRMT SOFTWARE AND CONSULTING S.L.",
    "B 667115": "KHURRAM ALIMENTACION S.L.",
    "B 667195": "RIPOR TECHNOLOGIES S.L.",
+   "B 667204": "SMARTFLOW MOBILITY S.L.",
    "B 667218": "CERTIFICADOS Y PROPUESTAS S.L.",
+   "B 667230": "NEXALU GLOBAL S.L.",
    "B 668868": "CREA NOVA 2026 S.L.",
    "B 80853": "ESTUDIOS Y PROYECTOS GRAU SL",
    "B 96774": "EURO IMPLEMENTOS SL"
   },
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "since": "2025-11-20"
  },
- "fetched": "2026-11-26T16:41:37+01:00"
+ "fetched": "2026-11-27T16:30:11+01:00"
 }

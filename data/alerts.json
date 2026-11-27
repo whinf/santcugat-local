@@ -1,4 +1,23 @@
 {
- "data": [],
- "fetched": "2026-11-27T03:22:34+01:00"
+ "data": [
+  {
+   "lines": [
+    "R8"
+   ],
+   "text": {
+    "ca": "Un cop resolta la incidència a la infraestructura entre Sitges i Vilanova i la Geltrú, els trens recuperen progressivament les freqüències de pas habituals, tot i que poden mantenir demores superiors als 15 minuts de mitjana.",
+    "es": "Una vez resuelta la incidencia en la infraestructura entre Sitges y Vilanova i la Geltrú, los trenes recuperan progresivamente sus frecuencias de paso habituales, aunque pueden mantener demoras superiores a 15 minutos de media."
+   }
+  },
+  {
+   "lines": [
+    "R8"
+   ],
+   "text": {
+    "ca": "Un cop resolta la incidència a la infraestructura entre Sitges i Vilanova i la Geltrú, els trens recuperen progressivament les freqüències de pas habituals.",
+    "es": "Una vez resuelta la incidencia en la infraestructura entre Sitges y Vilanova i la Geltrú, los trenes recuperan progresivamente sus frecuencias de paso habituales."
+   }
+  }
+ ],
+ "fetched": "2026-11-27T16:30:11+01:00"
 }
