@@ -41,7 +41,7 @@
    },
    "878606": {
     "budget": 47775000,
-    "checked": "2026-11-21",
+    "checked": "2026-11-28",
     "end": "2026-12-31",
     "id": "878606",
     "level": "ESTADO",
@@ -95,7 +95,7 @@
    },
    "882964": {
     "budget": 8388600,
-    "checked": "2026-11-21",
+    "checked": "2026-11-28",
     "end": "2026-12-31",
     "id": "882964",
     "level": "ESTADO",
@@ -113,7 +113,7 @@
    },
    "882970": {
     "budget": 5000000,
-    "checked": "2026-11-21",
+    "checked": "2026-11-28",
     "end": "2026-12-31",
     "id": "882970",
     "level": "ESTADO",
@@ -365,7 +365,7 @@
    },
    "883316": {
     "budget": 4275000,
-    "checked": "2026-11-21",
+    "checked": "2026-11-28",
     "end": "2028-04-01",
     "id": "883316",
     "level": "ESTADO",
@@ -383,7 +383,7 @@
    },
    "883323": {
     "budget": 135000,
-    "checked": "2026-11-21",
+    "checked": "2026-11-28",
     "end": "2028-04-01",
     "id": "883323",
     "level": "ESTADO",
@@ -401,7 +401,7 @@
    },
    "883338": {
     "budget": 90000,
-    "checked": "2026-11-21",
+    "checked": "2026-11-28",
     "end": "2028-04-01",
     "id": "883338",
     "level": "ESTADO",
@@ -563,7 +563,7 @@
    },
    "886334": {
     "budget": 315000000,
-    "checked": "2026-11-21",
+    "checked": "2026-11-28",
     "end": "2027-07-31",
     "id": "886334",
     "level": "ESTADO",
@@ -617,7 +617,7 @@
    },
    "888922": {
     "budget": 280000000,
-    "checked": "2026-11-21",
+    "checked": "2026-11-28",
     "end": "2029-04-01",
     "id": "888922",
     "level": "ESTADO",
@@ -709,7 +709,7 @@
    },
    "890274": {
     "budget": 300000000,
-    "checked": "2026-11-21",
+    "checked": "2026-11-28",
     "end": "2026-12-31",
     "id": "890274",
     "level": "ESTADO",
@@ -727,7 +727,7 @@
    },
    "890279": {
     "budget": 115000000,
-    "checked": "2026-11-21",
+    "checked": "2026-11-28",
     "end": "2026-12-31",
     "id": "890279",
     "level": "ESTADO",
@@ -745,7 +745,7 @@
    },
    "890282": {
     "budget": 50000000,
-    "checked": "2026-11-21",
+    "checked": "2026-11-28",
     "end": "2026-12-31",
     "id": "890282",
     "level": "ESTADO",
@@ -763,7 +763,7 @@
    },
    "890285": {
     "budget": 5000000,
-    "checked": "2026-11-21",
+    "checked": "2026-11-28",
     "end": "2026-12-31",
     "id": "890285",
     "level": "ESTADO",
@@ -781,7 +781,7 @@
    },
    "890291": {
     "budget": 750000000,
-    "checked": "2026-11-21",
+    "checked": "2026-11-28",
     "end": "2026-12-31",
     "id": "890291",
     "level": "ESTADO",
@@ -799,7 +799,7 @@
    },
    "890292": {
     "budget": 260000000,
-    "checked": "2026-11-21",
+    "checked": "2026-11-28",
     "end": "2026-12-31",
     "id": "890292",
     "level": "ESTADO",
@@ -817,7 +817,7 @@
    },
    "890300": {
     "budget": 900000000,
-    "checked": "2026-11-21",
+    "checked": "2026-11-28",
     "end": "2026-12-31",
     "id": "890300",
     "level": "ESTADO",
@@ -835,7 +835,7 @@
    },
    "890304": {
     "budget": 800000000,
-    "checked": "2026-11-21",
+    "checked": "2026-11-28",
     "end": "2026-12-31",
     "id": "890304",
     "level": "ESTADO",
@@ -1411,24 +1411,6 @@
     "title_ca": "Subvencions per a projectes de desenvolupament experimental de tecnologies i cadenes de valor per al reciclatge tèxtil postconsum a Catalunya",
     "who": [
      "business"
-    ]
-   },
-   "936968": {
-    "budget": 2750000,
-    "checked": "2026-11-26",
-    "end": "",
-    "id": "936968",
-    "level": "AUTONOMICA",
-    "organ": "AGÈNCIA DE GESTIÓ D'AJUTS UNIVERSITARIS I DE RECERCA (AGAUR)",
-    "purpose": "Educación",
-    "received": "2026-10-21",
-    "region": "CATALUÑA",
-    "start": "2026-10-28",
-    "term": "1 Mesos",
-    "title": "Convocatoria de ayudas a la movilidad internacional del estudiantado con reconocimiento académico y a la movilidad del estudiantado en el marco del Programa de Mejora e Innovación en la Formación de docentes de las universidades catalanas (MOBINT - MIF)",
-    "title_ca": "Convocatòria d'ajuts a la mobilitat internacional de l’estudiantat amb reconeixement acadèmic i a la mobilitat de l’estudiantat en el marc del Programa de millora i innovació en la formació de mestres de les universitats catalanes (MOBINT-MIF)",
-    "who": [
-     "people"
     ]
    },
    "937289": {
@@ -2840,42 +2822,6 @@
      "entities"
     ]
    },
-   "943812": {
-    "budget": 60000,
-    "checked": "2026-11-27",
-    "end": "2026-11-27",
-    "id": "943812",
-    "level": "ESTADO",
-    "organ": "SECRETARÍA DE ESTADO DE TURISMO",
-    "purpose": "Comercio, Turismo y Pymes",
-    "received": "2026-11-20",
-    "region": "MINISTERIO DE INDUSTRIA Y TURISMO",
-    "start": "2026-11-21",
-    "term": "",
-    "title": "Subvención a FEMP, prevista en el RD 1016/2026, de 18 de noviembre, de concesión directa de subv en materia de turismo por el MINTUR, ejercicio 2026",
-    "title_ca": "",
-    "who": [
-     "business"
-    ]
-   },
-   "943813": {
-    "budget": 80000,
-    "checked": "2026-11-27",
-    "end": "2026-11-27",
-    "id": "943813",
-    "level": "ESTADO",
-    "organ": "SECRETARÍA DE ESTADO DE TURISMO",
-    "purpose": "Comercio, Turismo y Pymes",
-    "received": "2026-11-20",
-    "region": "MINISTERIO DE INDUSTRIA Y TURISMO",
-    "start": "2026-11-21",
-    "term": "",
-    "title": "Subvención a la Confederación Empresarial de Hostelería de España CEHE , prevista en el RD 1016/2026, de 18 de noviembre, de concesión directa de subv en materia de turismo por el MINTUR, ejercicio 2026",
-    "title_ca": "",
-    "who": [
-     "business"
-    ]
-   },
    "943899": {
     "budget": 1000000,
     "checked": "2026-11-23",
@@ -3531,20 +3477,6 @@
    }
   },
   "closed": [
-   "871366",
-   "871368",
-   "871377",
-   "871387",
-   "871409",
-   "871418",
-   "871422",
-   "871427",
-   "871443",
-   "871548",
-   "871569",
-   "871574",
-   "871575",
-   "871582",
    "871616",
    "871619",
    "871629",
@@ -5249,6 +5181,7 @@
    "936346",
    "936756",
    "936963",
+   "936968",
    "937166",
    "937168",
    "937238",
@@ -5393,6 +5326,8 @@
    "943546",
    "943547",
    "943548",
+   "943812",
+   "943813",
    "943863",
    "943864",
    "943865",
@@ -5435,5 +5370,5 @@
    "945397"
   ]
  },
- "fetched": "2026-11-27T16:30:11+01:00"
+ "fetched": "2026-11-28T00:40:36+01:00"
 }

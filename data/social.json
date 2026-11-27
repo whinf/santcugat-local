@@ -7,7 +7,7 @@
     "published": "2026-09-25",
     "short": false,
     "title": "Ple Municipal Setembre",
-    "views": 1303
+    "views": 1310
    },
    {
     "channel": "teatre-auditori",
@@ -15,7 +15,7 @@
     "published": "2026-06-04",
     "short": false,
     "title": "Temporada 2026/27",
-    "views": 1239
+    "views": 1241
    },
    {
     "channel": "ajuntament",
@@ -23,7 +23,15 @@
     "published": "2026-10-30",
     "short": false,
     "title": "Ple Municipal Octubre",
-    "views": 922
+    "views": 925
+   },
+   {
+    "channel": "ajuntament",
+    "id": "9K5yNh6XV4I",
+    "published": "2026-11-27",
+    "short": false,
+    "title": "Ple Novembre",
+    "views": 550
    },
    {
     "channel": "ajuntament",
@@ -31,15 +39,7 @@
     "published": "2026-10-31",
     "short": false,
     "title": "Audiència pública del ple d'octubre de 2026",
-    "views": 415
-   },
-   {
-    "channel": "ajuntament",
-    "id": "9K5yNh6XV4I",
-    "published": "2026-11-26",
-    "short": false,
-    "title": "Ple Novembre",
-    "views": 343
+    "views": 419
    },
    {
     "channel": "teatre-auditori",
@@ -47,7 +47,7 @@
     "published": "2026-09-29",
     "short": false,
     "title": "The Book of Mormon",
-    "views": 340
+    "views": 341
    },
    {
     "channel": "ajuntament",
@@ -55,7 +55,7 @@
     "published": "2026-10-27",
     "short": false,
     "title": "Ple Extraordinari Fill predilecte Octavi Galceran",
-    "views": 250
+    "views": 251
    },
    {
     "channel": "ajuntament",
@@ -63,7 +63,7 @@
     "published": "2026-09-24",
     "short": true,
     "title": "El BIVA Talent Day torna a Sant Cugat per connectar el talent universitari amb 40 empreses",
-    "views": 236
+    "views": 237
    },
    {
     "channel": "cugat-media",
@@ -71,7 +71,7 @@
     "published": "2026-11-24",
     "short": false,
     "title": "Maria Antònia Coscollola, titular del Jutjat d’Instrucció nº 24 de Barcelona",
-    "views": 171
+    "views": 185
    },
    {
     "channel": "ajuntament",
@@ -79,7 +79,7 @@
     "published": "2026-11-27",
     "short": false,
     "title": "Ple Extraordinari",
-    "views": 102
+    "views": 122
    },
    {
     "channel": "car",
@@ -95,7 +95,7 @@
     "published": "2026-10-05",
     "short": false,
     "title": "Transformació Operativa de l'Administració",
-    "views": 80
+    "views": 82
    },
    {
     "channel": "teatre-auditori",
@@ -135,7 +135,7 @@
     "published": "2026-09-24",
     "short": true,
     "title": "I tu, vols projectar el teu futur al Talent Day?",
-    "views": 48
+    "views": 51
    },
    {
     "channel": "car",
@@ -178,6 +178,14 @@
     "views": 35
    },
    {
+    "channel": "ajuntament",
+    "id": "sIdPMNjJCVQ",
+    "published": "2026-10-05",
+    "short": false,
+    "title": "Bessó Digital del Pi d'en Xandri",
+    "views": 35
+   },
+   {
     "channel": "car",
     "id": "SkXk1T6_8sU",
     "published": "2026-01-28",
@@ -191,14 +199,6 @@
     "published": "2026-01-28",
     "short": true,
     "title": "28 de enero de 2026",
-    "views": 34
-   },
-   {
-    "channel": "ajuntament",
-    "id": "sIdPMNjJCVQ",
-    "published": "2026-10-05",
-    "short": false,
-    "title": "Bessó Digital del Pi d'en Xandri",
     "views": 34
    },
    {
@@ -234,19 +234,19 @@
     "views": 29
    },
    {
-    "channel": "car",
-    "id": "2xfizEunzgo",
-    "published": "2026-05-07",
-    "short": false,
-    "title": "Ingrés al CAR Per ser consideratda admèsa definitivament al CAR hauràs de",
-    "views": 28
-   },
-   {
     "channel": "cugat-media",
     "id": "xLDtJbPfUZc",
     "published": "2026-11-25",
     "short": false,
     "title": "Les notícies del 25 de novembre",
+    "views": 29
+   },
+   {
+    "channel": "car",
+    "id": "2xfizEunzgo",
+    "published": "2026-05-07",
+    "short": false,
+    "title": "Ingrés al CAR Per ser consideratda admèsa definitivament al CAR hauràs de",
     "views": 28
    },
    {
@@ -307,6 +307,14 @@
    },
    {
     "channel": "cugat-media",
+    "id": "GQSdLfeItOw",
+    "published": "2026-11-27",
+    "short": false,
+    "title": "L'agenda del cap de setmana a Sant Cugat",
+    "views": 14
+   },
+   {
+    "channel": "cugat-media",
     "id": "fIrsdwonWoI",
     "published": "2026-11-21",
     "short": true,
@@ -319,15 +327,15 @@
     "published": "2026-11-21",
     "short": true,
     "title": "Laia Paredes, referent del Patí Hoquei Sant Cugat",
-    "views": 9
+    "views": 10
    },
    {
-    "channel": "cugat-media",
-    "id": "GQSdLfeItOw",
+    "channel": "ajuntament",
+    "id": "zhbM_t68teA",
     "published": "2026-11-27",
     "short": false,
-    "title": "L'agenda del cap de setmana a Sant Cugat",
-    "views": 8
+    "title": "Sant Cugat del Vallès",
+    "views": 10
    },
    {
     "channel": "cugat-media",
@@ -338,12 +346,12 @@
     "views": 7
    },
    {
-    "channel": "ajuntament",
-    "id": "zhbM_t68teA",
-    "published": "2026-11-27",
+    "channel": "cugat-media",
+    "id": "wgyy-690pVU",
+    "published": "2026-11-26",
     "short": false,
-    "title": "Sant Cugat del Vallès",
-    "views": 6
+    "title": "Les notícies del 26 de novembre",
+    "views": 7
    },
    {
     "channel": "cugat-media",
@@ -351,7 +359,7 @@
     "published": "2026-11-21",
     "short": true,
     "title": "Jaume Asens (Comuns – Front Ampli): “Els candidats de Netanyahu i de Trump són Feijóo i Abascal”",
-    "views": 5
+    "views": 6
    },
    {
     "channel": "cugat-media",
@@ -379,14 +387,6 @@
    },
    {
     "channel": "cugat-media",
-    "id": "wgyy-690pVU",
-    "published": "2026-11-26",
-    "short": false,
-    "title": "Les notícies del 26 de novembre",
-    "views": 4
-   },
-   {
-    "channel": "cugat-media",
     "id": "fV1bb_eug5w",
     "published": "2026-11-22",
     "short": true,
@@ -395,5 +395,5 @@
    }
   ]
  },
- "fetched": "2026-11-27T16:30:11+01:00"
+ "fetched": "2026-11-28T00:40:36+01:00"
 }

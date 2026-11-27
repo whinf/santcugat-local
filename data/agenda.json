@@ -116,16 +116,6 @@
    },
    {
     "category": "Exposicions",
-    "end": "2026-11-27",
-    "place": "Places de Sant Cugat",
-    "source": "ajuntament",
-    "start": "2026-10-27",
-    "time": "10:00",
-    "title": "Exposició del TOT Fotoportada 2026",
-    "url": "https://www.santcugat.cat/activitat/exposicio-del-tot-fotoportada-2026"
-   },
-   {
-    "category": "Exposicions",
     "end": "2026-12-01",
     "place": "Sala Rusiñol",
     "source": "ajuntament",
@@ -144,16 +134,6 @@
     "time": "De dilluns a divendres: de 10 a 14 h i de 17 a 20 h Dissabtes: de 10 a 14 h Diumenges i fe",
     "title": "Exposició \"Burs-Urbs\"",
     "url": ""
-   },
-   {
-    "category": "Exposicions",
-    "end": "2026-11-27",
-    "place": "Biblioteca de Volpelleres Miquel Batllori",
-    "source": "ajuntament",
-    "start": "2026-11-02",
-    "time": "16:00",
-    "title": "Exposició projecte fotollibre 'Una llar a l'exili' de Dani Aguilera",
-    "url": "https://www.santcugat.cat/activitat/exposicio-una-llar-a-lexili"
    },
    {
     "category": "Exposicions",
@@ -197,16 +177,6 @@
    },
    {
     "category": "Exposicions",
-    "end": "2026-11-27",
-    "place": "L'Ateneu",
-    "source": "ajuntament",
-    "start": "2026-11-06",
-    "time": "09:15",
-    "title": "Exposició. \"Petits somnis, grans destins\", de la Fundació ONGD Dream Nepal",
-    "url": "https://www.santcugat.cat/activitat/exposicio-petits-somnis-grans-destins-de-la-fundacio-ongd-dream-nepal"
-   },
-   {
-    "category": "Exposicions",
     "end": "2026-12-31",
     "place": "Canals Galeria d'Art (c. d'Orient, 24)",
     "source": "ajuntament",
@@ -214,57 +184,6 @@
     "time": "10:00",
     "title": "Exposició. \"Argimon i Grau-Garriga: Sant Cugat, territori d’avantguarda\"",
     "url": "https://www.santcugat.cat/activitat/exposicio-argimon-i-grau-garriga-sant-cugat-territori-davantguarda"
-   },
-   {
-    "category": "Infància",
-    "end": "2026-11-27",
-    "place": "Plaça Octavià",
-    "source": "ajuntament",
-    "start": "2026-11-27",
-    "time": "16:30",
-    "title": "Encesa dels llums de Nadal",
-    "url": "https://www.santcugat.cat/activitat/encesa-llums-nadal-2026"
-   },
-   {
-    "category": "Infància",
-    "end": "2026-11-27",
-    "free": true,
-    "place": "Plaça de Maria Sabater",
-    "source": "gencat",
-    "start": "2026-11-27",
-    "time": "17 h",
-    "title": "Circus Show",
-    "url": ""
-   },
-   {
-    "category": "Actes literaris",
-    "end": "2026-11-27",
-    "place": "Cal Gausac",
-    "source": "ajuntament",
-    "start": "2026-11-27",
-    "time": "19:00",
-    "title": "Conversa i presentació del llibre \"Foc al cos\". Poesia eròtica femenina catalana",
-    "url": "https://www.santcugat.cat/activitat/conversa-i-presentacio-del-llibre-foc-al-cos-poesia-erotica-femenina-catalana"
-   },
-   {
-    "category": "Teatre i dansa",
-    "end": "2026-11-27",
-    "place": "Teatre-Auditori Emma Vilarasau Sant Cugat",
-    "source": "ajuntament",
-    "start": "2026-11-27",
-    "time": "20:00",
-    "title": "Teatre. \"Els objectes flotants\"",
-    "url": "https://www.santcugat.cat/activitat/teatre-els-objectes-flotants"
-   },
-   {
-    "category": "Música",
-    "end": "2026-11-27",
-    "place": "El Siglo Mercantic",
-    "source": "ajuntament",
-    "start": "2026-11-27",
-    "time": "22:30",
-    "title": "Concert. Encanto de Loco - Tribut a El Canto del Loco",
-    "url": "https://www.santcugat.cat/activitat/concert-encanto-de-loco-tribut-a-el-canto-del-loco9"
    },
    {
     "category": "Fires i mercats",
@@ -1282,5 +1201,5 @@
    }
   ]
  },
- "fetched": "2026-11-27T16:30:11+01:00"
+ "fetched": "2026-11-28T00:40:36+01:00"
 }

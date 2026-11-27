@@ -2588,32 +2588,6 @@
     "kind": "new",
     "name": "LABODICHITA S.L.",
     "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-146-08"
-   },
-   {
-    "date": "2026-07-30",
-    "id": "2026-07-30-356196-moved_out",
-    "kind": "moved_out",
-    "name": "GOLDEN HERMES S.L.",
-    "town": "BARCELONA",
-    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-145-08"
-   },
-   {
-    "activity": "El desarrollo, explotacion y comercializacion de plataformas tecnologicas y soluciones digitales destinadas al…",
-    "capital": 3000.0,
-    "date": "2026-07-30",
-    "id": "2026-07-30-356144-new",
-    "kind": "new",
-    "name": "MAIA CARE SOLUTIONS S.L.",
-    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-145-08"
-   },
-   {
-    "activity": "Alquiler de bienes inmobiliarios por cuenta propia",
-    "capital": 3000.0,
-    "date": "2026-07-30",
-    "id": "2026-07-30-355953-new",
-    "kind": "new",
-    "name": "HOSO CAPITAL PARTNERS S.L.",
-    "url": "https://www.boe.es/diario_borme/txt.php?id=BORME-A-2026-145-08"
    }
   ],
   "known": {
@@ -3651,5 +3625,5 @@
   "last": "2026-11-27",
   "since": "2025-11-20"
  },
- "fetched": "2026-11-27T16:30:11+01:00"
+ "fetched": "2026-11-28T00:40:36+01:00"
 }
