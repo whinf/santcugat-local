@@ -7,7 +7,7 @@
     "published": "2026-09-25",
     "short": false,
     "title": "Ple Municipal Setembre",
-    "views": 1292
+    "views": 1294
    },
    {
     "channel": "teatre-auditori",
@@ -15,7 +15,7 @@
     "published": "2026-06-04",
     "short": false,
     "title": "Temporada 2026/27",
-    "views": 1238
+    "views": 1239
    },
    {
     "channel": "ajuntament",
@@ -23,7 +23,7 @@
     "published": "2026-10-30",
     "short": false,
     "title": "Ple Municipal Octubre",
-    "views": 918
+    "views": 921
    },
    {
     "channel": "ajuntament",
@@ -31,7 +31,7 @@
     "published": "2026-10-31",
     "short": false,
     "title": "Audiència pública del ple d'octubre de 2026",
-    "views": 413
+    "views": 414
    },
    {
     "channel": "teatre-auditori",
@@ -39,7 +39,7 @@
     "published": "2026-09-29",
     "short": false,
     "title": "The Book of Mormon",
-    "views": 339
+    "views": 340
    },
    {
     "channel": "ajuntament",
@@ -71,7 +71,7 @@
     "published": "2026-11-24",
     "short": false,
     "title": "Maria Antònia Coscollola, titular del Jutjat d’Instrucció nº 24 de Barcelona",
-    "views": 149
+    "views": 168
    },
    {
     "channel": "car",
@@ -88,6 +88,14 @@
     "short": false,
     "title": "Transformació Operativa de l'Administració",
     "views": 79
+   },
+   {
+    "channel": "ajuntament",
+    "id": "KrxL4U0yz9Y",
+    "published": "2026-11-23",
+    "short": false,
+    "title": "Ple Extraordinari",
+    "views": 67
    },
    {
     "channel": "teatre-auditori",
@@ -143,7 +151,7 @@
     "published": "2026-11-17",
     "short": false,
     "title": "Sant Cugat reforça la seva presència al 4YFN (MWC) 2027",
-    "views": 41
+    "views": 44
    },
    {
     "channel": "car",
@@ -155,19 +163,11 @@
    },
    {
     "channel": "ajuntament",
-    "id": "kQ6pwxTvc4s",
-    "published": "2026-09-10",
-    "short": false,
-    "title": "Descobreix l'hort comunitari de Coll Favà",
-    "views": 36
-   },
-   {
-    "channel": "ajuntament",
     "id": "Z8Pdnj0AOVY",
     "published": "2026-11-16",
     "short": true,
     "title": "Jordi Sunyer, investigador de l'ISGLOBAL: Els beneficis d’una gestió sostenible dels espais naturals",
-    "views": 35
+    "views": 36
    },
    {
     "channel": "car",
@@ -250,20 +250,20 @@
     "views": 28
    },
    {
+    "channel": "ajuntament",
+    "id": "Xqa5RZG32nM",
+    "published": "2026-11-16",
+    "short": false,
+    "title": "El Tech Spirit BIVA reuneix a Sant Cugat més de 250 professionals del sector tecnològic i innovador",
+    "views": 26
+   },
+   {
     "channel": "car",
     "id": "kcvhk8xmWCU",
     "published": "2026-01-28",
     "short": true,
     "title": "28 de enero de 2026",
     "views": 26
-   },
-   {
-    "channel": "ajuntament",
-    "id": "Xqa5RZG32nM",
-    "published": "2026-11-16",
-    "short": false,
-    "title": "El Tech Spirit BIVA reuneix a Sant Cugat més de 250 professionals del sector tecnològic i innovador",
-    "views": 25
    },
    {
     "channel": "cugat-media",
@@ -355,19 +355,19 @@
    },
    {
     "channel": "cugat-media",
+    "id": "-qMoQ2o4bAE",
+    "published": "2026-11-25",
+    "short": true,
+    "title": "El dret a l'habitatge com a condició d'una vida digna per a les dones",
+    "views": 4
+   },
+   {
+    "channel": "cugat-media",
     "id": "NxHT8n-9wTw",
     "published": "2026-11-25",
     "short": true,
     "title": "Què podem fer com a societat per combatre les violències masclistes?",
     "views": 4
-   },
-   {
-    "channel": "cugat-media",
-    "id": "-qMoQ2o4bAE",
-    "published": "2026-11-25",
-    "short": true,
-    "title": "El dret a l'habitatge com a condició d'una vida digna per a les dones",
-    "views": 3
    },
    {
     "channel": "cugat-media",
@@ -387,13 +387,13 @@
    },
    {
     "channel": "ajuntament",
-    "id": "KrxL4U0yz9Y",
-    "published": "2026-11-23",
+    "id": "9K5yNh6XV4I",
+    "published": "2026-11-26",
     "short": false,
-    "title": "Ple Extraordinari",
+    "title": "Ple Novembre",
     "views": 0
    }
   ]
  },
- "fetched": "2026-11-26T16:41:37+01:00"
+ "fetched": "2026-11-27T03:22:34+01:00"
 }

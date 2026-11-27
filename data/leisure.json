@@ -3501,21 +3501,6 @@
    "group": "heritage",
    "hours": "",
    "km": "",
-   "lat": 41.4445436,
-   "lon": 2.1176429,
-   "name": "Can Gener",
-   "osm": "way/385190802",
-   "phone": "",
-   "ref": "",
-   "type": "manor",
-   "web": ""
-  },
-  {
-   "address": "",
-   "cuisine": "",
-   "group": "heritage",
-   "hours": "",
-   "km": "",
    "lat": 41.4454358,
    "lon": 2.1011225,
    "name": "Can Gordi",
@@ -3523,6 +3508,21 @@
    "phone": "",
    "ref": "",
    "type": "ruins",
+   "web": ""
+  },
+  {
+   "address": "Camí de Can Jané",
+   "cuisine": "",
+   "group": "heritage",
+   "hours": "",
+   "km": "",
+   "lat": 41.4445436,
+   "lon": 2.1176429,
+   "name": "Can Jané",
+   "osm": "way/385190802",
+   "phone": "",
+   "ref": "",
+   "type": "manor",
    "web": ""
   },
   {
@@ -3893,7 +3893,7 @@
    "km": "",
    "lat": 41.4442241,
    "lon": 2.1189222,
-   "name": "Font de Can Gener",
+   "name": "Font de Can Jané",
    "osm": "node/4439425328",
    "phone": "",
    "ref": "",
@@ -5206,5 +5206,5 @@
    "web": ""
   }
  ],
- "fetched": "2026-11-23T22:42:29+01:00"
+ "fetched": "2026-11-27T03:22:34+01:00"
 }

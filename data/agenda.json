@@ -216,76 +216,6 @@
     "url": "https://www.santcugat.cat/activitat/exposicio-argimon-i-grau-garriga-sant-cugat-territori-davantguarda"
    },
    {
-    "category": "Altres activitats",
-    "end": "2026-11-26",
-    "place": "Parc de les Dones (la Floresta)",
-    "source": "ajuntament",
-    "start": "2026-11-26",
-    "time": "12:00",
-    "title": "Taitxí per a adults als parcs. Parc de les Dones",
-    "url": "https://www.santcugat.cat/activitat/taitxi-per-adults-als-parcs-parc-de-les-dones3"
-   },
-   {
-    "category": "Cursos i tallers",
-    "end": "2026-11-26",
-    "place": "Casa de Cultura",
-    "source": "ajuntament",
-    "start": "2026-11-26",
-    "time": "12:30",
-    "title": "Taller. \"Fem front al maltractament\"",
-    "url": "https://www.santcugat.cat/activitat/taller-fem-front-al-maltractament2"
-   },
-   {
-    "category": "Altres activitats",
-    "end": "2026-11-26",
-    "place": "Ajuntament de Sant Cugat del Vallès",
-    "source": "ajuntament",
-    "start": "2026-11-26",
-    "time": "18:30",
-    "title": "Lliurament de la Medalla d'Honor de Sant Cugat a l'Associació de propietaris veïns de Floresta Pearson",
-    "url": "https://www.santcugat.cat/activitat/lliurament-de-la-medalla-dhonor-de-sant-cugat-a-lassociacio-de-propietaris-veins-de-floresta-pearson"
-   },
-   {
-    "category": "Cinema",
-    "end": "2026-11-26",
-    "place": "L'Ateneu",
-    "source": "ajuntament",
-    "start": "2026-11-26",
-    "time": "19:00",
-    "title": "Cicle Salut Mental. Documental: \"Anhedonia, dins de la depressió\" i col·loqui",
-    "url": "https://www.santcugat.cat/activitat/cicle-salut-mental-documental-anhedonia-dins-de-la-depressio-i-coloqui"
-   },
-   {
-    "category": "Conferències",
-    "end": "2026-11-26",
-    "place": "Biblioteca de Volpelleres Miquel Batllori",
-    "source": "ajuntament",
-    "start": "2026-11-26",
-    "time": "19:00",
-    "title": "Qgat Negre. Conferència. \"Dones detectius\"",
-    "url": "https://www.santcugat.cat/activitat/qgat-negre-conferencia-dones-detectius"
-   },
-   {
-    "category": "Música",
-    "end": "2026-11-26",
-    "place": "El Siglo Mercantic",
-    "source": "ajuntament",
-    "start": "2026-11-26",
-    "time": "20:00",
-    "title": "Cicle de músics emergents \"Originals\". Claudia Steccato",
-    "url": "https://www.santcugat.cat/activitat/cicle-de-musics-emergents-originals-claudia-steccato"
-   },
-   {
-    "category": "Música",
-    "end": "2026-11-26",
-    "place": "Casal Torreblanca (Bar Bocamoll)",
-    "source": "ajuntament",
-    "start": "2026-11-26",
-    "time": "20:00",
-    "title": "La Pua - Música de Petit Format. Oscar Bernat",
-    "url": "https://www.santcugat.cat/activitat/la-pua-musica-de-petit-format-oscar-bernat"
-   },
-   {
     "category": "Infància",
     "end": "2026-11-27",
     "place": "Plaça Octavià",
@@ -1352,5 +1282,5 @@
    }
   ]
  },
- "fetched": "2026-11-26T16:41:37+01:00"
+ "fetched": "2026-11-27T03:22:34+01:00"
 }
