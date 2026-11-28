@@ -7,7 +7,7 @@
     "published": "2026-09-25",
     "short": false,
     "title": "Ple Municipal Setembre",
-    "views": 1310
+    "views": 1311
    },
    {
     "channel": "teatre-auditori",
@@ -23,7 +23,7 @@
     "published": "2026-10-30",
     "short": false,
     "title": "Ple Municipal Octubre",
-    "views": 925
+    "views": 926
    },
    {
     "channel": "ajuntament",
@@ -31,7 +31,7 @@
     "published": "2026-11-27",
     "short": false,
     "title": "Ple Novembre",
-    "views": 550
+    "views": 584
    },
    {
     "channel": "ajuntament",
@@ -47,7 +47,7 @@
     "published": "2026-09-29",
     "short": false,
     "title": "The Book of Mormon",
-    "views": 341
+    "views": 342
    },
    {
     "channel": "ajuntament",
@@ -71,7 +71,7 @@
     "published": "2026-11-24",
     "short": false,
     "title": "Maria Antònia Coscollola, titular del Jutjat d’Instrucció nº 24 de Barcelona",
-    "views": 185
+    "views": 195
    },
    {
     "channel": "ajuntament",
@@ -79,7 +79,7 @@
     "published": "2026-11-27",
     "short": false,
     "title": "Ple Extraordinari",
-    "views": 122
+    "views": 139
    },
    {
     "channel": "car",
@@ -322,19 +322,19 @@
     "views": 12
    },
    {
-    "channel": "cugat-media",
-    "id": "ryhAv_1JoMk",
-    "published": "2026-11-21",
-    "short": true,
-    "title": "Laia Paredes, referent del Patí Hoquei Sant Cugat",
-    "views": 10
-   },
-   {
     "channel": "ajuntament",
     "id": "zhbM_t68teA",
     "published": "2026-11-27",
     "short": false,
     "title": "Sant Cugat del Vallès",
+    "views": 11
+   },
+   {
+    "channel": "cugat-media",
+    "id": "ryhAv_1JoMk",
+    "published": "2026-11-21",
+    "short": true,
+    "title": "Laia Paredes, referent del Patí Hoquei Sant Cugat",
     "views": 10
    },
    {
@@ -363,19 +363,19 @@
    },
    {
     "channel": "cugat-media",
+    "id": "-qMoQ2o4bAE",
+    "published": "2026-11-25",
+    "short": true,
+    "title": "El dret a l'habitatge com a condició d'una vida digna per a les dones",
+    "views": 5
+   },
+   {
+    "channel": "cugat-media",
     "id": "vwJEYuqgq7E",
     "published": "2026-11-24",
     "short": true,
     "title": "La IA també discrimina",
     "views": 5
-   },
-   {
-    "channel": "cugat-media",
-    "id": "-qMoQ2o4bAE",
-    "published": "2026-11-25",
-    "short": true,
-    "title": "El dret a l'habitatge com a condició d'una vida digna per a les dones",
-    "views": 4
    },
    {
     "channel": "cugat-media",
@@ -395,5 +395,5 @@
    }
   ]
  },
- "fetched": "2026-11-28T00:40:36+01:00"
+ "fetched": "2026-11-28T15:28:01+01:00"
 }
